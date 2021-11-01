@@ -1,0 +1,13 @@
+
+0 records for link
+1. names in capitals
+2. Clean idade. Sometimes was reported as yob, dob, or idade. I cleaned it to make it consistent (we have missing idade for Assitentes, MUVA +, TECHm)
+ 20% are missing age.
+
+3. Sexo was reported in capitals, lower, both, and some typos. 16% are missing sexo. 90% are females
+
+4. There were typos with the variable cilco. 306 obs are missing cliclo
+
+5. year of participation: some where in years, other in dates, etc. I made all years
+
+6. duration of the participation: 129 missing values
