@@ -1,8 +1,9 @@
 #clean raw data
+cli::cli_alert_info("cleaning raw data")
 
-infile <- file.path(dir_raw_appended, "muva_follow_up_raw.rds")
-exfile <- file.path(dir_clean, "muva_follow_up_clean.rds")
-exfile_xlsx <- file.path(dir_clean, "muva_follow_up_clean.xlsx")
+infile <- file.path(dir_prep_raw_appended, "muva_follow_up_raw.rds")
+exfile <- file.path(dir_prep_clean, "muva_follow_up_clean.rds")
+exfile_xlsx <- file.path(dir_prep_clean, "muva_follow_up_clean.xlsx")
 
 
 #import ----------------------------------------------------------------------
@@ -63,6 +64,6 @@ c <- r %>%
 
 #export=========================================================================
 rio::export(c, exfile)
-rio::export(c, exfile_xlsx)
+rio::export(c, exfile_xlsx, overwrite = T)
 
 

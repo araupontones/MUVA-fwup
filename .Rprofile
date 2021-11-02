@@ -34,10 +34,16 @@ db <- "C:/Users/andre/Dropbox/LIGADA MEL/MEL working/09 Follow up studies"
 db_data <- file.path(db, "data")
 
 dir_data <- "data"
-dir_raw <- file.path(dir_data, "raw")
-dir_raw_appended <- file.path(dir_data, "raw_appended")
-dir_clean <- file.path(dir_data, "clean")
-dir_data_dash <- file.path(dir_data, "dashboard")
+
+#preparation: data to create the sample frame ---------------------------------
+dir_data_prep <- file.path(dir_data, "Preparation")
+
+    dir_prep_raw <- file.path(dir_data_prep, "raw")
+    dir_prep_raw_appended <- file.path(dir_data_prep, "raw_appended")
+    dir_prep_clean <- file.path(dir_data_prep, "clean")
+
+#follow-up: data collected in the follow up-------------------------------------
+
 dir_shapes <- "shapes"
 
 

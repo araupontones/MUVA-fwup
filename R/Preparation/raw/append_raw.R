@@ -1,10 +1,13 @@
 # append data --------------------------------------------------------------------
-indir <- dir_raw
-exfile <- file.path(dir_raw_appended, "muva_follow_up_raw.rds")
+cli::cli_alert("Appending raw data and saving in Preparation/raw/appended")
+
+indir <- dir_prep_raw #first run copy_raw_from_dropbox.R
+exfile <- file.path(dir_prep_raw_appended, "muva_follow_up_raw.rds")
 
 
 #list files in raw folder
 files_raw <- list.files(indir, full.names = T)
+
 
 
 #function to import and check names of variables
@@ -37,5 +40,5 @@ append_db <- do.call(plyr::rbind.fill, list_of_files)
 
 
 
-class(append_db$ano_participacao)
+
 rio::export(append_db, exfile)
