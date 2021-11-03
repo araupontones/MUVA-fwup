@@ -44,6 +44,12 @@ dir_data_prep <- file.path(dir_data, "Preparation")
 
 #follow-up: data collected in the follow up-------------------------------------
 
+    
+#plots ************************************************************************
+    dir_plots <- "plots"
+    dir_prep_plots <- file.path(dir_plots, "Preparation")
+    
+#shapes ------------------------------------------------------------------------
 dir_shapes <- "shapes"
 
 
@@ -61,3 +67,4 @@ suppressWarnings({
 })
 
 gmdacr::load_functions('functions')
+gmdacr::load_functions('functions_plots')

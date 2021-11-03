@@ -2,6 +2,7 @@
 clean_telefone <- function(.data){
   .data %>%
     mutate(
+      
       #The two telefones came separatate by a slash
       telefone_1 = case_when(telefone_1 == "##N/A##" ~ "Sem contacto",
                              telefone_1 == "sem contacto" ~ "Sem contacto",
@@ -9,12 +10,13 @@ clean_telefone <- function(.data){
                              T ~ telefone_1), 
       telefone_1 = str_replace(telefone_1, "Famicha", ""),
       telefone_1 = str_replace_all(telefone_1, "-", ""),
-      
+      telefone_2 = str_remove_all(telefone_2,"[a-zA-Z]|-"),
       telefone = case_when(!str_detect(telefone_1, "\\/") ~ telefone_1,
                            str_detect(telefone_1, "\\/") ~ str_extract(telefone_1 , "(?<=^).*(?=\\/)" )
       ),
       
-      telefone2 = str_extract(telefone_1, "(?<=\\/).*(?=$)"),
+      telefone2 = case_when(is.na(telefone_2) ~str_extract(telefone_1, "(?<=\\/).*(?=$)"),
+                            T ~ telefone_2),
       across(c(telefone, telefone2), beauty_telefone),
       telefone = case_when(str_detect(telefone, "Sem") ~ "Sem Contacto",
                            T ~ telefone)

@@ -16,3 +16,13 @@ source(file.path(r_dir_clean, "summary_clean_data.R"), encoding = "utf-8")
 #create summary
 
 source(file.path(r_dir_clean, "create_table_of_duplicates.R"), encoding = "utf-8")
+
+
+#plots
+
+plot_scripts <- list.files(r_dir_clean, pattern = "plot_", full.names = T)
+
+for(plot in plot_scripts){
+  
+  source(plot, encoding = 'utf-8')
+}

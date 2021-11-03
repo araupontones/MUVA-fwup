@@ -42,7 +42,7 @@ c <- r %>%
                               T ~ projecto) ,
          
          #there are typos with ciclo
-         ciclo = str_extract(ciclo, "[0-9]"),
+         ciclo = str_remove_all(ciclo, " - [C-c]iclo"),
          #problems with ano participacao, some m-Y, others only year
          ano_p = as.numeric(ano_participacao),
          ano_p = case_when(ano_p > 2021 ~ as.Date(ano_p, origin = "1899-12-30"),
@@ -58,7 +58,7 @@ c <- r %>%
   clean_telefone() |>
   clean_cidade() |>
   clean_provincia() |>#see functions
-  select(-telefone_1, telefone_2,dob, yob, ano_p) #drop vars used for cleaning
+  select(-telefone_1,dob, yob, ano_p) #drop vars used for cleaning
 
 
 

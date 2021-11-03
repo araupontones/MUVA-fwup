@@ -4,7 +4,8 @@ infile <- file.path(dir_prep_clean, "muva_follow_up_clean.rds")
 exfile <- file.path(dir_prep_clean, "duplicados_clean.xlsx")
 
 
-c <-muva_follow_up_clean
+c <-import(infile)
+
 
 
 dups <- c %>% get_dupes(nome, projecto) %>%
