@@ -35,6 +35,8 @@ db_data <- file.path(db, "data")
 
 dir_data <- "data"
 
+dir_data_ref <- file.path(dir_data, "Reference")
+
 #preparation: data to create the sample frame ---------------------------------
 dir_data_prep <- file.path(dir_data, "Preparation")
 
@@ -42,9 +44,14 @@ dir_data_prep <- file.path(dir_data, "Preparation")
     dir_prep_raw_appended <- file.path(dir_data_prep, "raw_appended")
     dir_prep_clean <- file.path(dir_data_prep, "clean")
 
-#follow-up: data collected in the follow up-------------------------------------
+#Confirmation: data to confirm contacts -------------------------------------
+dir_data_confirmation <- file.path(dir_data, "Confirmation")
+    dir_conf_lookUps <- file.path(dir_data_confirmation, "lookups")
+    dir_conf_zoholookUps <- file.path(dir_data_confirmation, "lookUpsZoho")
+    
 
     
+#follow-up: data collected in the follow up-------------------------------------
 #plots ************************************************************************
     dir_plots <- "plots"
     dir_prep_plots <- file.path(dir_plots, "Preparation")

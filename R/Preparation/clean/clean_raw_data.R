@@ -2,12 +2,14 @@
 cli::cli_alert_info("cleaning raw data")
 
 infile <- file.path(dir_prep_raw_appended, "muva_follow_up_raw.rds")
+infileCidade <- file.path(dir_data_ref, "cidades.xlsx")
 exfile <- file.path(dir_prep_clean, "muva_follow_up_clean.rds")
 exfile_xlsx <- file.path(dir_prep_clean, "muva_follow_up_clean.xlsx")
 
 
 #import ----------------------------------------------------------------------
 r <- import(infile)
+cidade <- import(infileCidade)
 
 #inspect -----------------------------------------------------------------------
 
@@ -58,10 +60,12 @@ c <- r %>%
   clean_telefone() |>
   clean_cidade() |>
   clean_provincia() |>#see functions
-  select(-telefone_1,dob, yob, ano_p) #drop vars used for cleaning
+  clean_duplicates() |>
+  clean_cidade2() |>
+  select(-telefone_1,dob, -yob,  -count,-ano_p, -out, -ordem)#drop vars used for cleaning
 
-
-
+names(c)
+View(c)
 #export=========================================================================
 rio::export(c, exfile)
 rio::export(c, exfile_xlsx, overwrite = T)
