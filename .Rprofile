@@ -48,6 +48,7 @@ dir_data_prep <- file.path(dir_data, "Preparation")
 dir_data_confirmation <- file.path(dir_data, "Confirmation")
     dir_conf_lookUps <- file.path(dir_data_confirmation, "lookups")
     dir_conf_zoholookUps <- file.path(dir_data_confirmation, "lookUpsZoho")
+    dir_conf_downloads <- file.path(dir_data_confirmation, "downloads")
     
 
     
