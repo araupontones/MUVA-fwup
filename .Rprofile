@@ -49,10 +49,18 @@ dir_data_confirmation <- file.path(dir_data, "Confirmation")
     dir_conf_lookUps <- file.path(dir_data_confirmation, "lookups")
     dir_conf_zoholookUps <- file.path(dir_data_confirmation, "lookUpsZoho")
     dir_conf_downloads <- file.path(dir_data_confirmation, "downloads")
+    dir_conf_clean <- file.path(dir_data_confirmation, "clean")
     
+  
 
     
 #follow-up: data collected in the follow up-------------------------------------
+    dir_data_fp <- file.path(dir_data, "Follow-up")
+      dir_fp_sample <- file.path(dir_data_fp, "sample")
+    
+    
+    
+    
 #plots ************************************************************************
     dir_plots <- "plots"
     dir_prep_plots <- file.path(dir_plots, "Preparation")

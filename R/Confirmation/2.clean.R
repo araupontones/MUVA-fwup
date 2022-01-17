@@ -7,7 +7,7 @@ exfile_count <- file.path(dir_conf_clean, "confirmation_summary.xlsx")
 
 dwls <- import(infile)
 
-View(dwls)
+
 #clean provincia, cidade, bairro ----------------------------------------------
 
 d_loc <- dwls %>%
@@ -35,12 +35,92 @@ d_loc <- dwls %>%
                             str_detect(bairro, "Bela Vista") ~ "Bela Vista",
                             bairro == "Central" & cidade == "Maputo" ~ "Central A",
                             bairro == "Hulene" & cidade == "Maputo" ~ "Hulene A",
+                            T ~ bairro),
+         
+         across(c(telefone1, telefone2), function(x)str_remove(x, "\\+258")),
+         across(c(telefone1, telefone2), function(x)beauty_telefone(x)),
+         
+         #Gaza 
+         bairro = case_when(cidade == "Chokwé" & str_detect(bairro,"Terceiro") ~ "Terceiro Bairro",
+                            cidade == "Chokwé" & str_detect(bairro,"4|Quarto") ~ "Quarto Bairro",
+                            cidade == "Chokwé" & str_detect(bairro,"5|Quinto|Quito") ~ "Quinto Bairro",
+                            cidade == "Chokwé" & str_detect(bairro,"6") ~ "Sexto Bairro",
+                            
+                            cidade == "Chonguene" & str_detect(bairro,"Fidel") ~ "Fidel Castro",
+                            cidade == "Chonguene" & str_detect(bairro,"Nho") ~ "Nhoquene",
+                            cidade == "Chonguene" & str_detect(bairro,"Bango") ~ "Bango",
+                            cidade == "Chonguene" & str_detect(bairro,"2") ~ "Segundo Bairro",
+                            cidade == "Chonguene" & str_detect(bairro,"3") ~ "Terceiro Bairro",
+                            
+                            cidade == "Xai-Xai" & str_detect(bairro,"Castro") ~ "Fidel Castro",
+                            cidade == "Xai-Xai" & str_detect(bairro,"Choguene|Choeguene|Chogoen|Chonguene") ~ "Chonguene",
+                            cidade == "Xai-Xai" & str_detect(bairro,"Patrice") ~ "Patrice Lumumba",
+                            cidade == "Xai-Xai" & str_detect(bairro,"Bango") ~ "Bango",
+                            cidade == "Xai-Xai" & str_detect(bairro,"Chilequene") ~ "Chilenguene",
+                            cidade == "Xai-Xai" & str_detect(bairro,"Ngulelene|Ngangalene") ~ "Ngulelene",
+                            cidade == "Xai-Xai" & str_detect(bairro,"2000") ~ "2000",
+                            cidade == "Xai-Xai" & str_detect(bairro,"Chissano") ~ "Chissano",
+                            cidade == "Xai-Xai" & bairro == "1" ~ "Primeiro Bairro",
+                            cidade == "Xai-Xai" & bairro == "3 Bairo" ~ "Terceiro Bairro",
+                            
+                            cidade == "Limpopo" & str_detect(bairro,"Chissano") ~ "Chissano",
+                            
+                            
+                            provincia == "Maputo Cidade" & str_detect(bairro,"Polana Canico A") ~ "Polana Caniço A",
+                            provincia == "Maputo Cidade" & str_detect(bairro,"Polana Canico B") ~ "Polana Caniço B",
+                            provincia == "Maputo Cidade" & str_detect(bairro,"Matutuine") ~ "Matutuine",
+                            provincia == "Maputo Cidade" & str_detect(bairro,"Nhagoi") ~ "Nhagoi",
+                            provincia == "Maputo Cidade" & str_detect(bairro,"Urbanizacao") ~ "Urbanização",
+                            provincia == "Maputo Cidade" & str_detect(bairro,"Unidade") ~ "Unidade",
+                            provincia == "Maputo Cidade" & bairro == "Maxaquene" ~ "Maxaquene A",
+                            
+                            provincia == "Maputo Provincia" & str_detect(bairro,"Mahubo") ~ "Mahubo",
+                            provincia == "Maputo Provincia" & str_detect(bairro,"Goba") ~ "Goba",
+                            provincia == "Maputo Provincia" & str_detect(bairro,"Mahelane|Mahaelani") ~ "Mahelane",
+                            provincia == "Maputo Provincia" & str_detect(bairro,"Liberdade") ~ "Liberdade",
+                            provincia == "Maputo Provincia" & str_detect(bairro,"Maelane") ~ "Mahelane",
+                            provincia == "Maputo Provincia" & str_detect(bairro,"Cobe") ~ "Khobe",
+                            provincia == "Maputo Provincia" & str_detect(bairro,"Infulene") ~ "Infulene",
+                            provincia == "Maputo Provincia" & str_detect(bairro,"Machava") ~ "Machava",
+                            provincia == "Maputo Provincia" & str_detect(bairro,"Matleme") ~ "Matlhemele",
+                            provincia == "Maputo Provincia" & str_detect(bairro,"Mualaze") ~ "Muhalaze",
+                            
+                            
+                            provincia == "Maputo Provincia" & bairro == "Matola" ~ "Matola A",
+                            provincia == "Maputo Provincia" & bairro == "Matola 700" ~ "Matola A",
+                           
+                           
+                            provincia == "Maputo Provincia" & bairro == "1" ~ "Primero Bairro",
+                            provincia == "Maputo Provincia" & bairro == "2" ~ "Segundo Bairro",
+                            provincia == "Maputo Provincia" & bairro == "7" ~ "Bairro 7",
+                            provincia == "Maputo Provincia" & bairro == "B" ~ "Bairro B",
+                            provincia == "Maputo Provincia" & bairro == "13" ~ "Bairro 13",
+                            provincia == "Maputo Provincia" & bairro == "F" ~ "Bairro F",
+                            
+                            
+                            bairro == "" ~ "Sem Bairro",
+                            
                             T ~ bairro)
          
-         )
+         
+         ) |>
+  mutate(provincia = case_when(cidade == "Mahotas" ~ "Maputo Cidade",
+                               bairro == "2 Chicumbane" ~ "Gaza",
+                               T ~ provincia),
+         bairro = case_when(cidade == "Mahotas" ~ "Mahotas",
+                                        T ~ bairro),
+         cidade = case_when(cidade == "Mahotas" ~ "Maputo",
+                            bairro == "2 Chicumbane" ~ "Xai-Xai",
+                            T ~ cidade)
+         ) %>%
+  distinct()
 
 
 
+
+
+
+#d_loc |> tabyl(bairro)
 
 #to fetch information from reference data --------------------------------------
 infile_ref <- file.path(dir_prep_clean, "muva_follow_up_clean.rds")
@@ -48,27 +128,34 @@ ref <- import(infile_ref) |>
   mutate(nome = str_remove_all(nome, '"'),
          nome = str_replace(nome, "DIA\\.", "DIA"),
          nome = str_trim(nome)) |>
-  select(participante = nome, 
+  select(participante = nome,
+         sexo,
          telefone_ref = telefone,
          telefone_ref_2 = telefone2)
 
 
+
+
 d_phone <- d_loc |>
-  left_join(ref, by = "participante")
+  left_join(ref, by = "participante") |>
+  mutate(telefone1 = case_when(is.na(telefone1) ~ telefone_ref,
+                               T ~ telefone1)) %>%
+  select(-matches("ref")) %>%
+  relocate(sexo, .after = "participante")
 
-View(d_phone)
 
-names(d_phone)
 
-setdiff(d_loc$participante, ref$participante)
+
 
 
 
 
 
 #export --------------------------------------------------------------------------
-d_summary <- d_loc |> group_by(provincia, cidade) |> summarise(confirmados = n()) |> mutate(enquerito = "")
 
+export(d_phone, exfile)
+
+d_summary <- d_loc |> group_by(provincia, cidade) |> summarise(confirmados = n()) |> mutate(enquerito = "")
 export(d_summary, exfile_count, overwrite = T)
 
 

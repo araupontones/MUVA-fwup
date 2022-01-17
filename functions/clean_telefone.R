@@ -27,7 +27,8 @@ clean_telefone <- function(.data){
 
 beauty_telefone <- function(str){
   
-  case_when( !is.na(str) ~  as.character(glue("{str_sub(str, 1,3)}-{str_sub(str, 4,6)}-{str_sub(str, 7,10)}")),
+  case_when( str_length(str) == 0 ~ NA_character_, 
+            !is.na(str) ~  as.character(glue("{str_sub(str, 1,3)}-{str_sub(str, 4,6)}-{str_sub(str, 7,10)}")),
              T ~ NA_character_)
   
   
