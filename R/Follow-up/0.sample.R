@@ -60,7 +60,7 @@ ids |> tabyl(project)
 
 #View(ids)
 
-
+names(ids)
 
 #export --------------------------------------------------------------------------
 exfile
@@ -72,34 +72,32 @@ export(ids, exfile)
 ids |> group_by(provincia, cidade) |> summarise(total = n()) %>% export(., exsummary, overwrite = T)
 
 
-#lista dos bairros
+#lista dos bairros --------------------------------------------------------
 bairros <- ids |> filter(cidade %in% c("Maputo", "Beira", "Matola")) |> group_by(cidade, bairro) |> summarise(participantes = n())
-View(bairros)
-View(ids)
 
-cidades <- unique(bairros[["cidade"]])
-
-hs <- openxlsx::createStyle(
-  textDecoration = "BOLD", fontColour = "#FFFFFF", fontSize = 12,
-  fontName = "Arial Narrow", fgFill = "#4F80BD"
-)
-
-
-
-
-
-for( i in 1:length(cidades)){
-  
-  selected = cidades[i]
-  
-  
-  data_export <- bairros |> filter(cidade == selected)
-  
-  exfile <- file.path(dir_fp_sample,glue("lista_bairros_{selected}.xlsx"))
-  
-  
-  export(data_export, exfile, sheetName = selected, colWidths = c("22", "22", "11"), headerStyle = hs,
-         overwrite = T,  borders = "all", gridLines = FALSE)
-  
-  
-}
+# 
+# 
+# 
+# cidades <- unique(bairros[["cidade"]])
+# 
+# hs <- openxlsx::createStyle(
+#   textDecoration = "BOLD", fontColour = "#FFFFFF", fontSize = 12,
+#   fontName = "Arial Narrow", fgFill = "#4F80BD"
+# )
+# 
+# 
+# for( i in 1:length(cidades)){
+#   
+#   selected = cidades[i]
+#   
+#   
+#   data_export <- bairros |> filter(cidade == selected)
+#   
+#   exfile <- file.path(dir_fp_sample,glue("lista_bairros_{selected}.xlsx"))
+#   
+#   
+#   export(data_export, exfile, sheetName = selected, colWidths = c("22", "22", "11"), headerStyle = hs,
+#          overwrite = T,  borders = "all", gridLines = FALSE)
+#   
+#   
+# }

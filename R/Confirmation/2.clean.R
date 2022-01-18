@@ -71,11 +71,6 @@ d_loc <- dwls %>%
            cidade == "Beira" & str_detect(bairro,"Pontagea")  ~ "Pontageia",
            cidade == "Beira" & str_detect(bairro,"Marrava")  ~ "Marrava",
            
-           
-          
-
-           
-           
            #Gaza
            cidade == "Chokwé" & str_detect(bairro,"Terceiro") ~ "Terceiro Bairro",
            cidade == "Chokwé" & str_detect(bairro,"4|Quarto") ~ "Quarto Bairro",
@@ -151,11 +146,32 @@ d_loc <- dwls %>%
                             bairro == "2 Chicumbane" ~ "Xai-Xai",
                             T ~ cidade)
   ) %>%
-  distinct()
+  #clean casa_numero
+  mutate(numero = case_when(str_detect(casa_numero, "NAO TE|VA MAND|U1O|NAO|DE DAR|SABE") ~ "",
+                            str_detect(casa_numero, "NA|Na|N.A") ~ "",
+                            str_length(casa_numero) >4 ~ "",
+                            T ~ casa_numero),
+         numero = str_remove_all(numero, "^00"),
+         numero = str_remove_all(numero, "^0"),
+         numero = case_when(numero != "" ~ paste("N°", numero),
+                            T ~ numero),
+         
+         rua2 = case_when(str_detect(rua, "NAO CON|NAO DEU|NAO FORNECEU|NAO TEM|NAO SABE|^NAO NOMEADAS|Nao tem|Nao sabe|NAO TRM") ~ "",
+                          str_detect(rua, "NAO ESTAO|NAO NOME|N SABE|NAO ESTAO|NAO NOME|N SABE|NAO SBE") ~"",
+                          rua %in% c("N A","N DISSE","N.A","N.E","N.A","Na","NA", "N.S") ~ "",
+                          str_detect(rua, "^[0-9]") ~ paste("Rua", rua),
+                          str_length(rua) ==1  ~ paste("Rua", rua),
+                          T ~ rua),
+         endereco = paste(rua2, numero)
+         
+         ) %>%
+  
+  distinct() %>%
+  select(-c(numero, rua, rua2))
 
 
 
-
+#d_loc |> group_by(rua, endereco) |> slice(1) %>% select(rua, endereco) %>% arrange(rua) %>% View(.)
 
 
 #d_loc |> tabyl(bairro)
@@ -178,7 +194,7 @@ d_phone <- d_loc |>
   left_join(ref, by = "participante") |>
   mutate(telefone1 = case_when(is.na(telefone1) ~ telefone_ref,
                                T ~ telefone1)) %>%
-  select(-matches("ref")) %>%
+  select(-matches("telefone_ref")) %>%
   relocate(sexo, .after = "participante")
 
 
