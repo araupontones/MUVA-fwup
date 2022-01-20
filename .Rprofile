@@ -30,7 +30,7 @@ libraries <- c(
 
 #define paths -----------------------------------------------------------------
 
-db <- "C:/Users/andre/Dropbox/LIGADA MEL/MEL working/09 Follow up studies"
+db <- "C:/Users/andre/Dropbox/A0583 MUVA Follow-Up Survey"
 db_data <- file.path(db, "data")
 
 dir_data <- "data"
@@ -59,8 +59,13 @@ dir_data_confirmation <- file.path(dir_data, "Confirmation")
       dir_fp_sample <- file.path(dir_data_fp, "sample")
     
     
+
+      
+#dropbox----------------------------------------------------------------------
+      
+      db_design <- file.path(db, "01 Design")
     
-    
+
 #plots ************************************************************************
     dir_plots <- "plots"
     dir_prep_plots <- file.path(dir_plots, "Preparation")

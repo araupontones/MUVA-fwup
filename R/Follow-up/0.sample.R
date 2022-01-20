@@ -1,7 +1,7 @@
 infile <- file.path(dir_conf_clean, "confirmation_clean.rds")
 exfile <- file.path(dir_fp_sample, "sample.rds")
 exsummary <- file.path(dir_fp_sample, "respondents_by_city.xlsx")
-exbairros <- file.path(dir_fp_sample, "ista_dos_bairros.xlsx")
+exbairros <- file.path(db_design, "ista_dos_bairros.xlsx")
 
 
 
@@ -23,19 +23,19 @@ target <- conf %>%
                             T ~ FALSE
   )
   ) %>%
-  filter(target)
+  filter(target) 
 
 
 
+str_remove("1 QUARTEIRAO", "QUARTEIRAO")
 target |> tabyl(cidade)
 target |> filter(provincia == "Maputo Provincia") |> tabyl(cidade)
 
 
 
-View(dups)
+#View(dups)
 
 #Create IDs --------------------------------------------------------------------
-
 
 
 
@@ -45,18 +45,25 @@ ids <- target %>%
   create_ids(geo = "provincia") %>%
   create_ids(geo = "cidade", higher_level = "provincia") %>%
   create_ids(geo = "bairro", higher_level = "cidade") %>%
-  create_ids(geo = "participante", higher_level = "bairro") %>%
+  arrange(provincia, cidade, bairro, quarteirao, participante) %>%
+  group_by(provincia, cidade) %>%
+  mutate(ID_participante = row_number()) %>%
+  ungroup() %>%
+  #create_ids(geo = "participante", higher_level = "bairro") %>%
   relocate(provincia, ID_provincia, cidade, ID_cidade, bairro, ID_bairro, ID_participante) %>%
-  arrange(provincia, cidade, bairro, participante) %>%
+  #arrange(provincia, cidade, bairro, participante) %>%
   mutate(across(c(ID_cidade, ID_bairro, ID_participante), function(x)case_when(str_length(x) == 1 ~ paste0("0", x),
                                                                                T ~ as.character(x))),
-         ID = paste0(ID_provincia, ID_cidade, ID_bairro, ID_participante)) %>%
-  relocate(ID)
+         ID = paste0(ID_provincia, ID_cidade, ID_participante)) %>%
+  relocate(ID) %>%
+  relocate(quarteirao, .after = bairro)
+
+#View(ids)
 
 
 #View(ids)
 ids |> tabyl(project)
-#dups <- ids |> get_dupes(ID)
+dups <- ids |> get_dupes(ID)
 
 #View(ids)
 
@@ -73,9 +80,9 @@ ids |> group_by(provincia, cidade) |> summarise(total = n()) %>% export(., exsum
 
 
 #lista dos bairros --------------------------------------------------------
-bairros <- ids |> filter(cidade %in% c("Maputo", "Beira", "Matola")) |> group_by(cidade, bairro) |> summarise(participantes = n())
-
+bairros <- ids |> group_by(cidade, bairro) |> summarise(participantes = n())
 # 
+# View(bairros)
 # 
 # 
 # cidades <- unique(bairros[["cidade"]])
@@ -87,17 +94,17 @@ bairros <- ids |> filter(cidade %in% c("Maputo", "Beira", "Matola")) |> group_by
 # 
 # 
 # for( i in 1:length(cidades)){
-#   
+# 
 #   selected = cidades[i]
-#   
-#   
+# 
+# 
 #   data_export <- bairros |> filter(cidade == selected)
-#   
-#   exfile <- file.path(dir_fp_sample,glue("lista_bairros_{selected}.xlsx"))
-#   
-#   
+# 
+#   exfile <- file.path(db_design,"check lista bairros",glue("lista_bairros_{selected}.xlsx"))
+# 
+# 
 #   export(data_export, exfile, sheetName = selected, colWidths = c("22", "22", "11"), headerStyle = hs,
 #          overwrite = T,  borders = "all", gridLines = FALSE)
-#   
-#   
+# 
+# 
 # }

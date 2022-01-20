@@ -20,8 +20,8 @@ infile <- file.path(dir_fp_sample, "sample.rds")
 
 
 sample <- import(infile)
-data_target <- sample %>% filter(cidade %in% c("Maputo", "Matola", "Beira"))
-
+#data_target <- sample %>% filter(cidade %in% c("Maputo", "Matola", "Beira"))
+data_target <- sample %>% filter(provincia = "Maputo Provincia")
 
 
 ```

@@ -1,0 +1,118 @@
+---
+author: "GRANDE FOLLOW-UP"
+date: "18/01/2022"
+output: 
+  word_document:
+    reference_docx: template.docx
+    toc: true
+params: 
+  selected_provincia: "Cabo Delgado"
+title: "`r paste('Tracking Sheets',params$selected_provincia)`"
+---
+
+
+
+
+```{r setup, include=FALSE}
+library(rio)
+library(dplyr)
+library(gt)
+knitr::opts_chunk$set(echo = TRUE)
+
+
+dir_fp_sample <- "C:/repositaries/3.MUVA/MUVA-fwup/data/Follow-up/sample"
+infile <- file.path(dir_fp_sample, "sample.rds")
+
+
+sample <- import(infile)
+#data_target <- sample %>% filter(cidade %in% c("Maputo", "Matola", "Beira"))
+selected_provincia <- params$selected_provincia
+data_target <- sample %>% filter(provincia == selected_provincia)
+
+
+```
+
+
+
+```{r cars, results='asis', echo=FALSE}
+
+
+
+#create list of data.frames  by barrio 
+
+lista <- lapply(split(data_target, data_target$cidade), function(x){
+  
+  lapply(split(x,x$bairro), function(y){
+    y
+  })
+})
+
+
+```
+
+
+
+```{r,results='asis', echo=FALSE}
+# print(length(lista))
+# print(names(lista))
+
+for(i in 1:length(lista)){
+  
+  #start with cidades
+  cidades <- names(lista)
+  #bairros <- names(lista[[i]])
+  
+  
+  ciudad <- cidades[i]
+  ID_ciudad <- lista[[i]][[1]]$ID_cidade[1]
+  
+  cat('#',ciudad,' \n')
+  
+  #' (',ID_ciudad,')',
+  
+  bairros <- names(lista[[i]])
+  
+  for(b in 1:length(bairros)){
+    
+    bairro <- lista[[i]][[b]]$bairro[1]
+    ID_bairro <- lista[[i]][[b]]$ID_bairro[1]
+    
+    
+    cat('##',bairro,' \n')
+    #' (',ID_bairro, ')',
+    #cat("Coefficients: \n")
+    print(knitr::kable(lista[[i]][[b]] %>%
+                         select(ID,
+                                participante,
+                                sexo,
+                                quarteirao,
+                                endereco,
+                                referencia,
+                                `referencia prox` = referencia_proxima,
+                                telefone1,
+                                telefone2
+                         ), row.names = F)) 
+    cat("\n")
+    cat("\\newpage")
+    #cat("Summary: \n")
+    cat('\n')
+    
+  }
+  
+  
+}
+# 
+# bairro <- lista[[i]]$bairro[1]
+# 
+# 
+# cat('##',bairro,' \n')
+# #cat("Coefficients: \n")
+# print(knitr::kable(lista[[i]], row.names = F)) 
+# cat("\n")
+# cat("\\newpage")
+# #cat("Summary: \n")
+# cat('\n')
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
