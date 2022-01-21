@@ -64,7 +64,7 @@ dir_data_confirmation <- file.path(dir_data, "Confirmation")
 #dropbox----------------------------------------------------------------------
       
       db_design <- file.path(db, "01 Design")
-    
+      db_look_ups <- file.path(db, "03 SS")    
 
 #plots ************************************************************************
     dir_plots <- "plots"

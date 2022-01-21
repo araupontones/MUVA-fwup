@@ -218,6 +218,8 @@ d_loc <- dwls %>%
                                  quarteirao == "10 BAIRRO" ~ "",
                                  str_length(quarteirao) ==1 & quarteirao %in% as.character(seq(1,9,1)) ~ paste0("0", quarteirao),
                                  T ~ quarteirao)) %>%
+  
+  mutate(participante = str_replace(participante,"LEOPORDINA DOMINGOS VICTOR SANDRAMO NGOMA", "LEOPORDINA DOMINGOS")) %>%
   #
   
   
@@ -226,6 +228,7 @@ d_loc <- dwls %>%
   select(-c(numero, rua, rua2))
 
 
+#View(d_loc)
 
 #View(d_loc)
 #d_loc |> filter(provincia == "Maputo Provincia") |>tabyl(cidade)
