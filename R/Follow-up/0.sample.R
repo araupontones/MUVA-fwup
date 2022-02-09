@@ -47,7 +47,11 @@ ids <- target %>%
   create_ids(geo = "bairro", higher_level = "cidade") %>%
   arrange(provincia, cidade, bairro, quarteirao, participante) %>%
   group_by(provincia, cidade) %>%
-  mutate(ID_participante = row_number()) %>%
+  mutate(ID_participante = row_number(),
+         ID_participante = case_when(ID_participante < 10 ~  paste0("00", ID_participante),
+                                     between(ID_participante,10,99) ~  paste0("0", ID_participante),
+                                     ID_participante >99 ~ as.character(ID_participante)
+                                     )) %>%
   ungroup() %>%
   #create_ids(geo = "participante", higher_level = "bairro") %>%
   relocate(provincia, ID_provincia, cidade, ID_cidade, bairro, ID_bairro, ID_participante) %>%
@@ -56,13 +60,11 @@ ids <- target %>%
                                                                                T ~ as.character(x))),
          ID = paste0(ID_provincia, ID_cidade, ID_participante)) %>%
   relocate(ID) %>%
-  relocate(quarteirao, .after = bairro)
+  relocate(quarteirao, .after = bairro) %>%
+  mutate(l = str_length(ID), .after = ID)
 
 #View(ids)
 
-
-#View(ids)
-ids |> tabyl(project)
 dups <- ids |> get_dupes(ID)
 
 #View(ids)
@@ -70,15 +72,14 @@ dups <- ids |> get_dupes(ID)
 names(ids)
 
 #export --------------------------------------------------------------------------
-exfile
-export(ids, exfile)
 
+export(ids, exfile)
 
 #count records by cidade,
 
 ids |> group_by(provincia, cidade) |> summarise(total = n()) %>% export(., exsummary, overwrite = T)
-
-
+View(ids)
+names(ids)
 #lista dos bairros --------------------------------------------------------
 bairros <- ids |> group_by(cidade, bairro) |> summarise(participantes = n())
 # 

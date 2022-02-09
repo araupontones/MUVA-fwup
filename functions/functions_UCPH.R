@@ -1,30 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
 
-@araupontones 
-araupontones
-/
-  UCPH-moz
-Private
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-UCPH-moz/5.R/preparation/0_functions.R
-@araupontones
-araupontones functions to download and clean data
-Latest commit 0922ea4 on Sep 30, 2020
-History
-1 contributor
-105 lines (65 sloc)  2.43 KB
 
 ### create functions used for data carpintery
 
@@ -131,16 +105,3 @@ fn_export_lkp_roster= function(vars, exfile){
   
 }
 
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete

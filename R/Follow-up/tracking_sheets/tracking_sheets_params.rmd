@@ -84,6 +84,7 @@ for(i in 1:length(lista)){
     print(knitr::kable(lista[[i]][[b]] %>%
                          select(ID,
                                 participante,
+                                projeto = project,
                                 sexo,
                                 quarteirao,
                                 endereco,
@@ -115,4 +116,4 @@ for(i in 1:length(lista)){
 
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
