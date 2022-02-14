@@ -13,8 +13,8 @@ c <- import(infile)
 
 
 #plot escolaridade ------------------------------------------------------------
-data_prov <- c |>
-  group_by(provincia) |>
+data_prov <- c %>%
+  group_by(provincia) %>%
   summarise(total = n())
 
 provs <- ggplot(data = data_prov,

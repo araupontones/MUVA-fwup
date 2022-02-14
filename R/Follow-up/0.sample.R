@@ -28,8 +28,8 @@ target <- conf %>%
 
 
 str_remove("1 QUARTEIRAO", "QUARTEIRAO")
-target |> tabyl(cidade)
-target |> filter(provincia == "Maputo Provincia") |> tabyl(cidade)
+target %>% tabyl(cidade)
+target %>% filter(provincia == "Maputo Provincia") %>% tabyl(cidade)
 
 
 
@@ -65,7 +65,7 @@ ids <- target %>%
 
 #View(ids)
 
-dups <- ids |> get_dupes(ID)
+dups <- ids %>% get_dupes(ID)
 
 #View(ids)
 
@@ -77,11 +77,11 @@ export(ids, exfile)
 
 #count records by cidade,
 
-ids |> group_by(provincia, cidade) |> summarise(total = n()) %>% export(., exsummary, overwrite = T)
+ids %>% group_by(provincia, cidade) %>% summarise(total = n()) %>% export(., exsummary, overwrite = T)
 View(ids)
 names(ids)
 #lista dos bairros --------------------------------------------------------
-bairros <- ids |> group_by(cidade, bairro) |> summarise(participantes = n())
+bairros <- ids %>% group_by(cidade, bairro) %>% summarise(participantes = n())
 # 
 # View(bairros)
 # 
@@ -99,7 +99,7 @@ bairros <- ids |> group_by(cidade, bairro) |> summarise(participantes = n())
 #   selected = cidades[i]
 # 
 # 
-#   data_export <- bairros |> filter(cidade == selected)
+#   data_export <- bairros %>% filter(cidade == selected)
 # 
 #   exfile <- file.path(db_design,"check lista bairros",glue("lista_bairros_{selected}.xlsx"))
 # 

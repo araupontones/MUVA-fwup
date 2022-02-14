@@ -11,7 +11,7 @@ names(dwls)
 #clean provincia, cidade, bairro ----------------------------------------------
 
 d_loc <- dwls %>%
-  filter(cidade != "") |>
+  filter(cidade != "") %>%
   mutate(across(c(provincia, cidade, bairro), str_to_title),
          across(c(provincia, cidade, bairro), str_trim),
          
@@ -181,7 +181,7 @@ d_loc <- dwls %>%
            T ~ bairro)
          
          
-  )  |>
+  )  %>%
   mutate(provincia = case_when(cidade == "Mahotas" ~ "Maputo Cidade",
                                bairro == "2 Chicumbane" ~ "Gaza",
                                T ~ provincia),
@@ -191,7 +191,7 @@ d_loc <- dwls %>%
          cidade = case_when(cidade == "Mahotas" ~ "Maputo",
                             bairro == "2 Chicumbane" ~ "Xai-Xai",
                             cidade == "Ponta De Ouro" ~ "Matutuine",
-                            T ~ cidade)) |>
+                            T ~ cidade)) %>%
   #clean casa_numero
   mutate(numero = case_when(str_detect(casa_numero, "NAO TE|VA MAND|U1O|NAO|DE DAR|SABE") ~ "",
                             str_detect(casa_numero, "NA|Na|N.A") ~ "",
@@ -231,18 +231,18 @@ d_loc <- dwls %>%
 #View(d_loc)
 
 #View(d_loc)
-#d_loc |> filter(provincia == "Maputo Provincia") |>tabyl(cidade)
-#d_loc |> filter(cidade == "Maputo") |>tabyl(bairro)
+#d_loc %>% filter(provincia == "Maputo Provincia") %>%tabyl(cidade)
+#d_loc %>% filter(cidade == "Maputo") %>%tabyl(bairro)
 
 
-#d_loc |> tabyl(bairro)
+#d_loc %>% tabyl(bairro)
 
 #to fetch information from reference data --------------------------------------
 infile_ref <- file.path(dir_prep_clean, "muva_follow_up_clean.rds")
-ref <- import(infile_ref) |>
+ref <- import(infile_ref) %>%
   mutate(nome = str_remove_all(nome, '"'),
          nome = str_replace(nome, "DIA\\.", "DIA"),
-         nome = str_trim(nome)) |>
+         nome = str_trim(nome)) %>%
   select(participante = nome,
          sexo,
          telefone_ref = telefone,
@@ -251,8 +251,8 @@ ref <- import(infile_ref) |>
 
 
 
-d_phone <- d_loc |>
-  left_join(ref, by = "participante") |>
+d_phone <- d_loc %>%
+  left_join(ref, by = "participante") %>%
   mutate(telefone1 = case_when(is.na(telefone1) ~ telefone_ref,
                                T ~ telefone1)) %>%
   select(-matches("telefone_ref")) %>%
@@ -270,7 +270,7 @@ d_phone <- d_loc |>
 
 export(d_phone, exfile)
 
-d_summary <- d_loc |> group_by(provincia, cidade) |> summarise(confirmados = n()) |> mutate(enquerito = "")
+d_summary <- d_loc %>% group_by(provincia, cidade) %>% summarise(confirmados = n()) %>% mutate(enquerito = "")
 export(d_summary, exfile_count, overwrite = T)
 
 

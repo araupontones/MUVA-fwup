@@ -6,23 +6,23 @@ exfile <- file.path(dir_conf_lookUps, "bairros.xlsx")
 
 provs <- import(infileProvs)
 
-bairros <- import(infileManuel) |>
-  rename(cidade = Cidade) |>
-  mutate(cidade = str_remove_all(cidade, "Cidade Da |Cidade De ")) |>
-  group_by(cidade) |>
-  mutate(count = n()) |>
-  ungroup()|>
-  filter(count >5) |>
+bairros <- import(infileManuel) %>%
+  rename(cidade = Cidade) %>%
+  mutate(cidade = str_remove_all(cidade, "Cidade Da |Cidade De ")) %>%
+  group_by(cidade) %>%
+  mutate(count = n()) %>%
+  ungroup()%>%
+  filter(count >5) %>%
   mutate(cidade = case_when(cidade == "Maputo Cidade" ~ "Maputo",
-                            T ~ cidade)) |>
+                            T ~ cidade)) %>%
   filter(! cidade %in% c("Chiure",
                          "Marracuene",
                          "Namuno"))
 
 
 
-lp <- bairros |>
-  left_join(provs, by = c("cidade")) |>
+lp <- bairros %>%
+  left_join(provs, by = c("cidade")) %>%
   select(provincias,
          cidades =cidade,
          bairro = Bairro)

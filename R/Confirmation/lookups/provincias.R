@@ -6,16 +6,16 @@ exfile <- file.path(dir_conf_lookUps, "provincias.xlsx")
 c <- import(infile)
 
 
-p <- c |>
+p <- c %>%
   mutate(provincia = case_when( cidade == "Maputo" ~ "Maputo Cidade",
                               provincia == "Maputo" ~ "Maputo Provincia",
                                T ~ provincia
-                               )) |>
-  group_by(provincia) |>
-  slice(1) |>
-  filter(!is.na(provincia)) |>
-  arrange(provincia) |>
-  ungroup() |>
+                               )) %>%
+  group_by(provincia) %>%
+  slice(1) %>%
+  filter(!is.na(provincia)) %>%
+  arrange(provincia) %>%
+  ungroup() %>%
   select(provincia)
 
 

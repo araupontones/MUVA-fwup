@@ -20,7 +20,7 @@ cidade <- import(infileCidade)
 
 c <- r %>%
   rename_all(function(x){str_to_lower(x)}) %>%
-  rename(escolaridade = nivel_escolaridade) |>
+  rename(escolaridade = nivel_escolaridade) %>%
   mutate(nome = str_to_upper(nome),
          #idade has many inconsitencies
          #some times the dob or the yob was reported
@@ -54,14 +54,14 @@ c <- r %>%
          
          
          
-  ) |>
+  ) %>%
   #I created a function to clan the below: see functions
-  clean_classe(escolaridade) |> 
-  clean_telefone() |>
-  clean_cidade() |>
-  clean_provincia() |>#see functions
-  clean_duplicates() |>
-  clean_cidade2() |>
+  clean_classe(escolaridade) %>% 
+  clean_telefone() %>%
+  clean_cidade() %>%
+  clean_provincia() %>%#see functions
+  clean_duplicates() %>%
+  clean_cidade2() %>%
   select(-telefone_1,dob, -yob,  -count,-ano_p, -out, -ordem)#drop vars used for cleaning
 
 names(c)

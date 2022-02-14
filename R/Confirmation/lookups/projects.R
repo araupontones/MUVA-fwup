@@ -6,11 +6,11 @@ exfile <- file.path(dir_conf_lookUps, "projects.xlsx")
 
 
 
-c <- import(infile) |>
-  select(project)|>
-  group_by(project)|>
-  slice(1)|>
-  ungroup() |>
+c <- import(infile) %>%
+  select(project)%>%
+  group_by(project)%>%
+  slice(1)%>%
+  ungroup() %>%
   arrange(project)
 
 

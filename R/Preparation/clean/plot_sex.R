@@ -9,13 +9,13 @@ exfile <- file.path(dir_prep_plots, "sex.png")
 
 c <- import(infile)
 
-c |> tabyl(sexo)
+c %>% tabyl(sexo)
 
 
 #plot escolaridade ------------------------------------------------------------
-data_sexo <- c |>
-  group_by(sexo) |>
-  summarise(total = n()) |>
+data_sexo <- c %>%
+  group_by(sexo) %>%
+  summarise(total = n()) %>%
   ungroup()
 
 data_sexo

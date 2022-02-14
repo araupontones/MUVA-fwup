@@ -9,7 +9,7 @@ c <- rio::import(infile)
 
 
 #Summry
-s <- c |>
+s <- c %>%
   group_by(nome, project) |>
   #count duplicates
   mutate(dup = n()>1) |>

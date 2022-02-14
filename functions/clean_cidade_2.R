@@ -1,7 +1,7 @@
 
 
 clean_cidade2 <- function(.data){
-  .data |>
+  .data %>%
   mutate(cidade = str_trim(cidade),
          cidade = str_to_title(cidade),
          cidade = case_when(cidade ==  "Cidade De Maputo" ~  "Maputo",

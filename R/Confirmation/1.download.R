@@ -26,7 +26,7 @@ data_raw <-zohor::get_report_bulk( url_app = "https://creator.zoho.com" ,
 #clean names ------------------------------------------------------------------
 
 
-data_names <- data_raw|> 
+data_names <- data_raw%>% 
   select(project = Participantes.projects,
          participante = Participantes,
          status = statusCall,
@@ -50,8 +50,8 @@ data_names <- data_raw|>
 
 
 
-#data_names |> tabyl(estara,futuro)
-#data_names |> tabyl(project)
+#data_names %>% tabyl(estara,futuro)
+#data_names %>% tabyl(project)
 
 
 #export ------------------------------------------------------------------------

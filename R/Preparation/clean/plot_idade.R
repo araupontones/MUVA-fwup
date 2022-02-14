@@ -9,12 +9,12 @@ exfile <- file.path(dir_prep_plots, "idade.png")
 
 c <- import(infile)
 
-c |> tabyl(idade)
+c %>% tabyl(idade)
 
 
 #plot escolaridade ------------------------------------------------------------
-data_idade <- c |>
-  group_by(idade) |>
+data_idade <- c %>%
+  group_by(idade) %>%
   summarise(total = n())
 
 idade <- ggplot(data = c,
