@@ -1,6 +1,6 @@
 
 #Download data -------------------------------------------------------------------
-run_file <- function(fichero){file.path("R/follow-up/QA", glue::glue("{fichero}.R"))}
+run_file <- function(fichero){file.path("R/Follow-up/QA", glue::glue("{fichero}.R"))}
 survey <- "grandfollowup2022"
 source(run_file("0.Define_paths"))
 source(run_file("1.download"))
@@ -44,7 +44,7 @@ clean_data <- field_data %>%
 
 
 
-
+View(dashboard_data)
 #data for dashboard ---------------------------------------------------------
 dashboard_data <- clean_data %>% 
   mutate(resultado = susor::susor_get_stata_labels(outcome))%>%
