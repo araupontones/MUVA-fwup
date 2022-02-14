@@ -13,6 +13,7 @@ sapply(provincias, function(x) {
 
 #copy to dropbox
 fls <- list.files("R/Follow-up/tracking_sheets", full.names = T) 
+fls
 
 str_detect(fls, provincias)
 
@@ -20,13 +21,14 @@ str_detect(fls, provincias)
 
 for(p in provincias){
   
-  from <- fls[str_detect(fls, "Gaza")]
+  from <- fls[str_detect(fls, p)]
   to <-file.path(exdb, glue("{p}.docx")) 
 
-    file.copy(from, to)
   
+  file.copy(from, to, overwrite = T)
   
-  
+print(from)  
+
 }
 
 
