@@ -47,9 +47,9 @@ raw_file <- file.path(dir_raw, "grandfollowup2022/grandfollowup2022.dta")
 raw_data <- rio::import(raw_file)
 
 
+
 raw_data_sampled <- raw_data %>%
   mutate(ID_participant = as.character(ID_participant),
-         url = paste0('<a href="',link,'" target="_blank"> LINK</a>'),
          status = define_status(outcome)) %>%
   left_join(select(sample,
                    ID_participant = ID,

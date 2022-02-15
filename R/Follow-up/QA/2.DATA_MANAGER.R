@@ -13,8 +13,6 @@ source(run_file("1.download")) #downloads, appends versions and creates raw data
 field_data <- rio::import(get_file2(dir_raw, survey))
 
 
-
-
 #inteerviews to be dropped: duplicates, etc. ----------------------------------
 drop_interviews <- c(
   
@@ -50,6 +48,7 @@ force_approve <- c(
 
 
 source(run_file("3.clean_and_exort_data_dashboard"))
+
 
 
 
