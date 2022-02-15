@@ -1,7 +1,18 @@
 cli::cli_alert_info("Follow up MUVA")
 
 options("scipen"=100, digits = 2)
-Sys.setlocale("LC_ALL","Portuguese")
+
+if(Sys.info()['sysname']== "Windows"){
+  
+  Sys.setlocale("LC_ALL","Portuguese")
+}
+
+
+if(Sys.info()['sysname']=="Linux"){
+  Sys.setlocale("LC_ALL","pt_BR.UTF-8")
+  
+}
+
 
 
 #Define libraries --------------------------------------------------------------
