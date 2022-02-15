@@ -1,0 +1,24 @@
+status,provincia,cidade,Completas,Nao conseguimos,Rejected,Sim visitar,Approved,sampled
+ATIVO,Cabo Delgado,Pemba,0,3,0,32,3,35
+INATIVO,Gaza,Chibuto,0,0,0,1,0,1
+INATIVO,Gaza,Chicumbane,0,0,0,1,0,1
+INATIVO,Gaza,Chokwé,0,0,0,25,0,25
+CHECK!,Gaza,Chonguene,0,0,2,9,0,10
+INATIVO,Gaza,Hokwe,0,0,0,1,0,1
+CHECK!,Gaza,Limpopo,1,0,1,4,1,6
+INATIVO,Gaza,Lionde,0,0,0,1,0,1
+INATIVO,Gaza,Macia,0,0,0,1,0,1
+INATIVO,Gaza,Madjacaze,0,0,0,1,0,1
+INATIVO,Gaza,Xai-Xai,0,0,0,52,0,52
+ATIVO,Maputo Cidade,Maputo,0,1,0,816,1,817
+ATIVO,Maputo Provincia,Boane,0,0,0,18,0,19
+INATIVO,Maputo Provincia,Kathembe,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Manhiça,0,0,0,34,0,34
+INATIVO,Maputo Provincia,Marracuene,0,0,0,13,0,13
+INATIVO,Maputo Provincia,Matola,0,0,0,235,0,235
+INATIVO,Maputo Provincia,Matutuine,0,0,0,26,0,26
+INATIVO,Maputo Provincia,Namaacha,0,0,0,25,0,25
+ATIVO,Sofala,Beira,0,1,0,163,1,164
+ATIVO,Zambézia,Nicoadala,0,1,0,12,1,13
+INATIVO,Zambézia,Quelimane,0,0,0,26,0,26
+INATIVO,Zambézia,Zavala,0,0,0,1,0,1

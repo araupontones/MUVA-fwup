@@ -6,6 +6,7 @@
 dir_downloads <- file.path("data/Follow-up/0.downloads")
 dir_raw <- file.path("data/Follow-up/1.raw")
 dir_clean <- file.path("data/Follow-up/2.clean")
+dir_dashboard <- file.path("data/Follow-up/3.dashboard")
 
 
 #read reference data ------------------------------------------------------------

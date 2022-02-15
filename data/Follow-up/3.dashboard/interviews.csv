@@ -1,0 +1,1510 @@
+interview__key,ID_participant,provincia,cidade,bairro,resultado,status,Management,has__errors,unanswered,duplicated,duration,date,time,url
+38-25-32-55,101001,Cabo Delgado,Pemba,Alto Gigone,Moradia não encontrada (terminar),NAO CONSEGUIMOS-FINAL,APPROVED,0,0,FALSE,0,2022-02-14,19:22:11,"<a href=""http://my.muvasurveys.com//Interview/Review/8f0a8ed640964bc087bbb694528a2e9b"" target=""_blank""> LINK</a>"
+72-05-29-75,101015,Cabo Delgado,Pemba,Expansão,Moradia não encontrada (terminar),NAO CONSEGUIMOS-FINAL,APPROVED,0,0,FALSE,0,2022-02-15,10:38:27,"<a href=""http://my.muvasurveys.com//Interview/Review/45bfc5c400614c4ca44f87460f6bd7d2"" target=""_blank""> LINK</a>"
+84-63-06-88,101028,Cabo Delgado,Pemba,Manhide,Permissão recusada (terminar),VERIFICADA-FINAL,APPROVED,0,1,FALSE,1,2022-02-14,11:15:20,"<a href=""http://my.muvasurveys.com//Interview/Review/b6e153028e164b3ca9e23f1b382139d7"" target=""_blank""> LINK</a>"
+30-12-12-10,204002,Gaza,Chonguene,Fidel Castro,Moradia não encontrada (terminar),NAO CONSEGUIMOS-FINAL,REJECTED,0,0,TRUE,0,2022-02-14,11:14:06,"<a href=""http://my.muvasurveys.com//Interview/Review/2863cdec20c24ba2a6539f5e90a784ff"" target=""_blank""> LINK</a>"
+95-82-56-77,204002,Gaza,Chonguene,Fidel Castro,Entrevista não conseguida depois de 3 visitas (terminar),NAO CONSEGUIMOS-FINAL,REJECTED,0,1,TRUE,1,2022-02-14,15:27:41,"<a href=""http://my.muvasurveys.com//Interview/Review/5408e2c9155046e586e65d9a3541adc5"" target=""_blank""> LINK</a>"
+56-07-92-22,206001,Gaza,Limpopo,Bairro 2,Entrevista incompleta (revisitar),REVISITAR,REJECTED,0,83,FALSE,1,2022-02-14,11:25:39,"<a href=""http://my.muvasurveys.com//Interview/Review/42f1e5df67b74ca18dc9a107fb60399c"" target=""_blank""> LINK</a>"
+73-54-31-64,206003,Gaza,Limpopo,Bango,Entrevista completa (terminar),VERIFICADA-FINAL,APPROVED,0,81,FALSE,5,2022-02-14,11:32:03,"<a href=""http://my.muvasurveys.com//Interview/Review/906c9a066b2248058340785d81e0a66d"" target=""_blank""> LINK</a>"
+88-55-16-48,301124,Maputo Cidade,Maputo,Bagamoio,Desconhecido o que aconteceu com respondente elegivel (terminar),NAO CONSEGUIMOS-FINAL,APPROVED,0,0,FALSE,1,2022-02-14,11:16:45,"<a href=""http://my.muvasurveys.com//Interview/Review/9d7acc896e2c4d5ebe138a93b1f601c1"" target=""_blank""> LINK</a>"
+89-34-50-01,401001,Maputo Provincia,Boane,Bairro 1,Respondente mudou para outra casa no bairro (revisitar),REVISITAR,REVISITING,0,0,FALSE,1,2022-02-14,11:21:14,"<a href=""http://my.muvasurveys.com//Interview/Review/5838fcd7659e4d1b92c17d406266256f"" target=""_blank""> LINK</a>"
+40-03-88-19,501092,Sofala,Beira,Maraza,Respondente elegivel faleceu (terminar),NAO CONSEGUIMOS-FINAL,APPROVED,0,0,FALSE,1,2022-02-14,11:22:22,"<a href=""http://my.muvasurveys.com//Interview/Review/56a9e1e845634a4e80d31823f1be66fb"" target=""_blank""> LINK</a>"
+15-28-62-98,601001,Zambézia,Nicoadala,Chagueiva,Permissão recusada (terminar),NAO CONSEGUIMOS-FINAL,APPROVED,0,0,FALSE,1,2022-02-14,11:23:17,"<a href=""http://my.muvasurveys.com//Interview/Review/13d09fd6cb984455a8d0e3f459666f0b"" target=""_blank""> LINK</a>"
+Sin visitar,101002,Cabo Delgado,Pemba,Alto Gigone,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101003,Cabo Delgado,Pemba,Alto Gigone,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101004,Cabo Delgado,Pemba,Alto Gigone,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101005,Cabo Delgado,Pemba,Alto Gigone,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101006,Cabo Delgado,Pemba,Areia Vermelha Lado De Viver,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101007,Cabo Delgado,Pemba,Cariaco,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101008,Cabo Delgado,Pemba,Cariaco,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101009,Cabo Delgado,Pemba,Cariaco,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101010,Cabo Delgado,Pemba,Cariaco,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101011,Cabo Delgado,Pemba,Cariaco,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101012,Cabo Delgado,Pemba,Cariaco,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101013,Cabo Delgado,Pemba,Cariaco,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101014,Cabo Delgado,Pemba,Cariaco,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101016,Cabo Delgado,Pemba,Expansão,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101017,Cabo Delgado,Pemba,Expansão,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101018,Cabo Delgado,Pemba,Ingonani,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101019,Cabo Delgado,Pemba,Ingonani,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101020,Cabo Delgado,Pemba,Ingonani,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101021,Cabo Delgado,Pemba,Josina Machel,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101022,Cabo Delgado,Pemba,Josina Machel,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101023,Cabo Delgado,Pemba,Josina Machel,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101024,Cabo Delgado,Pemba,Josina Machel,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101025,Cabo Delgado,Pemba,Josina Machel,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101026,Cabo Delgado,Pemba,Josina Machel,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101027,Cabo Delgado,Pemba,Mahate,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101029,Cabo Delgado,Pemba,Natipe,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101030,Cabo Delgado,Pemba,Natipe,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101031,Cabo Delgado,Pemba,Natipe,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101032,Cabo Delgado,Pemba,Natipe,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101033,Cabo Delgado,Pemba,Natipe,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101034,Cabo Delgado,Pemba,Natipe,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,101035,Cabo Delgado,Pemba,Natipe,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,201001,Gaza,Chibuto,Bairro 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,202001,Gaza,Chicumbane,Bairro 4,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203001,Gaza,Chokwé,Quarto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203002,Gaza,Chokwé,Quarto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203003,Gaza,Chokwé,Quarto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203004,Gaza,Chokwé,Quarto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203005,Gaza,Chokwé,Quarto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203006,Gaza,Chokwé,Quinto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203007,Gaza,Chokwé,Quinto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203008,Gaza,Chokwé,Quinto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203009,Gaza,Chokwé,Quinto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203010,Gaza,Chokwé,Quinto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203011,Gaza,Chokwé,Quinto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203012,Gaza,Chokwé,Quinto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203013,Gaza,Chokwé,Quinto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203014,Gaza,Chokwé,Quinto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203015,Gaza,Chokwé,Quinto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203016,Gaza,Chokwé,Quinto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203017,Gaza,Chokwé,Quinto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203018,Gaza,Chokwé,Segundo Bairo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203019,Gaza,Chokwé,Segundo Bairo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203020,Gaza,Chokwé,Setimo Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203021,Gaza,Chokwé,Setimo Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203022,Gaza,Chokwé,Sexto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203023,Gaza,Chokwé,Sexto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203024,Gaza,Chokwé,Terceiro Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,203025,Gaza,Chokwé,Terceiro Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,204001,Gaza,Chonguene,Bango,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,204003,Gaza,Chonguene,Fidel Castro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,204004,Gaza,Chonguene,Maciene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,204005,Gaza,Chonguene,Nhoquene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,204006,Gaza,Chonguene,Nhoquene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,204007,Gaza,Chonguene,Rua De Chicombene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,204008,Gaza,Chonguene,Segundo Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,204009,Gaza,Chonguene,Terceiro Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,204010,Gaza,Chonguene,Terceiro Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,205001,Gaza,Hokwe,Setimo Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,206002,Gaza,Limpopo,Bairro 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,206004,Gaza,Limpopo,Chissano,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,206005,Gaza,Limpopo,Chissano,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,206006,Gaza,Limpopo,Xikubane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,207001,Gaza,Lionde,Quarto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,208001,Gaza,Macia,Bairro 3,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,209001,Gaza,Madjacaze,Samora Machel,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210001,Gaza,Xai-Xai,1 Inhamissa,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210002,Gaza,Xai-Xai,2 Chicumbane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210003,Gaza,Xai-Xai,2 Chicumbane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210004,Gaza,Xai-Xai,2 Chicumbane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210005,Gaza,Xai-Xai,2000,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210006,Gaza,Xai-Xai,2000,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210007,Gaza,Xai-Xai,2000,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210008,Gaza,Xai-Xai,25 De Junho,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210009,Gaza,Xai-Xai,4 Guoanine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210010,Gaza,Xai-Xai,Bairro 11,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210011,Gaza,Xai-Xai,Bango,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210012,Gaza,Xai-Xai,Bango,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210013,Gaza,Xai-Xai,Chilenguene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210014,Gaza,Xai-Xai,Chilenguene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210015,Gaza,Xai-Xai,Chissano,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210016,Gaza,Xai-Xai,Chissano,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210017,Gaza,Xai-Xai,Chonguene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210018,Gaza,Xai-Xai,Chonguene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210019,Gaza,Xai-Xai,Chonguene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210020,Gaza,Xai-Xai,Chonguene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210021,Gaza,Xai-Xai,Chonguene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210022,Gaza,Xai-Xai,Chonguene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210023,Gaza,Xai-Xai,Chonguene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210024,Gaza,Xai-Xai,Chonguene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210025,Gaza,Xai-Xai,Chonguene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210026,Gaza,Xai-Xai,Chonguene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210027,Gaza,Xai-Xai,Chonguene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210028,Gaza,Xai-Xai,Fidel Castro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210029,Gaza,Xai-Xai,Fidel Castro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210030,Gaza,Xai-Xai,Fidel Castro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210031,Gaza,Xai-Xai,Fidel Castro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210032,Gaza,Xai-Xai,Fidel Castro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210033,Gaza,Xai-Xai,Fidel Castro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210034,Gaza,Xai-Xai,Fidel Castro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210035,Gaza,Xai-Xai,Limpopo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210036,Gaza,Xai-Xai,Massiene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210037,Gaza,Xai-Xai,Ngulelene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210038,Gaza,Xai-Xai,Ngulelene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210039,Gaza,Xai-Xai,Ngulelene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210040,Gaza,Xai-Xai,Ngulelene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210041,Gaza,Xai-Xai,Patrice Lumumba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210042,Gaza,Xai-Xai,Patrice Lumumba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210043,Gaza,Xai-Xai,Patrice Lumumba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210044,Gaza,Xai-Xai,Patrice Lumumba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210045,Gaza,Xai-Xai,Patrice Lumumba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210046,Gaza,Xai-Xai,Patrice Lumumba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210047,Gaza,Xai-Xai,Primeiro Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210048,Gaza,Xai-Xai,Primeiro Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210049,Gaza,Xai-Xai,Terceiro Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210050,Gaza,Xai-Xai,Terceiro Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210051,Gaza,Xai-Xai,Venhene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,210052,Gaza,Xai-Xai,Xicumbane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301001,Maputo Cidade,Maputo,25 De Junho A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301002,Maputo Cidade,Maputo,25 De Junho A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301003,Maputo Cidade,Maputo,25 De Junho B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301004,Maputo Cidade,Maputo,25 De Junho B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301005,Maputo Cidade,Maputo,25 De Junho B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301006,Maputo Cidade,Maputo,3 De Fevereiro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301007,Maputo Cidade,Maputo,3 De Fevereiro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301008,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301009,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301010,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301011,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301012,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301013,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301014,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301015,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301016,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301017,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301018,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301019,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301020,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301021,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301022,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301023,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301024,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301025,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301026,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301027,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301028,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301029,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301030,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301031,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301032,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301033,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301034,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301035,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301036,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301037,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301038,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301039,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301040,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301041,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301042,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301043,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301044,Maputo Cidade,Maputo,Aeroporto A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301045,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301046,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301047,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301048,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301049,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301050,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301051,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301052,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301053,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301054,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301055,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301056,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301057,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301058,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301059,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301060,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301061,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301062,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301063,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301064,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301065,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301066,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301067,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301068,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301069,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301070,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301071,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301072,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301073,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301074,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301075,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301076,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301077,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301078,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301079,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301080,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301081,Maputo Cidade,Maputo,Aeroporto B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301082,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301083,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301084,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301085,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301086,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301087,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301088,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301089,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301090,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301091,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301092,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301093,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301094,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301095,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301096,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301097,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301098,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301099,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301100,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301101,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301102,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301103,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301104,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301105,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301106,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301107,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301108,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301109,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301110,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301111,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301112,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301113,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301114,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301115,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301116,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301117,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301118,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301119,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301120,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301121,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301122,Maputo Cidade,Maputo,Alto Mae B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301123,Maputo Cidade,Maputo,Alto Mae B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301125,Maputo Cidade,Maputo,Bagamoio,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301126,Maputo Cidade,Maputo,Bagamoio,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301127,Maputo Cidade,Maputo,Bagamoio,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301128,Maputo Cidade,Maputo,Bagamoio,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301129,Maputo Cidade,Maputo,Benfica,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301130,Maputo Cidade,Maputo,Benfica,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301131,Maputo Cidade,Maputo,Central A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301132,Maputo Cidade,Maputo,Central A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301133,Maputo Cidade,Maputo,Central A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301134,Maputo Cidade,Maputo,Central A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301135,Maputo Cidade,Maputo,Central A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301136,Maputo Cidade,Maputo,Central A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301137,Maputo Cidade,Maputo,Chamanculo A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301138,Maputo Cidade,Maputo,Chamanculo A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301139,Maputo Cidade,Maputo,Chamanculo A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301140,Maputo Cidade,Maputo,Chamanculo A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301141,Maputo Cidade,Maputo,Chamanculo A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301142,Maputo Cidade,Maputo,Chamanculo A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301143,Maputo Cidade,Maputo,Chamanculo A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301144,Maputo Cidade,Maputo,Chamanculo A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301145,Maputo Cidade,Maputo,Chamanculo A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301146,Maputo Cidade,Maputo,Chamanculo A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301147,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301148,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301149,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301150,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301151,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301152,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301153,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301154,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301155,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301156,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301157,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301158,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301159,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301160,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301161,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301162,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301163,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301164,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301165,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301166,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301167,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301168,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301169,Maputo Cidade,Maputo,Chamanculo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301170,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301171,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301172,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301173,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301174,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301175,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301176,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301177,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301178,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301179,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301180,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301181,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301182,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301183,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301184,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301185,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301186,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301187,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301188,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301189,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301190,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301191,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301192,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301193,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301194,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301195,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301196,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301197,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301198,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301199,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301200,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301201,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301202,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301203,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301204,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301205,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301206,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301207,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301208,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301209,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301210,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301211,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301212,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301213,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301214,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301215,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301216,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301217,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301218,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301219,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301220,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301221,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301222,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301223,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301224,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301225,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301226,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301227,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301228,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301229,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301230,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301231,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301232,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301233,Maputo Cidade,Maputo,Chamanculo C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301234,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301235,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301236,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301237,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301238,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301239,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301240,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301241,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301242,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301243,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301244,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301245,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301246,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301247,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301248,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301249,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301250,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301251,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301252,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301253,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301254,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301255,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301256,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301257,Maputo Cidade,Maputo,Chamanculo D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301258,Maputo Cidade,Maputo,Choupal,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301259,Maputo Cidade,Maputo,Comule,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301260,Maputo Cidade,Maputo,Comule,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301261,Maputo Cidade,Maputo,Coop,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301262,Maputo Cidade,Maputo,Coop,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301263,Maputo Cidade,Maputo,Costa Sol,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301264,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301265,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301266,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301267,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301268,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301269,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301270,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301271,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301272,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301273,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301274,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301275,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301276,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301277,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301278,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301279,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301280,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301281,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301282,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301283,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301284,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301285,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301286,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301287,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301288,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301289,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301290,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301291,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301292,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301293,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301294,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301295,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301296,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301297,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301298,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301299,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301300,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301301,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301302,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301303,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301304,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301305,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301306,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301307,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301308,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301309,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301310,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301311,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301312,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301313,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301314,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301315,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301316,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301317,Maputo Cidade,Maputo,Ferroviario,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301318,Maputo Cidade,Maputo,George Dimitrov,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301319,Maputo Cidade,Maputo,George Dimitrov,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301320,Maputo Cidade,Maputo,George Dimitrov,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301321,Maputo Cidade,Maputo,George Dimitrov,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301322,Maputo Cidade,Maputo,George Dimitrov,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301323,Maputo Cidade,Maputo,Hulene A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301324,Maputo Cidade,Maputo,Hulene A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301325,Maputo Cidade,Maputo,Hulene A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301326,Maputo Cidade,Maputo,Hulene A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301327,Maputo Cidade,Maputo,Hulene A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301328,Maputo Cidade,Maputo,Hulene A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301329,Maputo Cidade,Maputo,Hulene A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301330,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301331,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301332,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301333,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301334,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301335,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301336,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301337,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301338,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301339,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301340,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301341,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301342,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301343,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301344,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301345,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301346,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301347,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301348,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301349,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301350,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301351,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301352,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301353,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301354,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301355,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301356,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301357,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301358,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301359,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301360,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301361,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301362,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301363,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301364,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301365,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301366,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301367,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301368,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301369,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301370,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301371,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301372,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301373,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301374,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301375,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301376,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301377,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301378,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301379,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301380,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301381,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301382,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301383,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301384,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301385,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301386,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301387,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301388,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301389,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301390,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301391,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301392,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301393,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301394,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301395,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301396,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301397,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301398,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301399,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301400,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301401,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301402,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301403,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301404,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301405,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301406,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301407,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301408,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301409,Maputo Cidade,Maputo,Jardim,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301410,Maputo Cidade,Maputo,Jardim,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301411,Maputo Cidade,Maputo,Jardim,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301412,Maputo Cidade,Maputo,Jardim,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301413,Maputo Cidade,Maputo,Jardim,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301414,Maputo Cidade,Maputo,Laulane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301415,Maputo Cidade,Maputo,Laulane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301416,Maputo Cidade,Maputo,Laulane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301417,Maputo Cidade,Maputo,Laulane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301418,Maputo Cidade,Maputo,Laulane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301419,Maputo Cidade,Maputo,Laulane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301420,Maputo Cidade,Maputo,Luis Cabral,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301421,Maputo Cidade,Maputo,Luis Cabral,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301422,Maputo Cidade,Maputo,Luis Cabral,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301423,Maputo Cidade,Maputo,Luis Cabral,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301424,Maputo Cidade,Maputo,Luis Cabral,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301425,Maputo Cidade,Maputo,Luis Cabral,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301426,Maputo Cidade,Maputo,Luis Cabral,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301427,Maputo Cidade,Maputo,Luis Cabral,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301428,Maputo Cidade,Maputo,Luis Cabral,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301429,Maputo Cidade,Maputo,Luis Cabral,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301430,Maputo Cidade,Maputo,Luis Cabral,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301431,Maputo Cidade,Maputo,Luis Cabral,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301432,Maputo Cidade,Maputo,Mafalala,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301433,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301434,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301435,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301436,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301437,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301438,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301439,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301440,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301441,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301442,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301443,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301444,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301445,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301446,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301447,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301448,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301449,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301450,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301451,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301452,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301453,Maputo Cidade,Maputo,Magoanine A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301454,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301455,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301456,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301457,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301458,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301459,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301460,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301461,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301462,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301463,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301464,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301465,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301466,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301467,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301468,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301469,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301470,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301471,Maputo Cidade,Maputo,Magoanine B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301472,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301473,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301474,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301475,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301476,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301477,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301478,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301479,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301480,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301481,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301482,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301483,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301484,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301485,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301486,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301487,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301488,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301489,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301490,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301491,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301492,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301493,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301494,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301495,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301496,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301497,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301498,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301499,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301500,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301501,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301502,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301503,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301504,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301505,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301506,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301507,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301508,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301509,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301510,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301511,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301512,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301513,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301514,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301515,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301516,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301517,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301518,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301519,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301520,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301521,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301522,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301523,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301524,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301525,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301526,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301527,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301528,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301529,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301530,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301531,Maputo Cidade,Maputo,Magoanine C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301532,Maputo Cidade,Maputo,Magoanine D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301533,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301534,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301535,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301536,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301537,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301538,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301539,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301540,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301541,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301542,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301543,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301544,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301545,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301546,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301547,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301548,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301549,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301550,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301551,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301552,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301553,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301554,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301555,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301556,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301557,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301558,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301559,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301560,Maputo Cidade,Maputo,Mahotas,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301561,Maputo Cidade,Maputo,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301562,Maputo Cidade,Maputo,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301563,Maputo Cidade,Maputo,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301564,Maputo Cidade,Maputo,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301565,Maputo Cidade,Maputo,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301566,Maputo Cidade,Maputo,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301567,Maputo Cidade,Maputo,Malhangalene A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301568,Maputo Cidade,Maputo,Malhangalene A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301569,Maputo Cidade,Maputo,Malhazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301570,Maputo Cidade,Maputo,Malhazine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301571,Maputo Cidade,Maputo,Mavalane A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301572,Maputo Cidade,Maputo,Mavalane B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301573,Maputo Cidade,Maputo,Mavalane B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301574,Maputo Cidade,Maputo,Maxaquene A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301575,Maputo Cidade,Maputo,Maxaquene A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301576,Maputo Cidade,Maputo,Maxaquene A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301577,Maputo Cidade,Maputo,Maxaquene A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301578,Maputo Cidade,Maputo,Maxaquene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301579,Maputo Cidade,Maputo,Maxaquene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301580,Maputo Cidade,Maputo,Maxaquene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301581,Maputo Cidade,Maputo,Maxaquene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301582,Maputo Cidade,Maputo,Maxaquene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301583,Maputo Cidade,Maputo,Maxaquene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301584,Maputo Cidade,Maputo,Maxaquene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301585,Maputo Cidade,Maputo,Maxaquene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301586,Maputo Cidade,Maputo,Maxaquene B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301587,Maputo Cidade,Maputo,Maxaquene C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301588,Maputo Cidade,Maputo,Maxaquene C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301589,Maputo Cidade,Maputo,Maxaquene C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301590,Maputo Cidade,Maputo,Maxaquene C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301591,Maputo Cidade,Maputo,Maxaquene C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301592,Maputo Cidade,Maputo,Maxaquene C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301593,Maputo Cidade,Maputo,Maxaquene C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301594,Maputo Cidade,Maputo,Maxaquene C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301595,Maputo Cidade,Maputo,Maxaquene C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301596,Maputo Cidade,Maputo,Maxaquene C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301597,Maputo Cidade,Maputo,Maxaquene C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301598,Maputo Cidade,Maputo,Maxaquene C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301599,Maputo Cidade,Maputo,Maxaquene D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301600,Maputo Cidade,Maputo,Maxaquene D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301601,Maputo Cidade,Maputo,Maxaquene D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301602,Maputo Cidade,Maputo,Maxaquene D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301603,Maputo Cidade,Maputo,Maxaquene D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301604,Maputo Cidade,Maputo,Maxaquene D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301605,Maputo Cidade,Maputo,Maxaquene D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301606,Maputo Cidade,Maputo,Maxaquene D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301607,Maputo Cidade,Maputo,Maxaquene D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301608,Maputo Cidade,Maputo,Maxaquene D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301609,Maputo Cidade,Maputo,Maxaquene D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301610,Maputo Cidade,Maputo,Maxaquene D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301611,Maputo Cidade,Maputo,Maxaquene D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301612,Maputo Cidade,Maputo,Maxaquene D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301613,Maputo Cidade,Maputo,Minkadjuine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301614,Maputo Cidade,Maputo,Minkadjuine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301615,Maputo Cidade,Maputo,Minkadjuine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301616,Maputo Cidade,Maputo,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301617,Maputo Cidade,Maputo,Nhagobe,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301618,Maputo Cidade,Maputo,Nhagoi,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301619,Maputo Cidade,Maputo,Nhagoi,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301620,Maputo Cidade,Maputo,Nhagoi,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301621,Maputo Cidade,Maputo,Nhagoi,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301622,Maputo Cidade,Maputo,Nhagoi,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301623,Maputo Cidade,Maputo,Nhagoi,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301624,Maputo Cidade,Maputo,Nhagoi,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301625,Maputo Cidade,Maputo,Nhagoi,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301626,Maputo Cidade,Maputo,Nhagoi,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301627,Maputo Cidade,Maputo,Nhagoi,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301628,Maputo Cidade,Maputo,Nhagoi,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301629,Maputo Cidade,Maputo,Nsalene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301630,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301631,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301632,Maputo Cidade,Maputo,Polana Cani�o A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301633,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301634,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301635,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301636,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301637,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301638,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301639,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301640,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301641,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301642,Maputo Cidade,Maputo,Polana Cani�o A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301643,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301644,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301645,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301646,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301647,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301648,Maputo Cidade,Maputo,Polana Cani�o A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301649,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301650,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301651,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301652,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301653,Maputo Cidade,Maputo,Polana Cani�o A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301654,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301655,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301656,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301657,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301658,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301659,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301660,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301661,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301662,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301663,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301664,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301665,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301666,Maputo Cidade,Maputo,Polana Cani�o A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301667,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301668,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301669,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301670,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301671,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301672,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301673,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301674,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301675,Maputo Cidade,Maputo,Polana Cani�o A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301676,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301677,Maputo Cidade,Maputo,Polana Cani�o A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301678,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301679,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301680,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301681,Maputo Cidade,Maputo,Polana Cani�o A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301682,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301683,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301684,Maputo Cidade,Maputo,Polana Caniço A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301685,Maputo Cidade,Maputo,Polana Cani�o A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301686,Maputo Cidade,Maputo,Polana Cani�o A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301687,Maputo Cidade,Maputo,Polana Cani�o A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301688,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301689,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301690,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301691,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301692,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301693,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301694,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301695,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301696,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301697,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301698,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301699,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301700,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301701,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301702,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301703,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301704,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301705,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301706,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301707,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301708,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301709,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301710,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301711,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301712,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301713,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301714,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301715,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301716,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301717,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301718,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301719,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301720,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301721,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301722,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301723,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301724,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301725,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301726,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301727,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301728,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301729,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301730,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301731,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301732,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301733,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301734,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301735,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301736,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301737,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301738,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301739,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301740,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301741,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301742,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301743,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301744,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301745,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301746,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301747,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301748,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301749,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301750,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301751,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301752,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301753,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301754,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301755,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301756,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301757,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301758,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301759,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301760,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301761,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301762,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301763,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301764,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301765,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301766,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301767,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301768,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301769,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301770,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301771,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301772,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301773,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301774,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301775,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301776,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301777,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301778,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301779,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301780,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301781,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301782,Maputo Cidade,Maputo,Polana Cani�o B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301783,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301784,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301785,Maputo Cidade,Maputo,Polana Caniço B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301786,Maputo Cidade,Maputo,Polana Cimento A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301787,Maputo Cidade,Maputo,Polana Cimento A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301788,Maputo Cidade,Maputo,Polana Cimento A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301789,Maputo Cidade,Maputo,Sem Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301790,Maputo Cidade,Maputo,Sem Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301791,Maputo Cidade,Maputo,Sem Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301792,Maputo Cidade,Maputo,Sem Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301793,Maputo Cidade,Maputo,Sem Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301794,Maputo Cidade,Maputo,Unidade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301795,Maputo Cidade,Maputo,Unidade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301796,Maputo Cidade,Maputo,Urbanização,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301797,Maputo Cidade,Maputo,Urbaniza��o,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301798,Maputo Cidade,Maputo,Xihango,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301799,Maputo Cidade,Maputo,Xipamanine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301800,Maputo Cidade,Maputo,Xipamanine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301801,Maputo Cidade,Maputo,Xipamanine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301802,Maputo Cidade,Maputo,Xipamanine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301803,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301804,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301805,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301806,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301807,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301808,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301809,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301810,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301811,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301812,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301813,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301814,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301815,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301816,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,301817,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401002,Maputo Provincia,Boane,Bairro 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401003,Maputo Provincia,Boane,Bairro 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401004,Maputo Provincia,Boane,Bairro 7,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401005,Maputo Provincia,Boane,Beleluane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401006,Maputo Provincia,Boane,Campoane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401007,Maputo Provincia,Boane,Km16,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401008,Maputo Provincia,Boane,Mahubo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401009,Maputo Provincia,Boane,Matutuine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401010,Maputo Provincia,Boane,Matutuine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401011,Maputo Provincia,Boane,Matutuine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401012,Maputo Provincia,Boane,Matutuine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401013,Maputo Provincia,Boane,Matutuine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401014,Maputo Provincia,Boane,Matutuine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401015,Maputo Provincia,Boane,Matutuine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401016,Maputo Provincia,Boane,Matutuine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401017,Maputo Provincia,Boane,Paulo Samuel Kakomba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401018,Maputo Provincia,Boane,Xinonaquila,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,401019,Maputo Provincia,Boane,Xinonaquila,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,402001,Maputo Provincia,Kathembe,Chamissava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403001,Maputo Provincia,Manhiça,Abel Jafar,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403002,Maputo Provincia,Manhiça,Bobole,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403003,Maputo Provincia,Manhiça,Bobole,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403004,Maputo Provincia,Manhiça,Bobole,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403005,Maputo Provincia,Manhiça,Bobole,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403006,Maputo Provincia,Manhiça,Bobole,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403007,Maputo Provincia,Manhiça,Bobole,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403008,Maputo Provincia,Manhiça,Bobole,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403009,Maputo Provincia,Manhiça,Bobole,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403010,Maputo Provincia,Manhiça,Cumbeza,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403011,Maputo Provincia,Manhiça,Cumbeza,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403012,Maputo Provincia,Manhi�a,Guava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403013,Maputo Provincia,Manhi�a,Guava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403014,Maputo Provincia,Manhi�a,Guava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403015,Maputo Provincia,Manhi�a,Guava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403016,Maputo Provincia,Manhi�a,Guava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403017,Maputo Provincia,Manhi�a,Guava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403018,Maputo Provincia,Manhi�a,Guava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403019,Maputo Provincia,Manhi�a,Guava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403020,Maputo Provincia,Manhi�a,Guava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403021,Maputo Provincia,Manhi�a,Guava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403022,Maputo Provincia,Manhi�a,Guava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403023,Maputo Provincia,Manhi�a,Guava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403024,Maputo Provincia,Manhiça,Kubeza,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403025,Maputo Provincia,Manhi�a,Marracuene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403026,Maputo Provincia,Manhi�a,Marracuene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403027,Maputo Provincia,Manhi�a,Marracuene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403028,Maputo Provincia,Manhi�a,Marracuene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403029,Maputo Provincia,Manhi�a,Marracuene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403030,Maputo Provincia,Manhi�a,Marracuene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403031,Maputo Provincia,Manhi�a,Marracuene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403032,Maputo Provincia,Manhiça,Memo 1,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403033,Maputo Provincia,Manhiça,Michafutene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,403034,Maputo Provincia,Manhiça,Pateque,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,404001,Maputo Provincia,Marracuene,29 De Setembro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,404002,Maputo Provincia,Marracuene,Agostinho Neto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,404003,Maputo Provincia,Marracuene,Agostinho Neto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,404004,Maputo Provincia,Marracuene,Bobole,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,404005,Maputo Provincia,Marracuene,Bobole,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,404006,Maputo Provincia,Marracuene,Bobole,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,404007,Maputo Provincia,Marracuene,Magawanine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,404008,Maputo Provincia,Marracuene,Mateque,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,404009,Maputo Provincia,Marracuene,Pustuluane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,404010,Maputo Provincia,Marracuene,Samora Machel,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,404011,Maputo Provincia,Marracuene,Samora Machel,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,404012,Maputo Provincia,Marracuene,Santa Isabel,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,404013,Maputo Provincia,Marracuene,Zitava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405001,Maputo Provincia,Matola,1º Maio,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405002,Maputo Provincia,Matola,1º Maio,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405003,Maputo Provincia,Matola,1º Maio,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405004,Maputo Provincia,Matola,1º Maio,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405005,Maputo Provincia,Matola,Bairro 13,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405006,Maputo Provincia,Matola,Bairro F,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405007,Maputo Provincia,Matola,Boquisso,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405008,Maputo Provincia,Matola,Boquisso,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405009,Maputo Provincia,Matola,Boquisso,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405010,Maputo Provincia,Matola,Boquisso,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405011,Maputo Provincia,Matola,Boquisso,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405012,Maputo Provincia,Matola,Boquisso,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405013,Maputo Provincia,Matola,Boquisso,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405014,Maputo Provincia,Matola,Boquisso,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405015,Maputo Provincia,Matola,Boquisso,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405016,Maputo Provincia,Matola,Boquisso,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405017,Maputo Provincia,Matola,Boquisso,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405018,Maputo Provincia,Matola,Bunhissa,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405019,Maputo Provincia,Matola,Bunhissa,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405020,Maputo Provincia,Matola,Bunhissa,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405021,Maputo Provincia,Matola,Bunhissa,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405022,Maputo Provincia,Matola,Bunhissa,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405023,Maputo Provincia,Matola,Cikuama,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405024,Maputo Provincia,Matola,Cikuama,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405025,Maputo Provincia,Matola,Congolote,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405026,Maputo Provincia,Matola,Congolote,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405027,Maputo Provincia,Matola,Congolote,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405028,Maputo Provincia,Matola,Congolote,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405029,Maputo Provincia,Matola,Congolote,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405030,Maputo Provincia,Matola,Congolote,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405031,Maputo Provincia,Matola,Congolote,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405032,Maputo Provincia,Matola,Congolote,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405033,Maputo Provincia,Matola,Congolote,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405034,Maputo Provincia,Matola,Congolote,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405035,Maputo Provincia,Matola,Congolote,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405036,Maputo Provincia,Matola,Congolote,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405037,Maputo Provincia,Matola,Congolote,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405038,Maputo Provincia,Matola,Fomento,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405039,Maputo Provincia,Matola,Fomento,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405040,Maputo Provincia,Matola,Fomento,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405041,Maputo Provincia,Matola,Fomento,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405042,Maputo Provincia,Matola,Golhoza,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405043,Maputo Provincia,Matola,Golhoza,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405044,Maputo Provincia,Matola,Golhoza,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405045,Maputo Provincia,Matola,Infulene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405046,Maputo Provincia,Matola,Infulene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405047,Maputo Provincia,Matola,Infulene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405048,Maputo Provincia,Matola,Infulene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405049,Maputo Provincia,Matola,Infulene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405050,Maputo Provincia,Matola,Infulene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405051,Maputo Provincia,Matola,Infulene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405052,Maputo Provincia,Matola,Infulene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405053,Maputo Provincia,Matola,Infulene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405054,Maputo Provincia,Matola,Intaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405055,Maputo Provincia,Matola,Intaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405056,Maputo Provincia,Matola,Intaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405057,Maputo Provincia,Matola,Intaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405058,Maputo Provincia,Matola,Intaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405059,Maputo Provincia,Matola,Intaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405060,Maputo Provincia,Matola,Intaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405061,Maputo Provincia,Matola,Intaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405062,Maputo Provincia,Matola,Intaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405063,Maputo Provincia,Matola,Intaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405064,Maputo Provincia,Matola,Intaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405065,Maputo Provincia,Matola,Intaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405066,Maputo Provincia,Matola,Jonate,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405067,Maputo Provincia,Matola,Khobe,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405068,Maputo Provincia,Matola,Khobe,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405069,Maputo Provincia,Matola,Khobe,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405070,Maputo Provincia,Matola,Khobe,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405071,Maputo Provincia,Matola,Khobe,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405072,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405073,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405074,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405075,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405076,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405077,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405078,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405079,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405080,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405081,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405082,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405083,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405084,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405085,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405086,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405087,Maputo Provincia,Matola,Liberdade,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405088,Maputo Provincia,Matola,Machava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405089,Maputo Provincia,Matola,Machava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405090,Maputo Provincia,Matola,Machava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405091,Maputo Provincia,Matola,Machava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405092,Maputo Provincia,Matola,Machava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405093,Maputo Provincia,Matola,Machava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405094,Maputo Provincia,Matola,Machava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405095,Maputo Provincia,Matola,Machava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405096,Maputo Provincia,Matola,Machava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405097,Maputo Provincia,Matola,Machava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405098,Maputo Provincia,Matola,Machava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405099,Maputo Provincia,Matola,Machava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405100,Maputo Provincia,Matola,Machava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405101,Maputo Provincia,Matola,Machava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405102,Maputo Provincia,Matola,Malhampsane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405103,Maputo Provincia,Matola,Malhampsane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405104,Maputo Provincia,Matola,Malhampsane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405105,Maputo Provincia,Matola,Malhampsane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405106,Maputo Provincia,Matola,Mali,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405107,Maputo Provincia,Matola,Manjave,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405108,Maputo Provincia,Matola,Matibwana,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405109,Maputo Provincia,Matola,Matibwana,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405110,Maputo Provincia,Matola,Matibwana,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405111,Maputo Provincia,Matola,Matlhemele,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405112,Maputo Provincia,Matola,Matlhemele,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405113,Maputo Provincia,Matola,Matlhemele,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405114,Maputo Provincia,Matola,Matlhemele,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405115,Maputo Provincia,Matola,Matlhemele,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405116,Maputo Provincia,Matola,Matola A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405117,Maputo Provincia,Matola,Matola A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405118,Maputo Provincia,Matola,Matola A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405119,Maputo Provincia,Matola,Matola A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405120,Maputo Provincia,Matola,Matola A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405121,Maputo Provincia,Matola,Matola A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405122,Maputo Provincia,Matola,Matola A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405123,Maputo Provincia,Matola,Matola A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405124,Maputo Provincia,Matola,Matola A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405125,Maputo Provincia,Matola,Matola A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405126,Maputo Provincia,Matola,Matola B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405127,Maputo Provincia,Matola,Matola C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405128,Maputo Provincia,Matola,Matola C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405129,Maputo Provincia,Matola,Matola C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405130,Maputo Provincia,Matola,Matola C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405131,Maputo Provincia,Matola,Matola C,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405132,Maputo Provincia,Matola,Matola D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405133,Maputo Provincia,Matola,Matola D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405134,Maputo Provincia,Matola,Matola F,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405135,Maputo Provincia,Matola,Matola F,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405136,Maputo Provincia,Matola,Matola F,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405137,Maputo Provincia,Matola,Matola F,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405138,Maputo Provincia,Matola,Matola Gare,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405139,Maputo Provincia,Matola,Matola Gare,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405140,Maputo Provincia,Matola,Matola Gare,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405141,Maputo Provincia,Matola,Matola Gare,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405142,Maputo Provincia,Matola,Matola Gare,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405143,Maputo Provincia,Matola,Matola Gare,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405144,Maputo Provincia,Matola,Matola Gare,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405145,Maputo Provincia,Matola,Matola Gare,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405146,Maputo Provincia,Matola,Matola Gare,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405147,Maputo Provincia,Matola,Matola H,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405148,Maputo Provincia,Matola,Matola J,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405149,Maputo Provincia,Matola,Matola J,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405150,Maputo Provincia,Matola,Matola Rio,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405151,Maputo Provincia,Matola,Matola Rio,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405152,Maputo Provincia,Matola,Matola Rio,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405153,Maputo Provincia,Matola,Mavoco,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405154,Maputo Provincia,Matola,Mozal,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405155,Maputo Provincia,Matola,Mozal,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405156,Maputo Provincia,Matola,Mozal,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405157,Maputo Provincia,Matola,Mozal,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405158,Maputo Provincia,Matola,Mucatine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405159,Maputo Provincia,Matola,Mucatine,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405160,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405161,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405162,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405163,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405164,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405165,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405166,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405167,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405168,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405169,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405170,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405171,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405172,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405173,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405174,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405175,Maputo Provincia,Matola,Muhalaze,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405176,Maputo Provincia,Matola,Mulotana,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405177,Maputo Provincia,Matola,Mussumbuluko,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405178,Maputo Provincia,Matola,Mussumbuluko,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405179,Maputo Provincia,Matola,Mussumbuluko,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405180,Maputo Provincia,Matola,Ndlavela,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405181,Maputo Provincia,Matola,Ndlavela,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405182,Maputo Provincia,Matola,Ndlavela,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405183,Maputo Provincia,Matola,Ndlavela,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405184,Maputo Provincia,Matola,Ndlavela,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405185,Maputo Provincia,Matola,Ndlavela,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405186,Maputo Provincia,Matola,Ndlavela,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405187,Maputo Provincia,Matola,Ndlavela,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405188,Maputo Provincia,Matola,Ndlavela,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405189,Maputo Provincia,Matola,Patrice Lumumba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405190,Maputo Provincia,Matola,Patrice Lumumba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405191,Maputo Provincia,Matola,Patrice Lumumba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405192,Maputo Provincia,Matola,Patrice Lumumba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405193,Maputo Provincia,Matola,Patrice Lumumba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405194,Maputo Provincia,Matola,Patrice Lumumba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405195,Maputo Provincia,Matola,Patrice Lumumba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405196,Maputo Provincia,Matola,Santa Isabel,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405197,Maputo Provincia,Matola,Santa Isabel,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405198,Maputo Provincia,Matola,Santa Isabel,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405199,Maputo Provincia,Matola,Santa Isabel,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405200,Maputo Provincia,Matola,Sao Damanso,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405201,Maputo Provincia,Matola,Sao Damanso,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405202,Maputo Provincia,Matola,Sao Damanso,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405203,Maputo Provincia,Matola,Sem Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405204,Maputo Provincia,Matola,Sidwava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405205,Maputo Provincia,Matola,Sidwava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405206,Maputo Provincia,Matola,T-3,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405207,Maputo Provincia,Matola,T-3,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405208,Maputo Provincia,Matola,T-3,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405209,Maputo Provincia,Matola,T-3,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405210,Maputo Provincia,Matola,Tchumene 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405211,Maputo Provincia,Matola,Tenga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405212,Maputo Provincia,Matola,Tenga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405213,Maputo Provincia,Matola,Tenga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405214,Maputo Provincia,Matola,Trevo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405215,Maputo Provincia,Matola,Tsalala,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405216,Maputo Provincia,Matola,Tsalala,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405217,Maputo Provincia,Matola,Tsalala,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405218,Maputo Provincia,Matola,Tsalala,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405219,Maputo Provincia,Matola,Tsalala,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405220,Maputo Provincia,Matola,Tsalala,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405221,Maputo Provincia,Matola,Tsalala,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405222,Maputo Provincia,Matola,Tsalala,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405223,Maputo Provincia,Matola,Unidade D,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405224,Maputo Provincia,Matola,Unidade H,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405225,Maputo Provincia,Matola,Xiboene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405226,Maputo Provincia,Matola,Zilinga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405227,Maputo Provincia,Matola,Zona Verde,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405228,Maputo Provincia,Matola,Zona Verde,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405229,Maputo Provincia,Matola,Zona Verde,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405230,Maputo Provincia,Matola,Zona Verde,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405231,Maputo Provincia,Matola,Zona Verde,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405232,Maputo Provincia,Matola,Zona Verde,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405233,Maputo Provincia,Matola,Zona Verde,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405234,Maputo Provincia,Matola,Zona Verde,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,405235,Maputo Provincia,Matola,Zona Verde,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406001,Maputo Provincia,Matutuine,Bairo B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406002,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406003,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406004,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406005,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406006,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406007,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406008,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406009,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406010,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406011,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406012,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406013,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406014,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406015,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406016,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406017,Maputo Provincia,Matutuine,Goboza,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406018,Maputo Provincia,Matutuine,Inkassane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406019,Maputo Provincia,Matutuine,Missevene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406020,Maputo Provincia,Matutuine,Ponta De Ouro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406021,Maputo Provincia,Matutuine,Ponta De Ouro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406022,Maputo Provincia,Matutuine,Ponta De Ouro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406023,Maputo Provincia,Matutuine,Ponta De Ouro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406024,Maputo Provincia,Matutuine,Salamanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406025,Maputo Provincia,Matutuine,Salamanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,406026,Maputo Provincia,Matutuine,Salamanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407001,Maputo Provincia,Namaacha,Bairo A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407002,Maputo Provincia,Namaacha,Bairo A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407003,Maputo Provincia,Namaacha,Bairo A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407004,Maputo Provincia,Namaacha,Bairro 1,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407005,Maputo Provincia,Namaacha,Bairro B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407006,Maputo Provincia,Namaacha,Fronteira,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407007,Maputo Provincia,Namaacha,Fronteira,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407008,Maputo Provincia,Namaacha,Goba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407009,Maputo Provincia,Namaacha,Goba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407010,Maputo Provincia,Namaacha,Goba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407011,Maputo Provincia,Namaacha,Goba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407012,Maputo Provincia,Namaacha,Goba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407013,Maputo Provincia,Namaacha,Mahelane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407014,Maputo Provincia,Namaacha,Mahelane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407015,Maputo Provincia,Namaacha,Mahelane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407016,Maputo Provincia,Namaacha,Mahelane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407017,Maputo Provincia,Namaacha,Mahelane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407018,Maputo Provincia,Namaacha,Mahelane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407019,Maputo Provincia,Namaacha,Mahelane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407020,Maputo Provincia,Namaacha,Mahelane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407021,Maputo Provincia,Namaacha,Mahelane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407022,Maputo Provincia,Namaacha,Mahelane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407023,Maputo Provincia,Namaacha,Mahelane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407024,Maputo Provincia,Namaacha,Mahelane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,407025,Maputo Provincia,Namaacha,Mahelane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501001,Sofala,Beira,Bambu,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501002,Sofala,Beira,Chanhisse,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501003,Sofala,Beira,Chipangara 1,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501004,Sofala,Beira,Chipangara 1,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501005,Sofala,Beira,Chipangara 1,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501006,Sofala,Beira,Chipangara 1,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501007,Sofala,Beira,Chipangara 1,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501008,Sofala,Beira,Chipangara 1,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501009,Sofala,Beira,Chipangara 1,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501010,Sofala,Beira,Chipangara 1,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501011,Sofala,Beira,Chipangara 1,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501012,Sofala,Beira,Chipangara 1,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501013,Sofala,Beira,Chipangara 1,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501014,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501015,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501016,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501017,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501018,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501019,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501020,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501021,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501022,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501023,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501024,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501025,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501026,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501027,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501028,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501029,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501030,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501031,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501032,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501033,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501034,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501035,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501036,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501037,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501038,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501039,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501040,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501041,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501042,Sofala,Beira,Chipangara 2,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501043,Sofala,Beira,Chota,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501044,Sofala,Beira,Chota,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501045,Sofala,Beira,Chota,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501046,Sofala,Beira,Decimo Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501047,Sofala,Beira,Decimo Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501048,Sofala,Beira,Decimo Segundo Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501049,Sofala,Beira,Esturro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501050,Sofala,Beira,Goto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501051,Sofala,Beira,Goto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501052,Sofala,Beira,Goto,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501053,Sofala,Beira,Inhamizua,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501054,Sofala,Beira,Inhamizua,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501055,Sofala,Beira,Inhamizua,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501056,Sofala,Beira,Inhamizua,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501057,Sofala,Beira,Inhamizua,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501058,Sofala,Beira,Inhamizua,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501059,Sofala,Beira,Inhamizua,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501060,Sofala,Beira,Macamilo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501061,Sofala,Beira,Macurungo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501062,Sofala,Beira,Macurungo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501063,Sofala,Beira,Macurungo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501064,Sofala,Beira,Macurungo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501065,Sofala,Beira,Macurungo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501066,Sofala,Beira,Macurungo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501067,Sofala,Beira,Macurungo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501068,Sofala,Beira,Macurungo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501069,Sofala,Beira,Macurungo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501070,Sofala,Beira,Macurungo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501071,Sofala,Beira,Macurungo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501072,Sofala,Beira,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501073,Sofala,Beira,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501074,Sofala,Beira,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501075,Sofala,Beira,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501076,Sofala,Beira,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501077,Sofala,Beira,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501078,Sofala,Beira,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501079,Sofala,Beira,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501080,Sofala,Beira,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501081,Sofala,Beira,Malanga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501082,Sofala,Beira,Manga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501083,Sofala,Beira,Manga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501084,Sofala,Beira,Manga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501085,Sofala,Beira,Manga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501086,Sofala,Beira,Manga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501087,Sofala,Beira,Manga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501088,Sofala,Beira,Manga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501089,Sofala,Beira,Manga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501090,Sofala,Beira,Manga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501091,Sofala,Beira,Manga,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501093,Sofala,Beira,Maraza,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501094,Sofala,Beira,Maraza,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501095,Sofala,Beira,Maraza,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501096,Sofala,Beira,Maraza,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501097,Sofala,Beira,Maraza,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501098,Sofala,Beira,Maraza,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501099,Sofala,Beira,Mascarenha,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501100,Sofala,Beira,Matacuane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501101,Sofala,Beira,Matacuane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501102,Sofala,Beira,Matacuane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501103,Sofala,Beira,Matacuane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501104,Sofala,Beira,Matacuane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501105,Sofala,Beira,Matacuane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501106,Sofala,Beira,Matacuane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501107,Sofala,Beira,Matacuane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501108,Sofala,Beira,Matacuane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501109,Sofala,Beira,Matacuane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501110,Sofala,Beira,Matacuane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501111,Sofala,Beira,Muchatavina,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501112,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501113,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501114,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501115,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501116,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501117,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501118,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501119,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501120,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501121,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501122,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501123,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501124,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501125,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501126,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501127,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501128,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501129,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501130,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501131,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501132,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501133,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501134,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501135,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501136,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501137,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501138,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501139,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501140,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501141,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501142,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501143,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501144,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501145,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501146,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501147,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501148,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501149,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501150,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501151,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501152,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501153,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501154,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501155,Sofala,Beira,Munhava,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501156,Sofala,Beira,Pioneiros,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501157,Sofala,Beira,Ponta Gea,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501158,Sofala,Beira,Ponta Gea,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501159,Sofala,Beira,Ponta Gea,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501160,Sofala,Beira,Quinto Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501161,Sofala,Beira,Segundo Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501162,Sofala,Beira,Sem Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501163,Sofala,Beira,Sem Bairro,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,501164,Sofala,Beira,Tanqui,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,601002,Zambézia,Nicoadala,Chico,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,601003,Zambézia,Nicoadala,Domela,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,601004,Zambézia,Nicoadala,Magodone,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,601005,Zambézia,Nicoadala,Magodone,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,601006,Zambézia,Nicoadala,Munhonha,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,601007,Zambézia,Nicoadala,Munhonha,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,601008,Zambézia,Nicoadala,Namacata 7,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,601009,Zambézia,Nicoadala,Nhamacata Disrtito De Nicoadala,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,601010,Zambézia,Nicoadala,Nherire,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,601011,Zambézia,Nicoadala,Nherire,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,601012,Zambézia,Nicoadala,Nherire,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,601013,Zambézia,Nicoadala,Nherire,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602001,Zambézia,Quelimane,A,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602002,Zambézia,Quelimane,Acordos De Lusaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602003,Zambézia,Quelimane,Acordos De Lusaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602004,Zambézia,Quelimane,Acordos De Lusaka,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602005,Zambézia,Quelimane,Amoru,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602006,Zambézia,Quelimane,Bazar,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602007,Zambézia,Quelimane,Bazar,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602008,Zambézia,Quelimane,Chico,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602009,Zambézia,Quelimane,Coalane Segundo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602010,Zambézia,Quelimane,Domela,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602011,Zambézia,Quelimane,Fanquene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602012,Zambézia,Quelimane,Manhawa B,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602013,Zambézia,Quelimane,Matiazua,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602014,Zambézia,Quelimane,Matiazua,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602015,Zambézia,Quelimane,Matuazia Saguare,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602016,Zambézia,Quelimane,Mocuba,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602017,Zambézia,Quelimane,Munhambane,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602018,Zambézia,Quelimane,Munhambone,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602019,Zambézia,Quelimane,Munhambone,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602020,Zambézia,Quelimane,Namunho,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602021,Zambézia,Quelimane,Ngololo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602022,Zambézia,Quelimane,Ngololo,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602023,Zambézia,Quelimane,Nhamakata,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602024,Zambézia,Quelimane,Nhambone,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602025,Zambézia,Quelimane,Sampene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,602026,Zambézia,Quelimane,Sampene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar
+Sin visitar,603001,Zambézia,Zavala,Muchelene,Sin visitar,Sin visitar,Sin visitar,,,,,,,Sin visitar

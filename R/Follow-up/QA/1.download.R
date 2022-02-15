@@ -59,15 +59,19 @@ raw_data_sampled <- raw_data %>%
                    quarteirao),
             by = "ID_participant") %>%
   group_by(ID_participant) %>%
-  mutate(dup = n()> 1) %>%
+  mutate(dup = n(),
+         final_attemps = sum(str_detect(status, "FINAL"))) %>%
   ungroup() %>%
-  #keep latest interviews
-  mutate(keep = dup >0 & str_detect(status, "FINAL") | (dup ==0)) %>%
+  #keep latest interviews or non duplicated, or without final outcome
+  mutate(keep = dup >1 & str_detect(status, "FINAL") | (dup ==1) |(dup >1 & final_attemps == 0)) %>%
   filter(keep) %>%
   group_by(ID_participant) %>%
   mutate(dup = n()>1) %>%
   ungroup() %>%
-  arrange(ID_participant)
+  arrange(ID_participant) %>%
+  select(-keep)
+
+#t <- select(raw_data_sampled, ID_participant, outcome, dup, status,final_attemps, keep) %>% arrange(ID_participant)
 
 
 
