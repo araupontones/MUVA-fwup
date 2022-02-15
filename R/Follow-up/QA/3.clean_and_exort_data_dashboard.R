@@ -37,7 +37,7 @@ interviews <- data_clean %>%
          unanswered = n_questions_unanswered,
          duplicated = dup, 
          duration = interview__duration,
-         date, time, url) %>%
+         date, time) %>%
   full_join(select(sample,ID, provincia, cidade, bairro), by= c("ID_participant"="ID", "provincia", "cidade", "bairro")) %>%
   mutate(across(c(resultado, status, url, interview__key, Management), function(x){if_else(is.na(x), "Sin visitar", as.character(x))}))
 

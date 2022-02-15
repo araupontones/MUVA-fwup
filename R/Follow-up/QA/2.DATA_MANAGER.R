@@ -6,7 +6,8 @@ source(run_file("0.Define_paths")) #defines key paths and paramenters
 source(run_file("1.download")) #downloads, appends versions and creates raw data
 
 
-
+dir_dashboard
+list.files(dir_dashboard, full.names = T)
 
 #read main questionaire -------------------------------------------------------
 
