@@ -37,15 +37,9 @@ interviews <- data_clean %>%
          unanswered = n_questions_unanswered,
          duplicated = dup, 
          duration = interview__duration,
-<<<<<<< HEAD
-         date, time) %>%
-||||||| 5568e89
-         date, time, url) %>%
-=======
          date, time, link) %>%
   mutate(url = glue::glue('<a href="{link}" target="_blank">Link</a>')) %>%
   select(-link) %>%
->>>>>>> 72fbcf2b99a01784d91035a734b5f41a9239b61a
   full_join(select(sample,ID, provincia, cidade, bairro), by= c("ID_participant"="ID", "provincia", "cidade", "bairro")) %>%
   mutate(across(c(resultado, status, interview__key, Management), function(x){if_else(is.na(x), "Sin visitar", as.character(x))}))
 
