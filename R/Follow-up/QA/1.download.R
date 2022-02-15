@@ -50,6 +50,7 @@ raw_data <- rio::import(raw_file)
 
 raw_data_sampled <- raw_data %>%
   mutate(ID_participant = as.character(ID_participant),
+         url = glue('<a href="https://muva.mysurvey.solutions/Interview/Review/{interview__id}"target="_blank">Link</a>'),
          status = define_status(outcome)) %>%
   left_join(select(sample,
                    ID_participant = ID,
@@ -73,7 +74,6 @@ raw_data_sampled <- raw_data %>%
 
 #t <- select(raw_data_sampled, ID_participant, outcome, dup, status,final_attemps, keep) %>% arrange(ID_participant)
 
-
-
+raw_data_sampled$url[1]
 export(raw_data_sampled, raw_file)
 cli::cli_alert_success(glue::glue('Data saved in {dir_raw}'))
