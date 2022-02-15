@@ -14,13 +14,11 @@ list.files(dir_dashboard, full.names = T)
 field_data <- rio::import(get_file2(dir_raw, survey))
 
 
-
-
 #inteerviews to be dropped: duplicates, etc. ----------------------------------
 drop_interviews <- c(
   
-  "17-23-36-51"
-  
+  "17-23-36-51",
+  "30-12-12-10"
   
   
 )
@@ -30,9 +28,12 @@ drop_interviews <- c(
 force_approve <- c(
   
   "73-54-31-64",
-  "84-63-06-88"
+  "84-63-06-88",
+  "95-82-56-77"
   
 )
+
+
 
 
 
@@ -48,6 +49,7 @@ force_approve <- c(
 
 
 source(run_file("3.clean_and_exort_data_dashboard"))
+
 
 
 
