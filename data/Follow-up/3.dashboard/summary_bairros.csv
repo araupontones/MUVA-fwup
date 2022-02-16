@@ -106,7 +106,7 @@ INATIVO,Maputo Cidade,Maputo,Urbanização,0,0,0,2,0,2
 INATIVO,Maputo Cidade,Maputo,Xihango,0,0,0,1,0,1
 INATIVO,Maputo Cidade,Maputo,Xipamanine,0,0,0,4,0,4
 INATIVO,Maputo Cidade,Maputo,Zimpeto,0,0,0,15,0,15
-ATIVO,Maputo Provincia,Boane,Bairro 1,0,0,0,0,0,1
+CHECK!,Maputo Provincia,Boane,Bairro 1,0,0,2,0,0,1
 INATIVO,Maputo Provincia,Boane,Bairro 2,0,0,0,2,0,2
 INATIVO,Maputo Provincia,Boane,Bairro 7,0,0,0,1,0,1
 INATIVO,Maputo Provincia,Boane,Beleluane,0,0,0,1,0,1

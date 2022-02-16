@@ -11,7 +11,7 @@ INATIVO,Gaza,Macia,0,0,0,1,0,1
 INATIVO,Gaza,Madjacaze,0,0,0,1,0,1
 INATIVO,Gaza,Xai-Xai,0,0,0,52,0,52
 ATIVO,Maputo Cidade,Maputo,0,1,0,816,1,817
-ATIVO,Maputo Provincia,Boane,0,0,0,18,0,19
+CHECK!,Maputo Provincia,Boane,0,0,2,18,0,19
 INATIVO,Maputo Provincia,Kathembe,0,0,0,1,0,1
 INATIVO,Maputo Provincia,Manhiça,0,0,0,34,0,34
 INATIVO,Maputo Provincia,Marracuene,0,0,0,13,0,13
