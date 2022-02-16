@@ -6,6 +6,12 @@ exfile_count <- file.path(dir_conf_clean, "confirmation_summary.xlsx")
 #import downloads --------------------------------------------------------------
 
 dwls <- import(infile)
+
+
+
+
+
+
 names(dwls)
 #View(dwls)
 #clean provincia, cidade, bairro ----------------------------------------------
@@ -228,14 +234,8 @@ d_loc <- dwls %>%
   select(-c(numero, rua, rua2))
 
 
-#View(d_loc)
-
-#View(d_loc)
-#d_loc %>% filter(provincia == "Maputo Provincia") %>%tabyl(cidade)
-#d_loc %>% filter(cidade == "Maputo") %>%tabyl(bairro)
 
 
-#d_loc %>% tabyl(bairro)
 
 #to fetch information from reference data --------------------------------------
 infile_ref <- file.path(dir_prep_clean, "muva_follow_up_clean.rds")

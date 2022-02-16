@@ -8,7 +8,7 @@ sample <- import(infile)
 
 
 
-db_look_ups
+
 
 
 
@@ -43,7 +43,7 @@ numericParticipant = sample %>%
   select(-participante,
          rowcode = ID) 
 
-
+View(numericParticipant)
 write.table(numericParticipant,file.path(db_look_ups,"namesNumericParticipants.txt"), sep = "\t",
             col.names = T, row.names = F)
 
