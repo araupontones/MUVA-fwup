@@ -1,4 +1,5 @@
 infile <- file.path(dir_conf_clean, "confirmation_clean.rds")
+infile_sonho_rural <- file.path(dir_conf_clean,"Sonho_Rural_Extra_Sample.rds") #extra sample of sonho rural
 exfile <- file.path(dir_fp_sample, "sample.rds")
 exsummary <- file.path(dir_fp_sample, "respondents_by_city.xlsx")
 exbairros <- file.path(db_design, "ista_dos_bairros.xlsx")
@@ -8,7 +9,7 @@ exbairros <- file.path(db_design, "ista_dos_bairros.xlsx")
 #import data -------------------------------------------------------------------
 
 conf <- import(infile)
-
+sonho_rural <- import(infile_sonho_rural)
 
 
 #Keep targeted locations --------------------------------------------------------
@@ -27,13 +28,13 @@ target <- conf %>%
 
 
 
-str_remove("1 QUARTEIRAO", "QUARTEIRAO")
-target %>% tabyl(cidade)
-target %>% filter(provincia == "Maputo Provincia") %>% tabyl(cidade)
 
 
+##append sonho rural ----------------------------------------------------------
 
-#View(dups)
+target_plus_sonho <- target %>%
+  plyr::rbind.fill(sonho_rural)
+
 
 #Create IDs --------------------------------------------------------------------
 
@@ -41,7 +42,7 @@ target %>% filter(provincia == "Maputo Provincia") %>% tabyl(cidade)
 
 
 
-ids <- target %>% 
+ids <- target_plus_sonho %>% 
   create_ids(geo = "provincia") %>%
   create_ids(geo = "cidade", higher_level = "provincia") %>%
   create_ids(geo = "bairro", higher_level = "cidade") %>%
@@ -60,28 +61,26 @@ ids <- target %>%
                                                                                T ~ as.character(x))),
          ID = paste0(ID_provincia, ID_cidade, ID_participante)) %>%
   relocate(ID) %>%
-  relocate(quarteirao, .after = bairro) %>%
-  mutate(l = str_length(ID), .after = ID)
+  relocate(quarteirao, .after = bairro)
+
 
 #View(ids)
 
 dups <- ids %>% get_dupes(ID)
 
-#View(ids)
 
-names(ids)
 
 #export --------------------------------------------------------------------------
 
 export(ids, exfile)
 
 #count records by cidade,
-
-ids %>% group_by(provincia, cidade) %>% summarise(total = n()) %>% export(., exsummary, overwrite = T)
-View(ids)
-names(ids)
-#lista dos bairros --------------------------------------------------------
-bairros <- ids %>% group_by(cidade, bairro) %>% summarise(participantes = n())
+# 
+# ids %>% group_by(provincia, cidade) %>% summarise(total = n()) %>% export(., exsummary, overwrite = T)
+# View(ids)
+# names(ids)
+# #lista dos bairros --------------------------------------------------------
+# bairros <- ids %>% group_by(cidade, bairro) %>% summarise(participantes = n())
 # 
 # View(bairros)
 # 
