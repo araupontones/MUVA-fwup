@@ -8,10 +8,10 @@ sample <- import(infile)
 
 
 
+View(sample)
 
-
-
-
+#load function
+source("functions/fn_split_numbers.R")
 
   # sample %>%
   # select(ID, project) %>%
