@@ -15,6 +15,7 @@ INATIVO,Gaza,Chokwé,Quinto Bairro,0,0,0,12,0,12
 INATIVO,Gaza,Chokwé,Segundo Bairo,0,0,0,2,0,2
 INATIVO,Gaza,Chokwé,Setimo Bairro,0,0,0,2,0,2
 INATIVO,Gaza,Chokwé,Sexto Bairro,0,0,0,2,0,2
+INATIVO,Gaza,Chokwé,Sonho Rural,0,0,0,26,0,26
 INATIVO,Gaza,Chokwé,Terceiro Bairro,0,0,0,2,0,2
 INATIVO,Gaza,Chonguene,Bango,0,0,0,1,0,1
 ATIVO,Gaza,Chonguene,Fidel Castro,0,1,0,1,1,2
@@ -22,11 +23,13 @@ INATIVO,Gaza,Chonguene,Maciene,0,0,0,1,0,1
 INATIVO,Gaza,Chonguene,Nhoquene,0,0,0,2,0,2
 INATIVO,Gaza,Chonguene,Rua De Chicombene,0,0,0,1,0,1
 INATIVO,Gaza,Chonguene,Segundo Bairro,0,0,0,1,0,1
+INATIVO,Gaza,Chonguene,Sonho Rural,0,0,0,18,0,18
 INATIVO,Gaza,Chonguene,Terceiro Bairro,0,0,0,2,0,2
 INATIVO,Gaza,Hokwe,Setimo Bairro,0,0,0,1,0,1
 CHECK!,Gaza,Limpopo,Bairro 2,0,0,1,1,0,2
 APPROVED,Gaza,Limpopo,Bango,1,0,0,0,1,1
 INATIVO,Gaza,Limpopo,Chissano,0,0,0,2,0,2
+INATIVO,Gaza,Limpopo,Sonho Rural,0,0,0,25,0,25
 INATIVO,Gaza,Limpopo,Xikubane,0,0,0,1,0,1
 INATIVO,Gaza,Lionde,Quarto Bairro,0,0,0,1,0,1
 INATIVO,Gaza,Macia,Bairro 3,0,0,0,1,0,1
@@ -47,6 +50,7 @@ INATIVO,Gaza,Xai-Xai,Massiene,0,0,0,1,0,1
 INATIVO,Gaza,Xai-Xai,Ngulelene,0,0,0,4,0,4
 INATIVO,Gaza,Xai-Xai,Patrice Lumumba,0,0,0,6,0,6
 INATIVO,Gaza,Xai-Xai,Primeiro Bairro,0,0,0,2,0,2
+INATIVO,Gaza,Xai-Xai,Sonho Rural,0,0,0,33,0,33
 INATIVO,Gaza,Xai-Xai,Terceiro Bairro,0,0,0,2,0,2
 INATIVO,Gaza,Xai-Xai,Venhene,0,0,0,1,0,1
 INATIVO,Gaza,Xai-Xai,Xicumbane,0,0,0,1,0,1
@@ -106,7 +110,7 @@ INATIVO,Maputo Cidade,Maputo,Urbanização,0,0,0,2,0,2
 INATIVO,Maputo Cidade,Maputo,Xihango,0,0,0,1,0,1
 INATIVO,Maputo Cidade,Maputo,Xipamanine,0,0,0,4,0,4
 INATIVO,Maputo Cidade,Maputo,Zimpeto,0,0,0,15,0,15
-ATIVO,Maputo Provincia,Boane,Bairro 1,0,0,0,0,0,1
+CHECK!,Maputo Provincia,Boane,Bairro 1,0,0,2,0,0,1
 INATIVO,Maputo Provincia,Boane,Bairro 2,0,0,0,2,0,2
 INATIVO,Maputo Provincia,Boane,Bairro 7,0,0,0,1,0,1
 INATIVO,Maputo Provincia,Boane,Beleluane,0,0,0,1,0,1
@@ -193,12 +197,14 @@ INATIVO,Maputo Provincia,Matutuine,Inkassane,0,0,0,1,0,1
 INATIVO,Maputo Provincia,Matutuine,Missevene,0,0,0,1,0,1
 INATIVO,Maputo Provincia,Matutuine,Ponta De Ouro,0,0,0,4,0,4
 INATIVO,Maputo Provincia,Matutuine,Salamanga,0,0,0,3,0,3
+INATIVO,Maputo Provincia,Matutuine,Sonho Rural,0,0,0,22,0,22
 INATIVO,Maputo Provincia,Namaacha,Bairo A,0,0,0,3,0,3
 INATIVO,Maputo Provincia,Namaacha,Bairro 1,0,0,0,1,0,1
 INATIVO,Maputo Provincia,Namaacha,Bairro B,0,0,0,1,0,1
 INATIVO,Maputo Provincia,Namaacha,Fronteira,0,0,0,2,0,2
 INATIVO,Maputo Provincia,Namaacha,Goba,0,0,0,5,0,5
 INATIVO,Maputo Provincia,Namaacha,Mahelane,0,0,0,13,0,13
+INATIVO,Maputo Provincia,Namaacha,Sonho Rural,0,0,0,16,0,16
 INATIVO,Sofala,Beira,Bambu,0,0,0,1,0,1
 INATIVO,Sofala,Beira,Chanhisse,0,0,0,1,0,1
 INATIVO,Sofala,Beira,Chipangara 1,0,0,0,11,0,11
@@ -223,6 +229,7 @@ INATIVO,Sofala,Beira,Ponta Gea,0,0,0,3,0,3
 INATIVO,Sofala,Beira,Quinto Bairro,0,0,0,1,0,1
 INATIVO,Sofala,Beira,Segundo Bairro,0,0,0,1,0,1
 INATIVO,Sofala,Beira,Sem Bairro,0,0,0,2,0,2
+INATIVO,Sofala,Beira,Sonho Rural,0,0,0,49,0,49
 INATIVO,Sofala,Beira,Tanqui,0,0,0,1,0,1
 APPROVED,Zambézia,Nicoadala,Chagueiva,0,1,0,0,1,1
 INATIVO,Zambézia,Nicoadala,Chico,0,0,0,1,0,1
@@ -232,6 +239,7 @@ INATIVO,Zambézia,Nicoadala,Munhonha,0,0,0,2,0,2
 INATIVO,Zambézia,Nicoadala,Namacata 7,0,0,0,1,0,1
 INATIVO,Zambézia,Nicoadala,Nhamacata Disrtito De Nicoadala,0,0,0,1,0,1
 INATIVO,Zambézia,Nicoadala,Nherire,0,0,0,4,0,4
+INATIVO,Zambézia,Nicoadala,Sonho Rural,0,0,0,34,0,34
 INATIVO,Zambézia,Quelimane,A,0,0,0,1,0,1
 INATIVO,Zambézia,Quelimane,Acordos De Lusaka,0,0,0,3,0,3
 INATIVO,Zambézia,Quelimane,Amoru,0,0,0,1,0,1
@@ -251,4 +259,5 @@ INATIVO,Zambézia,Quelimane,Ngololo,0,0,0,2,0,2
 INATIVO,Zambézia,Quelimane,Nhamakata,0,0,0,1,0,1
 INATIVO,Zambézia,Quelimane,Nhambone,0,0,0,1,0,1
 INATIVO,Zambézia,Quelimane,Sampene,0,0,0,2,0,2
+INATIVO,Zambézia,Quelimane,Sonho Rural,0,0,0,13,0,13
 INATIVO,Zambézia,Zavala,Muchelene,0,0,0,1,0,1
