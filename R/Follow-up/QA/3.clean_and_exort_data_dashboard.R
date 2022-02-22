@@ -32,17 +32,24 @@ save_clean_data(clean_database = data_clean,
 #data for dashboard ---------------------------------------------------------
 interviews <- data_clean %>% 
   mutate(resultado = susor::susor_get_stata_labels(outcome))%>%
-  select(interview__key, ID_participant, provincia, 
-         cidade, bairro, resultado, status,Management,has__errors, 
+  select(interview__key, ID_participant, 
+         provincia, 
+         cidade, bairro, 
+         inquiridor,
+         resultado, status,Management,has__errors, 
          unanswered = n_questions_unanswered,
          duplicated = dup, 
          duration = interview__duration,
          interview__id,
          date, time, url) %>%
-  full_join(select(sample,ID, provincia, cidade, bairro), by= c("ID_participant"="ID", "provincia", "cidade", "bairro")) %>%
-  mutate(across(c(resultado, status, interview__key, Management), function(x){if_else(is.na(x), "Sin visitar", as.character(x))}))
+  full_join(select(sample,ID, participante, provincia, cidade, bairro), by= c("ID_participant"="ID", "provincia", "cidade", "bairro")) %>%
+  mutate(inquiridor = susor_get_stata_labels(inquiridor),
+         across(c(resultado, status, interview__key, Management, inquiridor), function(x){if_else(is.na(x), "Sin visitar", as.character(x))}),
+         )
 
 
+
+View(interviews)
 
 
 rio::export(interviews, file.path(dir_dashboard, "interviews.csv"))

@@ -18,7 +18,11 @@ INATIVO,Maputo Provincia,Marracuene,0,0,0,13,0,13
 INATIVO,Maputo Provincia,Matola,0,0,0,235,0,235
 INATIVO,Maputo Provincia,Matutuine,0,0,0,48,0,48
 INATIVO,Maputo Provincia,Namaacha,0,0,0,41,0,41
+<<<<<<< HEAD
 ATIVO,Sofala,Beira,0,1,0,212,1,214
+=======
+ATIVO,Sofala,Beira,0,1,0,212,1,213
+>>>>>>> 0129745f3d0ed28b09b52252337c6ab81c6624d1
 ATIVO,Zambézia,Nicoadala,0,1,0,46,1,47
 INATIVO,Zambézia,Quelimane,0,0,0,39,0,39
 INATIVO,Zambézia,Zavala,0,0,0,1,0,1

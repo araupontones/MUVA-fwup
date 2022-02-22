@@ -11,12 +11,12 @@ library(susor)
 
 
 
-
 #parameters are created in X.QA_System.
 
 
 #download data ----------------------------------------------------------------
 
+#login
 susor_login(susor_server = "http://my.muvasurveys.com/",
             susor_user = "araupontones",
             susor_password = "Seguridad1",
@@ -29,15 +29,14 @@ susor_login(susor_server = "http://my.muvasurveys.com/",
 
 
 
-#View(susor_questionnaires)
 
-#NDT
+#download
 susor_export_file(susor_qn_variable = "grandfollowup2022",
                   susor_qn_version = 3,
                   susor_format = "STATA"
                   )
 
-
+#append version
 susor_append_versions(susor_qn_variable = "grandfollowup2022",
                       susor_format = "STATA")
 
@@ -72,8 +71,13 @@ raw_data_sampled <- raw_data %>%
   arrange(ID_participant) %>%
   select(-keep)
 
+
+
+
+
 #t <- select(raw_data_sampled, ID_participant, outcome, dup, status,final_attemps, keep) %>% arrange(ID_participant)
 
-raw_data_sampled$url[1]
+
 export(raw_data_sampled, raw_file)
+
 cli::cli_alert_success(glue::glue('Data saved in {dir_raw}'))

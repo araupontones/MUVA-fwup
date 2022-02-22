@@ -229,7 +229,11 @@ INATIVO,Sofala,Beira,Ponta Gea,0,0,0,3,0,3
 INATIVO,Sofala,Beira,Quinto Bairro,0,0,0,1,0,1
 INATIVO,Sofala,Beira,Segundo Bairro,0,0,0,1,0,1
 INATIVO,Sofala,Beira,Sem Bairro,0,0,0,2,0,2
+<<<<<<< HEAD
 ATIVO,Sofala,Beira,Sonho Rural,0,0,0,49,0,50
+=======
+INATIVO,Sofala,Beira,Sonho Rural,0,0,0,49,0,49
+>>>>>>> 0129745f3d0ed28b09b52252337c6ab81c6624d1
 INATIVO,Sofala,Beira,Tanqui,0,0,0,1,0,1
 APPROVED,Zambézia,Nicoadala,Chagueiva,0,1,0,0,1,1
 INATIVO,Zambézia,Nicoadala,Chico,0,0,0,1,0,1
