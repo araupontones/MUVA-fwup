@@ -45,7 +45,7 @@ interviews <- data_clean %>%
          date, time, url) %>%
   full_join(select(sample,ID, participante, provincia, cidade, bairro), by= c("ID_participant"="ID", "provincia", "cidade", "bairro")) %>%
   mutate(inquiridor = susor::susor_get_stata_labels(inquiridor),
-         across(c(resultado, status, interview__key, Management, inquiridor), function(x){if_else(is.na(x), "Sin visitar", as.character(x))}),
+         across(c(resultado, status, interview__key, Management, inquiridor), function(x){if_else(is.na(x), "Sin visitar", as.character(x))})
          )
 
 
@@ -61,11 +61,8 @@ cli::cli_alert_success("Dashboard data interviews saved!")
 provs_dash <- create_dashGeo(database = interviews, 
                by ="provincias",
                dir_dashboard = dir_dashboard,
-               provincia) %>%
-  mutate(provincia = factor(provincia,
-                            levels =  c(sort(unique(interviews[["provincia"]])), "Total"),
-                            ordered = T))
-
+               provincia) 
+ 
 
 
 

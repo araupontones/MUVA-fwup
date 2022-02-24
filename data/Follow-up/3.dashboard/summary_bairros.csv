@@ -1,264 +1,263 @@
-status,provincia,cidade,bairro,Visitadas,Revisitando,Completas,Nao conseguimos,Rejected,Sim visitar,Approved,sampled
-INATIVO,Cabo Delgado,Pemba,Alto Gigone,0,0,0,0,0,5,0,5
-INATIVO,Cabo Delgado,Pemba,Areia Vermelha Lado De Viver,0,0,0,0,0,1,0,1
-INATIVO,Cabo Delgado,Pemba,Cariaco,0,0,0,0,0,8,0,8
-INATIVO,Cabo Delgado,Pemba,Expansão,0,0,0,0,0,3,0,3
-INATIVO,Cabo Delgado,Pemba,Ingonani,0,0,0,0,0,3,0,3
-INATIVO,Cabo Delgado,Pemba,Josina Machel,0,0,0,0,0,6,0,6
-INATIVO,Cabo Delgado,Pemba,Mahate,0,0,0,0,0,1,0,1
-INATIVO,Cabo Delgado,Pemba,Manhide,0,0,0,0,0,1,0,1
-INATIVO,Cabo Delgado,Pemba,Natipe,0,0,0,0,0,7,0,7
-INATIVO,Gaza,Chibuto,Bairro 2,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Chicumbane,Bairro 4,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Chokwé,Quarto Bairro,0,0,0,0,0,5,0,5
-INATIVO,Gaza,Chokwé,Quinto Bairro,0,0,0,0,0,12,0,12
-INATIVO,Gaza,Chokwé,Segundo Bairo,0,0,0,0,0,2,0,2
-INATIVO,Gaza,Chokwé,Setimo Bairro,0,0,0,0,0,2,0,2
-INATIVO,Gaza,Chokwé,Sexto Bairro,0,0,0,0,0,2,0,2
-INATIVO,Gaza,Chokwé,Sonho Rural,0,0,0,0,0,26,0,26
-INATIVO,Gaza,Chokwé,Terceiro Bairro,0,0,0,0,0,2,0,2
-INATIVO,Gaza,Chonguene,Bango,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Chonguene,Fidel Castro,0,0,0,0,0,2,0,2
-INATIVO,Gaza,Chonguene,Maciene,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Chonguene,Nhoquene,0,0,0,0,0,2,0,2
-INATIVO,Gaza,Chonguene,Rua De Chicombene,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Chonguene,Segundo Bairro,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Chonguene,Sonho Rural,0,0,0,0,0,18,0,18
-INATIVO,Gaza,Chonguene,Terceiro Bairro,0,0,0,0,0,2,0,2
-INATIVO,Gaza,Hokwe,Setimo Bairro,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Limpopo,Bairro 2,0,0,0,0,0,2,0,2
-INATIVO,Gaza,Limpopo,Bango,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Limpopo,Chissano,0,0,0,0,0,2,0,2
-INATIVO,Gaza,Limpopo,Sonho Rural,0,0,0,0,0,25,0,25
-INATIVO,Gaza,Limpopo,Xikubane,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Lionde,Quarto Bairro,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Macia,Bairro 3,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Madjacaze,Samora Machel,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Xai-Xai,1 Inhamissa,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Xai-Xai,2 Chicumbane,0,0,0,0,0,3,0,3
-INATIVO,Gaza,Xai-Xai,2000,0,0,0,0,0,3,0,3
-INATIVO,Gaza,Xai-Xai,25 De Junho,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Xai-Xai,4 Guoanine,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Xai-Xai,Bairro 11,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Xai-Xai,Bango,0,0,0,0,0,2,0,2
-INATIVO,Gaza,Xai-Xai,Chilenguene,0,0,0,0,0,2,0,2
-INATIVO,Gaza,Xai-Xai,Chissano,0,0,0,0,0,2,0,2
-INATIVO,Gaza,Xai-Xai,Chonguene,0,0,0,0,0,11,0,11
-INATIVO,Gaza,Xai-Xai,Fidel Castro,0,0,0,0,0,7,0,7
-INATIVO,Gaza,Xai-Xai,Limpopo,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Xai-Xai,Massiene,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Xai-Xai,Ngulelene,0,0,0,0,0,4,0,4
-INATIVO,Gaza,Xai-Xai,Patrice Lumumba,0,0,0,0,0,6,0,6
-INATIVO,Gaza,Xai-Xai,Primeiro Bairro,0,0,0,0,0,2,0,2
-INATIVO,Gaza,Xai-Xai,Sonho Rural,0,0,0,0,0,33,0,33
-INATIVO,Gaza,Xai-Xai,Terceiro Bairro,0,0,0,0,0,2,0,2
-INATIVO,Gaza,Xai-Xai,Venhene,0,0,0,0,0,1,0,1
-INATIVO,Gaza,Xai-Xai,Xicumbane,0,0,0,0,0,1,0,1
-INATIVO,Maputo Cidade,Maputo,25 De Junho A,0,0,0,0,0,2,0,2
-INATIVO,Maputo Cidade,Maputo,25 De Junho B,0,0,0,0,0,3,0,3
-INATIVO,Maputo Cidade,Maputo,3 De Fevereiro,0,0,0,0,0,2,0,2
-INATIVO,Maputo Cidade,Maputo,Aeroporto A,0,0,0,0,0,37,0,37
-INATIVO,Maputo Cidade,Maputo,Aeroporto B,0,0,0,0,0,37,0,37
-INATIVO,Maputo Cidade,Maputo,Albazine,0,0,0,0,0,40,0,40
-INATIVO,Maputo Cidade,Maputo,Alto Mae B,0,0,0,0,0,2,0,2
-INATIVO,Maputo Cidade,Maputo,Bagamoio,0,0,0,0,0,5,0,5
-INATIVO,Maputo Cidade,Maputo,Benfica,0,0,0,0,0,2,0,2
-INATIVO,Maputo Cidade,Maputo,Central A,0,0,0,0,0,6,0,6
-INATIVO,Maputo Cidade,Maputo,Chamanculo A,0,0,0,0,0,10,0,10
-INATIVO,Maputo Cidade,Maputo,Chamanculo B,0,0,0,0,0,23,0,23
-INATIVO,Maputo Cidade,Maputo,Chamanculo C,0,0,0,0,0,64,0,64
-INATIVO,Maputo Cidade,Maputo,Chamanculo D,0,0,0,0,0,24,0,24
-INATIVO,Maputo Cidade,Maputo,Choupal,0,0,0,0,0,1,0,1
-INATIVO,Maputo Cidade,Maputo,Comule,0,0,0,0,0,2,0,2
-INATIVO,Maputo Cidade,Maputo,Coop,0,0,0,0,0,2,0,2
-INATIVO,Maputo Cidade,Maputo,Costa Sol,0,0,0,0,0,1,0,1
-INATIVO,Maputo Cidade,Maputo,Ferroviario,0,0,0,0,0,54,0,54
-INATIVO,Maputo Cidade,Maputo,George Dimitrov,0,0,0,0,0,5,0,5
-INATIVO,Maputo Cidade,Maputo,Hulene A,0,0,0,0,0,7,0,7
-INATIVO,Maputo Cidade,Maputo,Hulene B,0,0,0,0,0,18,0,18
-CHECK!,Maputo Cidade,Maputo,Inhagoia A,24,5,15,1,3,19,16,43
-ATIVO,Maputo Cidade,Maputo,Inhagoia B,4,0,4,0,0,14,4,18
-INATIVO,Maputo Cidade,Maputo,Jardim,0,0,0,0,0,5,0,5
-INATIVO,Maputo Cidade,Maputo,Laulane,0,0,0,0,0,6,0,6
-INATIVO,Maputo Cidade,Maputo,Luis Cabral,0,0,0,0,0,12,0,12
-INATIVO,Maputo Cidade,Maputo,Mafalala,0,0,0,0,0,1,0,1
-INATIVO,Maputo Cidade,Maputo,Magoanine A,0,0,0,0,0,21,0,21
-INATIVO,Maputo Cidade,Maputo,Magoanine B,0,0,0,0,0,18,0,18
-INATIVO,Maputo Cidade,Maputo,Magoanine C,0,0,0,0,0,60,0,60
-INATIVO,Maputo Cidade,Maputo,Magoanine D,0,0,0,0,0,1,0,1
-INATIVO,Maputo Cidade,Maputo,Mahotas,0,0,0,0,0,28,0,28
-INATIVO,Maputo Cidade,Maputo,Malanga,0,0,0,0,0,6,0,6
-INATIVO,Maputo Cidade,Maputo,Malhangalene A,0,0,0,0,0,2,0,2
-INATIVO,Maputo Cidade,Maputo,Malhazine,0,0,0,0,0,2,0,2
-INATIVO,Maputo Cidade,Maputo,Mavalane A,0,0,0,0,0,1,0,1
-INATIVO,Maputo Cidade,Maputo,Mavalane B,0,0,0,0,0,2,0,2
-INATIVO,Maputo Cidade,Maputo,Maxaquene A,0,0,0,0,0,4,0,4
-INATIVO,Maputo Cidade,Maputo,Maxaquene B,0,0,0,0,0,9,0,9
-INATIVO,Maputo Cidade,Maputo,Maxaquene C,0,0,0,0,0,12,0,12
-INATIVO,Maputo Cidade,Maputo,Maxaquene D,0,0,0,0,0,14,0,14
-INATIVO,Maputo Cidade,Maputo,Minkadjuine,0,0,0,0,0,3,0,3
-INATIVO,Maputo Cidade,Maputo,Muhalaze,0,0,0,0,0,1,0,1
-INATIVO,Maputo Cidade,Maputo,Nhagobe,0,0,0,0,0,1,0,1
-INATIVO,Maputo Cidade,Maputo,Nhagoi,0,0,0,0,0,11,0,11
-INATIVO,Maputo Cidade,Maputo,Nsalene,0,0,0,0,0,1,0,1
-INATIVO,Maputo Cidade,Maputo,Polana Caniço A,0,0,0,0,0,58,0,58
-INATIVO,Maputo Cidade,Maputo,Polana Caniço B,0,0,0,0,0,98,0,98
-INATIVO,Maputo Cidade,Maputo,Polana Cimento A,0,0,0,0,0,3,0,3
-INATIVO,Maputo Cidade,Maputo,Sem Bairro,0,0,0,0,0,5,0,5
-INATIVO,Maputo Cidade,Maputo,Unidade,0,0,0,0,0,2,0,2
-INATIVO,Maputo Cidade,Maputo,Urbanização,0,0,0,0,0,2,0,2
-INATIVO,Maputo Cidade,Maputo,Xihango,0,0,0,0,0,1,0,1
-INATIVO,Maputo Cidade,Maputo,Xipamanine,0,0,0,0,0,4,0,4
-INATIVO,Maputo Cidade,Maputo,Zimpeto,0,0,0,0,0,15,0,15
-INATIVO,Maputo Provincia,Boane,Bairro 1,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Boane,Bairro 2,0,0,0,0,0,2,0,2
-INATIVO,Maputo Provincia,Boane,Bairro 7,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Boane,Beleluane,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Boane,Campoane,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Boane,Km16,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Boane,Mahubo,0,0,0,0,0,1,0,1
-ATIVO,Maputo Provincia,Boane,Matutuine,1,0,1,0,0,7,1,8
-INATIVO,Maputo Provincia,Boane,Paulo Samuel Kakomba,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Boane,Xinonaquila,0,0,0,0,0,2,0,2
-INATIVO,Maputo Provincia,Kathembe,Chamissava,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Manhiça,Abel Jafar,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Manhiça,Bobole,0,0,0,0,0,8,0,8
-INATIVO,Maputo Provincia,Manhiça,Cumbeza,0,0,0,0,0,2,0,2
-INATIVO,Maputo Provincia,Manhi�a,Guava,0,0,0,0,0,12,0,12
-INATIVO,Maputo Provincia,Manhiça,Kubeza,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Manhi�a,Marracuene,0,0,0,0,0,7,0,7
-INATIVO,Maputo Provincia,Manhiça,Memo 1,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Manhiça,Michafutene,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Manhiça,Pateque,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Marracuene,29 De Setembro,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Marracuene,Agostinho Neto,0,0,0,0,0,2,0,2
-INATIVO,Maputo Provincia,Marracuene,Bobole,0,0,0,0,0,3,0,3
-INATIVO,Maputo Provincia,Marracuene,Magawanine,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Marracuene,Mateque,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Marracuene,Pustuluane,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Marracuene,Samora Machel,0,0,0,0,0,2,0,2
-INATIVO,Maputo Provincia,Marracuene,Santa Isabel,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Marracuene,Zitava,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,1º Maio,0,0,0,0,0,4,0,4
-INATIVO,Maputo Provincia,Matola,Bairro 13,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Bairro F,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Boquisso,0,0,0,0,0,11,0,11
-INATIVO,Maputo Provincia,Matola,Bunhissa,0,0,0,0,0,5,0,5
-INATIVO,Maputo Provincia,Matola,Cikuama,0,0,0,0,0,2,0,2
-INATIVO,Maputo Provincia,Matola,Congolote,0,0,0,0,0,13,0,13
-INATIVO,Maputo Provincia,Matola,Fomento,0,0,0,0,0,4,0,4
-INATIVO,Maputo Provincia,Matola,Golhoza,0,0,0,0,0,3,0,3
-INATIVO,Maputo Provincia,Matola,Infulene,0,0,0,0,0,9,0,9
-INATIVO,Maputo Provincia,Matola,Intaka,0,0,0,0,0,12,0,12
-INATIVO,Maputo Provincia,Matola,Jonate,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Khobe,0,0,0,0,0,5,0,5
-INATIVO,Maputo Provincia,Matola,Liberdade,0,0,0,0,0,16,0,16
-INATIVO,Maputo Provincia,Matola,Machava,0,0,0,0,0,14,0,14
-INATIVO,Maputo Provincia,Matola,Malhampsane,0,0,0,0,0,4,0,4
-INATIVO,Maputo Provincia,Matola,Mali,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Manjave,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Matibwana,0,0,0,0,0,3,0,3
-INATIVO,Maputo Provincia,Matola,Matlhemele,0,0,0,0,0,5,0,5
-INATIVO,Maputo Provincia,Matola,Matola A,0,0,0,0,0,10,0,10
-INATIVO,Maputo Provincia,Matola,Matola B,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Matola C,0,0,0,0,0,5,0,5
-INATIVO,Maputo Provincia,Matola,Matola D,0,0,0,0,0,2,0,2
-INATIVO,Maputo Provincia,Matola,Matola F,0,0,0,0,0,4,0,4
-INATIVO,Maputo Provincia,Matola,Matola Gare,0,0,0,0,0,9,0,9
-INATIVO,Maputo Provincia,Matola,Matola H,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Matola J,0,0,0,0,0,2,0,2
-INATIVO,Maputo Provincia,Matola,Matola Rio,0,0,0,0,0,3,0,3
-INATIVO,Maputo Provincia,Matola,Mavoco,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Mozal,0,0,0,0,0,4,0,4
-INATIVO,Maputo Provincia,Matola,Mucatine,0,0,0,0,0,2,0,2
-INATIVO,Maputo Provincia,Matola,Muhalaze,0,0,0,0,0,16,0,16
-INATIVO,Maputo Provincia,Matola,Mulotana,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Mussumbuluko,0,0,0,0,0,3,0,3
-INATIVO,Maputo Provincia,Matola,Ndlavela,0,0,0,0,0,9,0,9
-INATIVO,Maputo Provincia,Matola,Patrice Lumumba,0,0,0,0,0,7,0,7
-INATIVO,Maputo Provincia,Matola,Santa Isabel,0,0,0,0,0,4,0,4
-INATIVO,Maputo Provincia,Matola,Sao Damanso,0,0,0,0,0,3,0,3
-INATIVO,Maputo Provincia,Matola,Sem Bairro,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Sidwava,0,0,0,0,0,2,0,2
-INATIVO,Maputo Provincia,Matola,T-3,0,0,0,0,0,4,0,4
-INATIVO,Maputo Provincia,Matola,Tchumene 2,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Tenga,0,0,0,0,0,3,0,3
-INATIVO,Maputo Provincia,Matola,Trevo,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Tsalala,0,0,0,0,0,8,0,8
-INATIVO,Maputo Provincia,Matola,Unidade D,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Unidade H,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Xiboene,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Zilinga,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matola,Zona Verde,0,0,0,0,0,9,0,9
-INATIVO,Maputo Provincia,Matutuine,Bairo B,0,0,0,0,0,1,0,1
-ATIVO,Maputo Provincia,Matutuine,Bela Vista,3,0,3,0,0,12,3,15
-INATIVO,Maputo Provincia,Matutuine,Goboza,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matutuine,Inkassane,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matutuine,Missevene,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Matutuine,Ponta De Ouro,0,0,0,0,0,4,0,4
-INATIVO,Maputo Provincia,Matutuine,Salamanga,0,0,0,0,0,3,0,3
-ATIVO,Maputo Provincia,Matutuine,Sonho Rural,4,1,3,0,0,18,3,22
-INATIVO,Maputo Provincia,Namaacha,Bairo A,0,0,0,0,0,3,0,3
-INATIVO,Maputo Provincia,Namaacha,Bairro 1,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Namaacha,Bairro B,0,0,0,0,0,1,0,1
-INATIVO,Maputo Provincia,Namaacha,Fronteira,0,0,0,0,0,2,0,2
-INATIVO,Maputo Provincia,Namaacha,Goba,0,0,0,0,0,5,0,5
-INATIVO,Maputo Provincia,Namaacha,Mahelane,0,0,0,0,0,13,0,13
-INATIVO,Maputo Provincia,Namaacha,Sonho Rural,0,0,0,0,0,16,0,16
-INATIVO,Sofala,Beira,Bambu,0,0,0,0,0,1,0,1
-INATIVO,Sofala,Beira,Chanhisse,0,0,0,0,0,1,0,1
-INATIVO,Sofala,Beira,Chipangara 1,0,0,0,0,0,11,0,11
-INATIVO,Sofala,Beira,Chipangara 2,0,0,0,0,0,29,0,29
-INATIVO,Sofala,Beira,Chota,0,0,0,0,0,3,0,3
-INATIVO,Sofala,Beira,Decimo Bairro,0,0,0,0,0,2,0,2
-INATIVO,Sofala,Beira,Decimo Segundo Bairro,0,0,0,0,0,1,0,1
-INATIVO,Sofala,Beira,Esturro,0,0,0,0,0,1,0,1
-INATIVO,Sofala,Beira,Goto,0,0,0,0,0,3,0,3
-INATIVO,Sofala,Beira,Inhamizua,0,0,0,0,0,7,0,7
-INATIVO,Sofala,Beira,Macamilo,0,0,0,0,0,1,0,1
-INATIVO,Sofala,Beira,Macurungo,0,0,0,0,0,11,0,11
-INATIVO,Sofala,Beira,Malanga,0,0,0,0,0,10,0,10
-INATIVO,Sofala,Beira,Manga,0,0,0,0,0,10,0,10
-INATIVO,Sofala,Beira,Maraza,0,0,0,0,0,7,0,7
-INATIVO,Sofala,Beira,Mascarenha,0,0,0,0,0,1,0,1
-INATIVO,Sofala,Beira,Matacuane,0,0,0,0,0,11,0,11
-INATIVO,Sofala,Beira,Muchatavina,0,0,0,0,0,1,0,1
-INATIVO,Sofala,Beira,Munhava,0,0,0,0,0,44,0,44
-INATIVO,Sofala,Beira,Pioneiros,0,0,0,0,0,1,0,1
-INATIVO,Sofala,Beira,Ponta Gea,0,0,0,0,0,3,0,3
-INATIVO,Sofala,Beira,Quinto Bairro,0,0,0,0,0,1,0,1
-INATIVO,Sofala,Beira,Segundo Bairro,0,0,0,0,0,1,0,1
-INATIVO,Sofala,Beira,Sem Bairro,0,0,0,0,0,2,0,2
-INATIVO,Sofala,Beira,Sonho Rural,0,0,0,0,0,49,0,49
-INATIVO,Sofala,Beira,Tanqui,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Nicoadala,Chagueiva,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Nicoadala,Chico,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Nicoadala,Domela,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Nicoadala,Magodone,0,0,0,0,0,2,0,2
-INATIVO,Zambézia,Nicoadala,Munhonha,0,0,0,0,0,2,0,2
-INATIVO,Zambézia,Nicoadala,Namacata 7,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Nicoadala,Nhamacata Disrtito De Nicoadala,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Nicoadala,Nherire,0,0,0,0,0,4,0,4
-INATIVO,Zambézia,Nicoadala,Sonho Rural,0,0,0,0,0,34,0,34
-INATIVO,Zambézia,Quelimane,A,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Quelimane,Acordos De Lusaka,0,0,0,0,0,3,0,3
-INATIVO,Zambézia,Quelimane,Amoru,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Quelimane,Bazar,0,0,0,0,0,2,0,2
-INATIVO,Zambézia,Quelimane,Chico,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Quelimane,Coalane Segundo,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Quelimane,Domela,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Quelimane,Fanquene,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Quelimane,Manhawa B,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Quelimane,Matiazua,0,0,0,0,0,2,0,2
-INATIVO,Zambézia,Quelimane,Matuazia Saguare,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Quelimane,Mocuba,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Quelimane,Munhambane,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Quelimane,Munhambone,0,0,0,0,0,2,0,2
-INATIVO,Zambézia,Quelimane,Namunho,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Quelimane,Ngololo,0,0,0,0,0,2,0,2
-INATIVO,Zambézia,Quelimane,Nhamakata,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Quelimane,Nhambone,0,0,0,0,0,1,0,1
-INATIVO,Zambézia,Quelimane,Sampene,0,0,0,0,0,2,0,2
-INATIVO,Zambézia,Quelimane,Sonho Rural,0,0,0,0,0,13,0,13
-INATIVO,Zambézia,Zavala,Muchelene,0,0,0,0,0,1,0,1
-CHECK!,Total,-,-,36,6,26,1,3,1708,27,1744
+status,provincia,cidade,bairro,Completas,Nao conseguimos,Rejected,Sim visitar,Approved,sampled
+INATIVO,Cabo Delgado,Pemba,Alto Gigone,0,0,0,5,0,5
+INATIVO,Cabo Delgado,Pemba,Areia Vermelha Lado De Viver,0,0,0,1,0,1
+INATIVO,Cabo Delgado,Pemba,Cariaco,0,0,0,8,0,8
+INATIVO,Cabo Delgado,Pemba,Expansão,0,0,0,3,0,3
+INATIVO,Cabo Delgado,Pemba,Ingonani,0,0,0,3,0,3
+INATIVO,Cabo Delgado,Pemba,Josina Machel,0,0,0,6,0,6
+INATIVO,Cabo Delgado,Pemba,Mahate,0,0,0,1,0,1
+INATIVO,Cabo Delgado,Pemba,Manhide,0,0,0,1,0,1
+INATIVO,Cabo Delgado,Pemba,Natipe,0,0,0,7,0,7
+INATIVO,Gaza,Chibuto,Bairro 2,0,0,0,1,0,1
+INATIVO,Gaza,Chicumbane,Bairro 4,0,0,0,1,0,1
+INATIVO,Gaza,Chokwé,Quarto Bairro,0,0,0,5,0,5
+INATIVO,Gaza,Chokwé,Quinto Bairro,0,0,0,12,0,12
+INATIVO,Gaza,Chokwé,Segundo Bairo,0,0,0,2,0,2
+INATIVO,Gaza,Chokwé,Setimo Bairro,0,0,0,2,0,2
+INATIVO,Gaza,Chokwé,Sexto Bairro,0,0,0,2,0,2
+INATIVO,Gaza,Chokwé,Sonho Rural,0,0,0,26,0,26
+INATIVO,Gaza,Chokwé,Terceiro Bairro,0,0,0,2,0,2
+INATIVO,Gaza,Chonguene,Bango,0,0,0,1,0,1
+INATIVO,Gaza,Chonguene,Fidel Castro,0,0,0,2,0,2
+INATIVO,Gaza,Chonguene,Maciene,0,0,0,1,0,1
+INATIVO,Gaza,Chonguene,Nhoquene,0,0,0,2,0,2
+INATIVO,Gaza,Chonguene,Rua De Chicombene,0,0,0,1,0,1
+INATIVO,Gaza,Chonguene,Segundo Bairro,0,0,0,1,0,1
+INATIVO,Gaza,Chonguene,Sonho Rural,0,0,0,18,0,18
+INATIVO,Gaza,Chonguene,Terceiro Bairro,0,0,0,2,0,2
+INATIVO,Gaza,Hokwe,Setimo Bairro,0,0,0,1,0,1
+INATIVO,Gaza,Limpopo,Bairro 2,0,0,0,2,0,2
+INATIVO,Gaza,Limpopo,Bango,0,0,0,1,0,1
+INATIVO,Gaza,Limpopo,Chissano,0,0,0,2,0,2
+INATIVO,Gaza,Limpopo,Sonho Rural,0,0,0,25,0,25
+INATIVO,Gaza,Limpopo,Xikubane,0,0,0,1,0,1
+INATIVO,Gaza,Lionde,Quarto Bairro,0,0,0,1,0,1
+INATIVO,Gaza,Macia,Bairro 3,0,0,0,1,0,1
+INATIVO,Gaza,Madjacaze,Samora Machel,0,0,0,1,0,1
+INATIVO,Gaza,Xai-Xai,1 Inhamissa,0,0,0,1,0,1
+INATIVO,Gaza,Xai-Xai,2 Chicumbane,0,0,0,3,0,3
+INATIVO,Gaza,Xai-Xai,2000,0,0,0,3,0,3
+INATIVO,Gaza,Xai-Xai,25 De Junho,0,0,0,1,0,1
+INATIVO,Gaza,Xai-Xai,4 Guoanine,0,0,0,1,0,1
+INATIVO,Gaza,Xai-Xai,Bairro 11,0,0,0,1,0,1
+INATIVO,Gaza,Xai-Xai,Bango,0,0,0,2,0,2
+INATIVO,Gaza,Xai-Xai,Chilenguene,0,0,0,2,0,2
+INATIVO,Gaza,Xai-Xai,Chissano,0,0,0,2,0,2
+INATIVO,Gaza,Xai-Xai,Chonguene,0,0,0,11,0,11
+INATIVO,Gaza,Xai-Xai,Fidel Castro,0,0,0,7,0,7
+INATIVO,Gaza,Xai-Xai,Limpopo,0,0,0,1,0,1
+INATIVO,Gaza,Xai-Xai,Massiene,0,0,0,1,0,1
+INATIVO,Gaza,Xai-Xai,Ngulelene,0,0,0,4,0,4
+INATIVO,Gaza,Xai-Xai,Patrice Lumumba,0,0,0,6,0,6
+INATIVO,Gaza,Xai-Xai,Primeiro Bairro,0,0,0,2,0,2
+INATIVO,Gaza,Xai-Xai,Sonho Rural,0,0,0,33,0,33
+INATIVO,Gaza,Xai-Xai,Terceiro Bairro,0,0,0,2,0,2
+INATIVO,Gaza,Xai-Xai,Venhene,0,0,0,1,0,1
+INATIVO,Gaza,Xai-Xai,Xicumbane,0,0,0,1,0,1
+INATIVO,Maputo Cidade,Maputo,25 De Junho A,0,0,0,2,0,2
+INATIVO,Maputo Cidade,Maputo,25 De Junho B,0,0,0,3,0,3
+INATIVO,Maputo Cidade,Maputo,3 De Fevereiro,0,0,0,2,0,2
+INATIVO,Maputo Cidade,Maputo,Aeroporto A,0,0,0,37,0,37
+INATIVO,Maputo Cidade,Maputo,Aeroporto B,0,0,0,37,0,37
+INATIVO,Maputo Cidade,Maputo,Albazine,0,0,0,40,0,40
+INATIVO,Maputo Cidade,Maputo,Alto Mae B,0,0,0,2,0,2
+INATIVO,Maputo Cidade,Maputo,Bagamoio,0,0,0,5,0,5
+INATIVO,Maputo Cidade,Maputo,Benfica,0,0,0,2,0,2
+INATIVO,Maputo Cidade,Maputo,Central A,0,0,0,6,0,6
+INATIVO,Maputo Cidade,Maputo,Chamanculo A,0,0,0,10,0,10
+INATIVO,Maputo Cidade,Maputo,Chamanculo B,0,0,0,23,0,23
+INATIVO,Maputo Cidade,Maputo,Chamanculo C,0,0,0,64,0,64
+INATIVO,Maputo Cidade,Maputo,Chamanculo D,0,0,0,24,0,24
+INATIVO,Maputo Cidade,Maputo,Choupal,0,0,0,1,0,1
+INATIVO,Maputo Cidade,Maputo,Comule,0,0,0,2,0,2
+INATIVO,Maputo Cidade,Maputo,Coop,0,0,0,2,0,2
+INATIVO,Maputo Cidade,Maputo,Costa Sol,0,0,0,1,0,1
+INATIVO,Maputo Cidade,Maputo,Ferroviario,0,0,0,54,0,54
+INATIVO,Maputo Cidade,Maputo,George Dimitrov,0,0,0,5,0,5
+INATIVO,Maputo Cidade,Maputo,Hulene A,0,0,0,7,0,7
+INATIVO,Maputo Cidade,Maputo,Hulene B,0,0,0,18,0,18
+CHECK!,Maputo Cidade,Maputo,Inhagoia A,15,1,3,19,16,43
+ATIVO,Maputo Cidade,Maputo,Inhagoia B,4,0,0,14,4,18
+INATIVO,Maputo Cidade,Maputo,Jardim,0,0,0,5,0,5
+INATIVO,Maputo Cidade,Maputo,Laulane,0,0,0,6,0,6
+INATIVO,Maputo Cidade,Maputo,Luis Cabral,0,0,0,12,0,12
+INATIVO,Maputo Cidade,Maputo,Mafalala,0,0,0,1,0,1
+INATIVO,Maputo Cidade,Maputo,Magoanine A,0,0,0,21,0,21
+INATIVO,Maputo Cidade,Maputo,Magoanine B,0,0,0,18,0,18
+INATIVO,Maputo Cidade,Maputo,Magoanine C,0,0,0,60,0,60
+INATIVO,Maputo Cidade,Maputo,Magoanine D,0,0,0,1,0,1
+INATIVO,Maputo Cidade,Maputo,Mahotas,0,0,0,28,0,28
+INATIVO,Maputo Cidade,Maputo,Malanga,0,0,0,6,0,6
+INATIVO,Maputo Cidade,Maputo,Malhangalene A,0,0,0,2,0,2
+INATIVO,Maputo Cidade,Maputo,Malhazine,0,0,0,2,0,2
+INATIVO,Maputo Cidade,Maputo,Mavalane A,0,0,0,1,0,1
+INATIVO,Maputo Cidade,Maputo,Mavalane B,0,0,0,2,0,2
+INATIVO,Maputo Cidade,Maputo,Maxaquene A,0,0,0,4,0,4
+INATIVO,Maputo Cidade,Maputo,Maxaquene B,0,0,0,9,0,9
+INATIVO,Maputo Cidade,Maputo,Maxaquene C,0,0,0,12,0,12
+INATIVO,Maputo Cidade,Maputo,Maxaquene D,0,0,0,14,0,14
+INATIVO,Maputo Cidade,Maputo,Minkadjuine,0,0,0,3,0,3
+INATIVO,Maputo Cidade,Maputo,Muhalaze,0,0,0,1,0,1
+INATIVO,Maputo Cidade,Maputo,Nhagobe,0,0,0,1,0,1
+INATIVO,Maputo Cidade,Maputo,Nhagoi,0,0,0,11,0,11
+INATIVO,Maputo Cidade,Maputo,Nsalene,0,0,0,1,0,1
+INATIVO,Maputo Cidade,Maputo,Polana Caniço A,0,0,0,58,0,58
+INATIVO,Maputo Cidade,Maputo,Polana Caniço B,0,0,0,98,0,98
+INATIVO,Maputo Cidade,Maputo,Polana Cimento A,0,0,0,3,0,3
+INATIVO,Maputo Cidade,Maputo,Sem Bairro,0,0,0,5,0,5
+INATIVO,Maputo Cidade,Maputo,Unidade,0,0,0,2,0,2
+INATIVO,Maputo Cidade,Maputo,Urbanização,0,0,0,2,0,2
+INATIVO,Maputo Cidade,Maputo,Xihango,0,0,0,1,0,1
+INATIVO,Maputo Cidade,Maputo,Xipamanine,0,0,0,4,0,4
+INATIVO,Maputo Cidade,Maputo,Zimpeto,0,0,0,15,0,15
+INATIVO,Maputo Provincia,Boane,Bairro 1,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Boane,Bairro 2,0,0,0,2,0,2
+INATIVO,Maputo Provincia,Boane,Bairro 7,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Boane,Beleluane,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Boane,Campoane,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Boane,Km16,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Boane,Mahubo,0,0,0,1,0,1
+ATIVO,Maputo Provincia,Boane,Matutuine,1,0,0,7,1,8
+INATIVO,Maputo Provincia,Boane,Paulo Samuel Kakomba,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Boane,Xinonaquila,0,0,0,2,0,2
+INATIVO,Maputo Provincia,Kathembe,Chamissava,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Manhiça,Abel Jafar,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Manhiça,Bobole,0,0,0,8,0,8
+INATIVO,Maputo Provincia,Manhiça,Cumbeza,0,0,0,2,0,2
+INATIVO,Maputo Provincia,Manhi�a,Guava,0,0,0,12,0,12
+INATIVO,Maputo Provincia,Manhiça,Kubeza,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Manhi�a,Marracuene,0,0,0,7,0,7
+INATIVO,Maputo Provincia,Manhiça,Memo 1,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Manhiça,Michafutene,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Manhiça,Pateque,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Marracuene,29 De Setembro,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Marracuene,Agostinho Neto,0,0,0,2,0,2
+INATIVO,Maputo Provincia,Marracuene,Bobole,0,0,0,3,0,3
+INATIVO,Maputo Provincia,Marracuene,Magawanine,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Marracuene,Mateque,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Marracuene,Pustuluane,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Marracuene,Samora Machel,0,0,0,2,0,2
+INATIVO,Maputo Provincia,Marracuene,Santa Isabel,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Marracuene,Zitava,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,1º Maio,0,0,0,4,0,4
+INATIVO,Maputo Provincia,Matola,Bairro 13,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Bairro F,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Boquisso,0,0,0,11,0,11
+INATIVO,Maputo Provincia,Matola,Bunhissa,0,0,0,5,0,5
+INATIVO,Maputo Provincia,Matola,Cikuama,0,0,0,2,0,2
+INATIVO,Maputo Provincia,Matola,Congolote,0,0,0,13,0,13
+INATIVO,Maputo Provincia,Matola,Fomento,0,0,0,4,0,4
+INATIVO,Maputo Provincia,Matola,Golhoza,0,0,0,3,0,3
+INATIVO,Maputo Provincia,Matola,Infulene,0,0,0,9,0,9
+INATIVO,Maputo Provincia,Matola,Intaka,0,0,0,12,0,12
+INATIVO,Maputo Provincia,Matola,Jonate,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Khobe,0,0,0,5,0,5
+INATIVO,Maputo Provincia,Matola,Liberdade,0,0,0,16,0,16
+INATIVO,Maputo Provincia,Matola,Machava,0,0,0,14,0,14
+INATIVO,Maputo Provincia,Matola,Malhampsane,0,0,0,4,0,4
+INATIVO,Maputo Provincia,Matola,Mali,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Manjave,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Matibwana,0,0,0,3,0,3
+INATIVO,Maputo Provincia,Matola,Matlhemele,0,0,0,5,0,5
+INATIVO,Maputo Provincia,Matola,Matola A,0,0,0,10,0,10
+INATIVO,Maputo Provincia,Matola,Matola B,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Matola C,0,0,0,5,0,5
+INATIVO,Maputo Provincia,Matola,Matola D,0,0,0,2,0,2
+INATIVO,Maputo Provincia,Matola,Matola F,0,0,0,4,0,4
+INATIVO,Maputo Provincia,Matola,Matola Gare,0,0,0,9,0,9
+INATIVO,Maputo Provincia,Matola,Matola H,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Matola J,0,0,0,2,0,2
+INATIVO,Maputo Provincia,Matola,Matola Rio,0,0,0,3,0,3
+INATIVO,Maputo Provincia,Matola,Mavoco,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Mozal,0,0,0,4,0,4
+INATIVO,Maputo Provincia,Matola,Mucatine,0,0,0,2,0,2
+INATIVO,Maputo Provincia,Matola,Muhalaze,0,0,0,16,0,16
+INATIVO,Maputo Provincia,Matola,Mulotana,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Mussumbuluko,0,0,0,3,0,3
+INATIVO,Maputo Provincia,Matola,Ndlavela,0,0,0,9,0,9
+INATIVO,Maputo Provincia,Matola,Patrice Lumumba,0,0,0,7,0,7
+INATIVO,Maputo Provincia,Matola,Santa Isabel,0,0,0,4,0,4
+INATIVO,Maputo Provincia,Matola,Sao Damanso,0,0,0,3,0,3
+INATIVO,Maputo Provincia,Matola,Sem Bairro,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Sidwava,0,0,0,2,0,2
+INATIVO,Maputo Provincia,Matola,T-3,0,0,0,4,0,4
+INATIVO,Maputo Provincia,Matola,Tchumene 2,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Tenga,0,0,0,3,0,3
+INATIVO,Maputo Provincia,Matola,Trevo,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Tsalala,0,0,0,8,0,8
+INATIVO,Maputo Provincia,Matola,Unidade D,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Unidade H,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Xiboene,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Zilinga,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matola,Zona Verde,0,0,0,9,0,9
+INATIVO,Maputo Provincia,Matutuine,Bairo B,0,0,0,1,0,1
+ATIVO,Maputo Provincia,Matutuine,Bela Vista,3,0,0,12,3,15
+INATIVO,Maputo Provincia,Matutuine,Goboza,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matutuine,Inkassane,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matutuine,Missevene,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Matutuine,Ponta De Ouro,0,0,0,4,0,4
+INATIVO,Maputo Provincia,Matutuine,Salamanga,0,0,0,3,0,3
+ATIVO,Maputo Provincia,Matutuine,Sonho Rural,3,0,0,18,3,22
+INATIVO,Maputo Provincia,Namaacha,Bairo A,0,0,0,3,0,3
+INATIVO,Maputo Provincia,Namaacha,Bairro 1,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Namaacha,Bairro B,0,0,0,1,0,1
+INATIVO,Maputo Provincia,Namaacha,Fronteira,0,0,0,2,0,2
+INATIVO,Maputo Provincia,Namaacha,Goba,0,0,0,5,0,5
+INATIVO,Maputo Provincia,Namaacha,Mahelane,0,0,0,13,0,13
+INATIVO,Maputo Provincia,Namaacha,Sonho Rural,0,0,0,16,0,16
+INATIVO,Sofala,Beira,Bambu,0,0,0,1,0,1
+INATIVO,Sofala,Beira,Chanhisse,0,0,0,1,0,1
+INATIVO,Sofala,Beira,Chipangara 1,0,0,0,11,0,11
+INATIVO,Sofala,Beira,Chipangara 2,0,0,0,29,0,29
+INATIVO,Sofala,Beira,Chota,0,0,0,3,0,3
+INATIVO,Sofala,Beira,Decimo Bairro,0,0,0,2,0,2
+INATIVO,Sofala,Beira,Decimo Segundo Bairro,0,0,0,1,0,1
+INATIVO,Sofala,Beira,Esturro,0,0,0,1,0,1
+INATIVO,Sofala,Beira,Goto,0,0,0,3,0,3
+INATIVO,Sofala,Beira,Inhamizua,0,0,0,7,0,7
+INATIVO,Sofala,Beira,Macamilo,0,0,0,1,0,1
+INATIVO,Sofala,Beira,Macurungo,0,0,0,11,0,11
+INATIVO,Sofala,Beira,Malanga,0,0,0,10,0,10
+INATIVO,Sofala,Beira,Manga,0,0,0,10,0,10
+INATIVO,Sofala,Beira,Maraza,0,0,0,7,0,7
+INATIVO,Sofala,Beira,Mascarenha,0,0,0,1,0,1
+INATIVO,Sofala,Beira,Matacuane,0,0,0,11,0,11
+INATIVO,Sofala,Beira,Muchatavina,0,0,0,1,0,1
+INATIVO,Sofala,Beira,Munhava,0,0,0,44,0,44
+INATIVO,Sofala,Beira,Pioneiros,0,0,0,1,0,1
+INATIVO,Sofala,Beira,Ponta Gea,0,0,0,3,0,3
+INATIVO,Sofala,Beira,Quinto Bairro,0,0,0,1,0,1
+INATIVO,Sofala,Beira,Segundo Bairro,0,0,0,1,0,1
+INATIVO,Sofala,Beira,Sem Bairro,0,0,0,2,0,2
+INATIVO,Sofala,Beira,Sonho Rural,0,0,0,49,0,49
+INATIVO,Sofala,Beira,Tanqui,0,0,0,1,0,1
+INATIVO,Zambézia,Nicoadala,Chagueiva,0,0,0,1,0,1
+INATIVO,Zambézia,Nicoadala,Chico,0,0,0,1,0,1
+INATIVO,Zambézia,Nicoadala,Domela,0,0,0,1,0,1
+INATIVO,Zambézia,Nicoadala,Magodone,0,0,0,2,0,2
+INATIVO,Zambézia,Nicoadala,Munhonha,0,0,0,2,0,2
+INATIVO,Zambézia,Nicoadala,Namacata 7,0,0,0,1,0,1
+INATIVO,Zambézia,Nicoadala,Nhamacata Disrtito De Nicoadala,0,0,0,1,0,1
+INATIVO,Zambézia,Nicoadala,Nherire,0,0,0,4,0,4
+INATIVO,Zambézia,Nicoadala,Sonho Rural,0,0,0,34,0,34
+INATIVO,Zambézia,Quelimane,A,0,0,0,1,0,1
+INATIVO,Zambézia,Quelimane,Acordos De Lusaka,0,0,0,3,0,3
+INATIVO,Zambézia,Quelimane,Amoru,0,0,0,1,0,1
+INATIVO,Zambézia,Quelimane,Bazar,0,0,0,2,0,2
+INATIVO,Zambézia,Quelimane,Chico,0,0,0,1,0,1
+INATIVO,Zambézia,Quelimane,Coalane Segundo,0,0,0,1,0,1
+INATIVO,Zambézia,Quelimane,Domela,0,0,0,1,0,1
+INATIVO,Zambézia,Quelimane,Fanquene,0,0,0,1,0,1
+INATIVO,Zambézia,Quelimane,Manhawa B,0,0,0,1,0,1
+INATIVO,Zambézia,Quelimane,Matiazua,0,0,0,2,0,2
+INATIVO,Zambézia,Quelimane,Matuazia Saguare,0,0,0,1,0,1
+INATIVO,Zambézia,Quelimane,Mocuba,0,0,0,1,0,1
+INATIVO,Zambézia,Quelimane,Munhambane,0,0,0,1,0,1
+INATIVO,Zambézia,Quelimane,Munhambone,0,0,0,2,0,2
+INATIVO,Zambézia,Quelimane,Namunho,0,0,0,1,0,1
+INATIVO,Zambézia,Quelimane,Ngololo,0,0,0,2,0,2
+INATIVO,Zambézia,Quelimane,Nhamakata,0,0,0,1,0,1
+INATIVO,Zambézia,Quelimane,Nhambone,0,0,0,1,0,1
+INATIVO,Zambézia,Quelimane,Sampene,0,0,0,2,0,2
+INATIVO,Zambézia,Quelimane,Sonho Rural,0,0,0,13,0,13
+INATIVO,Zambézia,Zavala,Muchelene,0,0,0,1,0,1
