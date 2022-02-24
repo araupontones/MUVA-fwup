@@ -11,6 +11,7 @@ data_clean <- clean_data(data_field = field_data,
 
 
 
+
 #this saves clean data, removes drops from rosters and saves all in clean
 save_clean_data(clean_database = data_clean,
                 dir_clean = dir_clean,
@@ -43,31 +44,40 @@ interviews <- data_clean %>%
          interview__id,
          date, time, url) %>%
   full_join(select(sample,ID, participante, provincia, cidade, bairro), by= c("ID_participant"="ID", "provincia", "cidade", "bairro")) %>%
-  mutate(inquiridor = susor_get_stata_labels(inquiridor),
+  mutate(inquiridor = susor::susor_get_stata_labels(inquiridor),
          across(c(resultado, status, interview__key, Management, inquiridor), function(x){if_else(is.na(x), "Sin visitar", as.character(x))}),
          )
 
 
 
-View(interviews)
+
+
 
 
 rio::export(interviews, file.path(dir_dashboard, "interviews.csv"))
 cli::cli_alert_success("Dashboard data interviews saved!")
 
 #export summary at the province, cidade, and bairro level (Approved, Rejected, Sim VIsitar, Sampled, Nao conseguidas)
-create_dashGeo(database = interviews, 
+provs_dash <- create_dashGeo(database = interviews, 
                by ="provincias",
                dir_dashboard = dir_dashboard,
-               provincia)
+               provincia) %>%
+  mutate(provincia = factor(provincia,
+                            levels =  c(sort(unique(interviews[["provincia"]])), "Total"),
+                            ordered = T))
 
-create_dashGeo(database = interviews, 
+
+
+
+
+
+cidades_dash <- create_dashGeo(database = interviews, 
                by ="cidades",
                dir_dashboard = dir_dashboard,
-               provincia, cidade)
+               provincia, cidade) 
 
 
-create_dashGeo(database = interviews, 
+bairros_dash <- create_dashGeo(database = interviews, 
                by ="bairros",
                dir_dashboard = dir_dashboard,
                provincia, cidade, bairro)

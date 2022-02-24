@@ -22,8 +22,8 @@ susor_login(susor_server = "http://my.muvasurveys.com/",
             susor_password = "Seguridad1",
             susor_dir_downloads = dir_downloads,
             susor_dir_raw = dir_raw,
-            limit = 100,
-            ofset = 2
+            limit = 40,
+            ofset = 1
 )
 
 
@@ -32,7 +32,7 @@ susor_login(susor_server = "http://my.muvasurveys.com/",
 
 #download
 susor_export_file(susor_qn_variable = "grandfollowup2022",
-                  susor_qn_version = 3,
+                  susor_qn_version = 5,
                   susor_format = "STATA"
                   )
 

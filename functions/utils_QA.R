@@ -139,10 +139,14 @@ clean_data <- function(data_field,
 create_dashGeo <- function(database,
                            by,
                            dir_dashboard,
+                        
                            ...){
   
   #Define infile to read sample summary for this unit
   infile2 <- function(geo){file.path("data/Follow-up/sample", glue::glue('Sampled_{geo}.rds'))}
+  
+  
+  
   
   #read sample data for this unit
   sample_geo <- import(infile2(by))
@@ -157,24 +161,31 @@ create_dashGeo <- function(database,
   if(by == "provincias"){
     
     join_by <- "provincia"
+    
   }
   
   if(by == "cidades"){
     
     join_by <- c("provincia", "cidade")
+    
   }
   
   
   if(by == "bairros"){
     
     join_by <- c("provincia", "cidade", "bairro")
+    
   }
   
+  #vector of units for factor
+  #factor_levels <- c(sort(unique(database[[level]])), "Total")
   
   #create data
   geo <- database %>% group_by(...) %>%
     #count status of interviews
-    summarise(Completas = sum(str_detect(resultado, "Entrevista completa") & Management == "APPROVED" ),
+    summarise(Visitadas = sum(resultado != "Sin visitar"),
+              Revisitando = sum(Management == "REVISITING"),
+              Completas = sum(str_detect(resultado, "Entrevista completa") & Management == "APPROVED" ),
               Rejected = sum(Management == "REJECTED"),
               `Sim visitar` = sum(Management == "Sin visitar"),
               Approved = sum(Management == "APPROVED"),
@@ -183,14 +194,18 @@ create_dashGeo <- function(database,
     mutate(`Nao conseguimos` = Approved - Completas, .after = Completas) %>%
     #join with summary of sample
     left_join(sample_geo, by = join_by) %>%
+    janitor::adorn_totals("row", name = "Total") %>%
     mutate(status = case_when(Approved == sampled ~ "APPROVED",
                               Rejected >0 ~ "CHECK!",
                               `Sim visitar` == sampled ~ "INATIVO",
                               T ~ "ATIVO"
-    ), .before = provincia)
+    ), .before = provincia) 
+    
+    
   
   
   #export  
   rio::export(geo, exfile)
   cli::cli_alert_success(paste("Dashboard data for", by, "Saved!"))
+  return(geo)
 }
