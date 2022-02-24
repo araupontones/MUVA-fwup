@@ -17,8 +17,8 @@ field_data <- rio::import(get_file2(dir_raw, survey))
 #inteerviews to be dropped: duplicates, etc. ----------------------------------
 drop_interviews <- c(
   
-  "17-23-36-51",
-  "30-12-12-10"
+  "17-23-36-51"
+  
   
   
 )
@@ -27,12 +27,10 @@ drop_interviews <- c(
 # interviews with errors but that have been confirmed by supervisor
 force_approve <- c(
   
-  "73-54-31-64",
-  "84-63-06-88",
-  "95-82-56-77"
+  "73-54-31-64"
+  
   
 )
-
 
 
 

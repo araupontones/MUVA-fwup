@@ -1,15 +1,41 @@
 interview__key,ID_participant,provincia,cidade,bairro,inquiridor,resultado,status,Management,has__errors,unanswered,duplicated,duration,interview__id,date,time,url,participante
-38-25-32-55,101001,Cabo Delgado,Pemba,Alto Gigone,Maiquel Julio Chongo,Moradia não encontrada (terminar),NAO CONSEGUIMOS-FINAL,APPROVED,0,0,FALSE,0,8f0a8ed640964bc087bbb694528a2e9b,2022-02-14,19:22:11,"<a href=""https://muva.mysurvey.solutions/Interview/Review/8f0a8ed640964bc087bbb694528a2e9b""target=""_blank"">Link</a>",BENEDITO AFAI
-72-05-29-75,101015,Cabo Delgado,Pemba,Expansão,Higino Chaguala,Moradia não encontrada (terminar),NAO CONSEGUIMOS-FINAL,APPROVED,0,0,FALSE,0,45bfc5c400614c4ca44f87460f6bd7d2,2022-02-15,10:38:27,"<a href=""https://muva.mysurvey.solutions/Interview/Review/45bfc5c400614c4ca44f87460f6bd7d2""target=""_blank"">Link</a>",HELENA ALFREDO MACANZA
-84-63-06-88,101028,Cabo Delgado,Pemba,Manhide,Yarcia Marta Estevao Matsule,Permissão recusada (terminar),VERIFICADA-FINAL,APPROVED,0,1,FALSE,1,b6e153028e164b3ca9e23f1b382139d7,2022-02-14,11:15:20,"<a href=""https://muva.mysurvey.solutions/Interview/Review/b6e153028e164b3ca9e23f1b382139d7""target=""_blank"">Link</a>",GILVAN JAIME DINIS DAVISSON
-95-82-56-77,204002,Gaza,Chonguene,Fidel Castro,Higino Chaguala,Entrevista não conseguida depois de 3 visitas (terminar),VERIFICADA-FINAL,APPROVED,0,1,FALSE,1,5408e2c9155046e586e65d9a3541adc5,2022-02-14,15:27:41,"<a href=""https://muva.mysurvey.solutions/Interview/Review/5408e2c9155046e586e65d9a3541adc5""target=""_blank"">Link</a>",PALMIRA MANHIQUE
-56-07-92-22,206001,Gaza,Limpopo,Bairro 2,Higino Chaguala,Entrevista incompleta (revisitar),REVISITAR,REJECTED,0,83,FALSE,1,42f1e5df67b74ca18dc9a107fb60399c,2022-02-14,11:25:39,"<a href=""https://muva.mysurvey.solutions/Interview/Review/42f1e5df67b74ca18dc9a107fb60399c""target=""_blank"">Link</a>",JULIETA LEONOR MAEHANFU
-73-54-31-64,206003,Gaza,Limpopo,Bango,Higino Chaguala,Entrevista completa (terminar),VERIFICADA-FINAL,APPROVED,0,81,FALSE,5,906c9a066b2248058340785d81e0a66d,2022-02-14,11:32:03,"<a href=""https://muva.mysurvey.solutions/Interview/Review/906c9a066b2248058340785d81e0a66d""target=""_blank"">Link</a>",MARIA JOAQUIM MACAMO
-88-55-16-48,301124,Maputo Cidade,Maputo,Bagamoio,Higino Chaguala,Desconhecido o que aconteceu com respondente elegivel (terminar),NAO CONSEGUIMOS-FINAL,APPROVED,0,0,FALSE,1,9d7acc896e2c4d5ebe138a93b1f601c1,2022-02-14,11:16:45,"<a href=""https://muva.mysurvey.solutions/Interview/Review/9d7acc896e2c4d5ebe138a93b1f601c1""target=""_blank"">Link</a>",NILZA DE LURDES CHACAMANE
-89-34-50-01,401001,Maputo Provincia,Boane,Bairro 1,Yarcia Marta Estevao Matsule,Respondente mudou para outra casa no bairro (revisitar),REVISITAR,REJECTED,0,0,TRUE,1,5838fcd7659e4d1b92c17d406266256f,2022-02-14,11:21:14,"<a href=""https://muva.mysurvey.solutions/Interview/Review/5838fcd7659e4d1b92c17d406266256f""target=""_blank"">Link</a>",ILDA SAMUEL VICTOR
-19-78-55-08,401001,Maputo Provincia,Boane,Bairro 1,Higino Chaguala,Respondente mudou para outra casa no bairro (revisitar),REVISITAR,REJECTED,0,0,TRUE,2,78e05a51f51a4b00bf461ca193de9ca1,2022-02-15,20:06:06,"<a href=""https://muva.mysurvey.solutions/Interview/Review/78e05a51f51a4b00bf461ca193de9ca1""target=""_blank"">Link</a>",ILDA SAMUEL VICTOR
-40-03-88-19,501092,Sofala,Beira,Maraza,Maiquel Julio Chongo,Respondente elegivel faleceu (terminar),NAO CONSEGUIMOS-FINAL,APPROVED,0,0,FALSE,1,56a9e1e845634a4e80d31823f1be66fb,2022-02-14,11:22:22,"<a href=""https://muva.mysurvey.solutions/Interview/Review/56a9e1e845634a4e80d31823f1be66fb""target=""_blank"">Link</a>",AMELIA JOSE DOMINGOS
-15-28-62-98,601001,Zambézia,Nicoadala,Chagueiva,Nercia Andre Massingue,Permissão recusada (terminar),NAO CONSEGUIMOS-FINAL,APPROVED,0,0,FALSE,1,13d09fd6cb984455a8d0e3f459666f0b,2022-02-14,11:23:17,"<a href=""https://muva.mysurvey.solutions/Interview/Review/13d09fd6cb984455a8d0e3f459666f0b""target=""_blank"">Link</a>",LUCIA RAFAEL AMOSSE
+99-53-62-54,301349,Maputo Cidade,Maputo,Inhagoia A,Nilza Fidalgo,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,59,c6255c123c9345a6918e74372794b495,2022-02-23,13:43:03,"<a href=""https://muva.mysurvey.solutions/Interview/Review/c6255c123c9345a6918e74372794b495""target=""_blank"">Link</a>",IVONE DA NEIDY GASPAR MUHOSSE
+98-95-65-80,301350,Maputo Cidade,Maputo,Inhagoia A,Armando Jose Adamo,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,69,00dd24e482f54fb19ef7bcf449191fdf,2022-02-23,14:13:59,"<a href=""https://muva.mysurvey.solutions/Interview/Review/00dd24e482f54fb19ef7bcf449191fdf""target=""_blank"">Link</a>",AIDA PUREZA NDOVE
+45-28-78-35,301351,Maputo Cidade,Maputo,Inhagoia A,Cecilia,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,97,77da601b8ae7406aa2906e2d450861c4,2022-02-23,14:17:31,"<a href=""https://muva.mysurvey.solutions/Interview/Review/77da601b8ae7406aa2906e2d450861c4""target=""_blank"">Link</a>",ALBERTINA FREDERICO LANGA
+92-72-25-64,301352,Maputo Cidade,Maputo,Inhagoia A,Inocencia,Entrevista completa (terminar),COMPLETA-FINAL,REJECTED,0,1,FALSE,186,5d1e55eee1bb46ef8e0e30b8939e36d3,2022-02-24,06:40:34,"<a href=""https://muva.mysurvey.solutions/Interview/Review/5d1e55eee1bb46ef8e0e30b8939e36d3""target=""_blank"">Link</a>",TANIA FRANCISCO BUSSA
+79-16-79-84,301353,Maputo Cidade,Maputo,Inhagoia A,Alzira,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,94,26d8c6279b8b4012b9de90ba15102e54,2022-02-23,15:44:00,"<a href=""https://muva.mysurvey.solutions/Interview/Review/26d8c6279b8b4012b9de90ba15102e54""target=""_blank"">Link</a>",NEIDY PEDRO LANGA
+32-43-83-22,301354,Maputo Cidade,Maputo,Inhagoia A,Celeste Vilanculos,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,92,a57b4e2d94a1461f84cc7f90764ee011,2022-02-23,14:24:47,"<a href=""https://muva.mysurvey.solutions/Interview/Review/a57b4e2d94a1461f84cc7f90764ee011""target=""_blank"">Link</a>",EMERCIO NELSIA MICAS
+49-73-88-37,301355,Maputo Cidade,Maputo,Inhagoia A,Armando Jose Adamo,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,122,d57a4fa7246d407e98a4e27a0a74959b,2022-02-23,13:44:56,"<a href=""https://muva.mysurvey.solutions/Interview/Review/d57a4fa7246d407e98a4e27a0a74959b""target=""_blank"">Link</a>",JORGE LUIS SIQUICE
+37-75-23-84,301357,Maputo Cidade,Maputo,Inhagoia A,Valter Arame,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,183,c3ad7419f5d3412ab5d5c0ac432f2233,2022-02-23,14:57:00,"<a href=""https://muva.mysurvey.solutions/Interview/Review/c3ad7419f5d3412ab5d5c0ac432f2233""target=""_blank"">Link</a>",JOAQUINA BOVANO ATINO
+21-04-68-10,301362,Maputo Cidade,Maputo,Inhagoia A,Manuel Agostinho Alvaro Nihoa,Entrevista incompleta (revisitar),REVISITAR,REVISITING,0,0,FALSE,45,62fc57f6dd5143c580f07e82d82e3d9e,2022-02-23,18:43:04,"<a href=""https://muva.mysurvey.solutions/Interview/Review/62fc57f6dd5143c580f07e82d82e3d9e""target=""_blank"">Link</a>",ENOQUE SALOMÃO HAMELA
+37-41-95-97,301363,Maputo Cidade,Maputo,Inhagoia A,Celeste Vilanculos,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,69,e8f6e91719ce48f0a5238c02e466994e,2022-02-23,14:15:34,"<a href=""https://muva.mysurvey.solutions/Interview/Review/e8f6e91719ce48f0a5238c02e466994e""target=""_blank"">Link</a>",LUSANA JAIME LANGA
+72-58-92-85,301365,Maputo Cidade,Maputo,Inhagoia A,Sharin,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,40,0ee850674d4645b7826e3f9ee1a13980,2022-02-23,13:37:48,"<a href=""https://muva.mysurvey.solutions/Interview/Review/0ee850674d4645b7826e3f9ee1a13980""target=""_blank"">Link</a>",FLORÊNCIA FERNANDO MACUCULE
+56-70-64-17,301366,Maputo Cidade,Maputo,Inhagoia A,Merry Ngulele,Entrevista completa (terminar),COMPLETA-FINAL,REJECTED,0,1,FALSE,137,42551917431c4748a33d04635d62761c,2022-02-23,12:45:46,"<a href=""https://muva.mysurvey.solutions/Interview/Review/42551917431c4748a33d04635d62761c""target=""_blank"">Link</a>",HELENA FERNANDO NGOVE
+98-48-57-98,301368,Maputo Cidade,Maputo,Inhagoia A,Alzira,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,109,4b95f31e29524206a837bd2586302291,2022-02-23,15:57:40,"<a href=""https://muva.mysurvey.solutions/Interview/Review/4b95f31e29524206a837bd2586302291""target=""_blank"">Link</a>",HELENA SILVANO SIGAUQUE
+50-23-53-71,301371,Maputo Cidade,Maputo,Inhagoia A,Sharin,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,26,d93cca1119cf46b1940ecde835f85018,2022-02-23,13:34:43,"<a href=""https://muva.mysurvey.solutions/Interview/Review/d93cca1119cf46b1940ecde835f85018""target=""_blank"">Link</a>",EDILSON BAPTISTA NHANTOLE
+20-26-90-03,301372,Maputo Cidade,Maputo,Inhagoia A,Manuel Agostinho Alvaro Nihoa,Entrevista incompleta (revisitar),REVISITAR,REVISITING,0,0,FALSE,43,e6502e5e7b0b4d43844ecd8b39a54c32,2022-02-23,17:18:58,"<a href=""https://muva.mysurvey.solutions/Interview/Review/e6502e5e7b0b4d43844ecd8b39a54c32""target=""_blank"">Link</a>",IMELDA CANDIDO NHATUMBO
+10-74-44-57,301374,Maputo Cidade,Maputo,Inhagoia A,Manuel Agostinho Alvaro Nihoa,Entrevista incompleta (revisitar),REVISITAR,REVISITING,0,0,FALSE,77,4d1be16a1b5940548f7ff0ac8c423c46,2022-02-23,17:34:36,"<a href=""https://muva.mysurvey.solutions/Interview/Review/4d1be16a1b5940548f7ff0ac8c423c46""target=""_blank"">Link</a>",PEDRO PAULO NHAMPOSSE
+55-16-19-76,301378,Maputo Cidade,Maputo,Inhagoia A,Armando Jose Adamo,Respondente mudou para outra cidade / país (terminar),NAO CONSEGUIMOS-FINAL,APPROVED,0,0,FALSE,7,ebd2d8ef07b7410cb5cb579816cd6d0d,2022-02-23,07:04:37,"<a href=""https://muva.mysurvey.solutions/Interview/Review/ebd2d8ef07b7410cb5cb579816cd6d0d""target=""_blank"">Link</a>",EMILTON SILVESTRE
+60-36-88-43,301381,Maputo Cidade,Maputo,Inhagoia A,Inocencia,Entrevista incompleta (revisitar),REVISITAR,REVISITING,0,0,FALSE,252,1943cacdb72445058bbf951019407cb4,2022-02-23,14:55:28,"<a href=""https://muva.mysurvey.solutions/Interview/Review/1943cacdb72445058bbf951019407cb4""target=""_blank"">Link</a>",ANTONIO ALBERTO GOMANE JUNIOR
+86-70-17-52,301382,Maputo Cidade,Maputo,Inhagoia A,Benigna Americo,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,104,45a03560754e4314905b84a2b58de578,2022-02-23,08:43:21,"<a href=""https://muva.mysurvey.solutions/Interview/Review/45a03560754e4314905b84a2b58de578""target=""_blank"">Link</a>",EDILSON AMILCAR
+02-40-71-69,301384,Maputo Cidade,Maputo,Inhagoia A,Benigna Americo,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,95,ec9dbde128f243f8b7386362eb577234,2022-02-23,14:31:29,"<a href=""https://muva.mysurvey.solutions/Interview/Review/ec9dbde128f243f8b7386362eb577234""target=""_blank"">Link</a>",FRANCISCO SARMENTO SAMUEL
+39-22-48-38,301385,Maputo Cidade,Maputo,Inhagoia A,Alzira,Entrevista completa (terminar),COMPLETA-FINAL,REJECTED,0,1,FALSE,107,9a652dad48d34b10ba24ab935cb28996,2022-02-24,06:19:22,"<a href=""https://muva.mysurvey.solutions/Interview/Review/9a652dad48d34b10ba24ab935cb28996""target=""_blank"">Link</a>",GEORGINA ANTÓNIO NGOMANE
+12-43-55-85,301387,Maputo Cidade,Maputo,Inhagoia A,Adelino Edson Macamo,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,103,0106095fc2814aeb9b74833de4187601,2022-02-23,08:28:53,"<a href=""https://muva.mysurvey.solutions/Interview/Review/0106095fc2814aeb9b74833de4187601""target=""_blank"">Link</a>",ZELMA CONSTÂNCIA VILANCULOS
+35-79-24-88,301388,Maputo Cidade,Maputo,Inhagoia A,Nilza Fidalgo,Entrevista incompleta (revisitar),REVISITAR,REVISITING,0,0,FALSE,63,9f264b7430334981b1b16cb273e91df4,2022-02-23,08:21:10,"<a href=""https://muva.mysurvey.solutions/Interview/Review/9f264b7430334981b1b16cb273e91df4""target=""_blank"">Link</a>",ANGELA VICENTE MACHANGUANA
+42-53-27-12,301390,Maputo Cidade,Maputo,Inhagoia A,Sharin,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,47,a1c008b563964a5c92d830b1f56657d1,2022-02-23,13:34:07,"<a href=""https://muva.mysurvey.solutions/Interview/Review/a1c008b563964a5c92d830b1f56657d1""target=""_blank"">Link</a>",ARGENTINA ELIAS DE SOUSA MANJATE
+27-85-94-50,301391,Maputo Cidade,Maputo,Inhagoia B,Benigna Americo,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,72,f86ebb0acfc949e7ab1bda95eeec7c5b,2022-02-23,11:02:20,"<a href=""https://muva.mysurvey.solutions/Interview/Review/f86ebb0acfc949e7ab1bda95eeec7c5b""target=""_blank"">Link</a>",JOSE COSTA COSSA
+86-41-42-25,301392,Maputo Cidade,Maputo,Inhagoia B,Valter Arame,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,122,1eb44919157c4f3080e60073138dbacb,2022-02-23,15:10:44,"<a href=""https://muva.mysurvey.solutions/Interview/Review/1eb44919157c4f3080e60073138dbacb""target=""_blank"">Link</a>",FLORIDA CASTIGO LHUNGUANE
+23-21-93-12,301394,Maputo Cidade,Maputo,Inhagoia B,Adelino Edson Macamo,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,90,a8b51ab0f8554969be1d5baf3bd8be99,2022-02-23,10:53:52,"<a href=""https://muva.mysurvey.solutions/Interview/Review/a8b51ab0f8554969be1d5baf3bd8be99""target=""_blank"">Link</a>",MADALENA HELERINA ERNESTO
+31-30-84-65,301398,Maputo Cidade,Maputo,Inhagoia B,Merry Ngulele,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,154,a389fd1ff24b4d589cad69cac56d9ca0,2022-02-24,06:55:31,"<a href=""https://muva.mysurvey.solutions/Interview/Review/a389fd1ff24b4d589cad69cac56d9ca0""target=""_blank"">Link</a>",ADELAIDE ALBERTINA
+54-60-15-33,401010,Maputo Provincia,Boane,Matutuine,Salvador Macuacua,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,121,83201e9105bb4d5bbcd6902cfedbd783,2022-02-24,08:03:51,"<a href=""https://muva.mysurvey.solutions/Interview/Review/83201e9105bb4d5bbcd6902cfedbd783""target=""_blank"">Link</a>",CATARINA MOSCA
+12-38-24-62,406003,Maputo Provincia,Matutuine,Bela Vista,Andre Machava,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,99,744106ae09ea4be7a9f1b6cf78337a24,2022-02-23,20:03:30,"<a href=""https://muva.mysurvey.solutions/Interview/Review/744106ae09ea4be7a9f1b6cf78337a24""target=""_blank"">Link</a>",ANA CARLOS MANHICA
+81-49-46-13,406005,Maputo Provincia,Matutuine,Bela Vista,Nilza Mahumane,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,112,cce3f875160c419393e8424018150ec8,2022-02-24,07:27:27,"<a href=""https://muva.mysurvey.solutions/Interview/Review/cce3f875160c419393e8424018150ec8""target=""_blank"">Link</a>",ANGELINA CARLOS MANICA
+62-84-07-90,406016,Maputo Provincia,Matutuine,Bela Vista,Igor Fidalgo,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,61,5b4d6a82c37e4a7eb1ce8cb80c673d52,2022-02-24,07:14:03,"<a href=""https://muva.mysurvey.solutions/Interview/Review/5b4d6a82c37e4a7eb1ce8cb80c673d52""target=""_blank"">Link</a>",VANIA DE CASTRO PELEMBE
+37-36-02-13,406028,Maputo Provincia,Matutuine,Sonho Rural,Victor Guambe,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,86,20024aac6def4dd68f19b9f73d50e814,2022-02-24,06:57:26,"<a href=""https://muva.mysurvey.solutions/Interview/Review/20024aac6def4dd68f19b9f73d50e814""target=""_blank"">Link</a>",ALICE EDUARDO MACANDZE
+12-44-15-03,406031,Maputo Provincia,Matutuine,Sonho Rural,Igor Fidalgo,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,106,e2bd7517d59c43b68be18913811b912c,2022-02-24,07:11:10,"<a href=""https://muva.mysurvey.solutions/Interview/Review/e2bd7517d59c43b68be18913811b912c""target=""_blank"">Link</a>",ISABEL JOAO RAUL
+40-49-23-75,406033,Maputo Provincia,Matutuine,Sonho Rural,Egnesia,Entrevista completa (terminar),COMPLETA-FINAL,APPROVED,0,0,FALSE,134,4c3fa2541a934b7c964b52a71b93036f,2022-02-24,07:51:50,"<a href=""https://muva.mysurvey.solutions/Interview/Review/4c3fa2541a934b7c964b52a71b93036f""target=""_blank"">Link</a>",ROSITA ANTONIO ARMANDO
+16-65-72-11,406036,Maputo Provincia,Matutuine,Sonho Rural,Neuza Leticia Massimana,Entrevista incompleta (revisitar),REVISITAR,REVISITING,0,0,FALSE,104,b473ba3d3ddb462ba86729a6fe12eb17,2022-02-24,06:53:41,"<a href=""https://muva.mysurvey.solutions/Interview/Review/b473ba3d3ddb462ba86729a6fe12eb17""target=""_blank"">Link</a>",MARTA ERNESTO SAIMON NGWENHA
+Sin visitar,101001,Cabo Delgado,Pemba,Alto Gigone,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,BENEDITO AFAI
 Sin visitar,101002,Cabo Delgado,Pemba,Alto Gigone,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ISIDORO FRANCISCO KUNJA
 Sin visitar,101003,Cabo Delgado,Pemba,Alto Gigone,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,RAMADANE RAJABO
 Sin visitar,101004,Cabo Delgado,Pemba,Alto Gigone,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,AIDA ALFA
@@ -23,6 +49,7 @@ Sin visitar,101011,Cabo Delgado,Pemba,Cariaco,Sin visitar,Sin visitar,Sin visita
 Sin visitar,101012,Cabo Delgado,Pemba,Cariaco,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ZAINABA ALFREDO MOMADE
 Sin visitar,101013,Cabo Delgado,Pemba,Cariaco,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ALEXANDRE FRANCISCO JOAO
 Sin visitar,101014,Cabo Delgado,Pemba,Cariaco,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,LUCIA FERNANDO
+Sin visitar,101015,Cabo Delgado,Pemba,Expansão,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,HELENA ALFREDO MACANZA
 Sin visitar,101016,Cabo Delgado,Pemba,Expansão,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,JACINTO JOAO ALBINO
 Sin visitar,101017,Cabo Delgado,Pemba,Expansão,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,SUSANA SAVIANA ALTINO
 Sin visitar,101018,Cabo Delgado,Pemba,Ingonani,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,RUFINA ISSUFO
@@ -35,6 +62,7 @@ Sin visitar,101024,Cabo Delgado,Pemba,Josina Machel,Sin visitar,Sin visitar,Sin 
 Sin visitar,101025,Cabo Delgado,Pemba,Josina Machel,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,OLGA JOSE CORNELIO
 Sin visitar,101026,Cabo Delgado,Pemba,Josina Machel,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ALEXANDRE ABEL UBISSE
 Sin visitar,101027,Cabo Delgado,Pemba,Mahate,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,JUDITE BILALE
+Sin visitar,101028,Cabo Delgado,Pemba,Manhide,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,GILVAN JAIME DINIS DAVISSON
 Sin visitar,101029,Cabo Delgado,Pemba,Natipe,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,YASSINE LATIFO GIMO
 Sin visitar,101030,Cabo Delgado,Pemba,Natipe,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ELCIDIO DOUGLAS
 Sin visitar,101031,Cabo Delgado,Pemba,Natipe,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,TOMAS ASSANTE
@@ -96,6 +124,7 @@ Sin visitar,203049,Gaza,Chokwé,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,
 Sin visitar,203050,Gaza,Chokwé,Terceiro Bairro,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,CIQUIRDA AGOSTINHO DIAS
 Sin visitar,203051,Gaza,Chokwé,Terceiro Bairro,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,NUNUCA CASTIGO MEIRELES
 Sin visitar,204001,Gaza,Chonguene,Bango,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,REGIMILDA ALEXANDRE MACHAVA
+Sin visitar,204002,Gaza,Chonguene,Fidel Castro,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,PALMIRA MANHIQUE
 Sin visitar,204003,Gaza,Chonguene,Fidel Castro,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,NOSTA IAQUE MACUACUA
 Sin visitar,204004,Gaza,Chonguene,Maciene,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,MERYCHEBAS MATIAS CHICOGO
 Sin visitar,204005,Gaza,Chonguene,Nhoquene,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,MARTA CIPRIANO
@@ -123,7 +152,9 @@ Sin visitar,204026,Gaza,Chonguene,Sonho Rural,Sin visitar,Sin visitar,Sin visita
 Sin visitar,204027,Gaza,Chonguene,Terceiro Bairro,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,DIOLINDA BENEDITO
 Sin visitar,204028,Gaza,Chonguene,Terceiro Bairro,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,YURIA FELISMINA SUMBANE
 Sin visitar,205001,Gaza,Hokwe,Setimo Bairro,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ROSTALINA NORDINO MUCHANGA
+Sin visitar,206001,Gaza,Limpopo,Bairro 2,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,JULIETA LEONOR MAEHANFU
 Sin visitar,206002,Gaza,Limpopo,Bairro 2,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,RODA DAVID TEMBE
+Sin visitar,206003,Gaza,Limpopo,Bango,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,MARIA JOAQUIM MACAMO
 Sin visitar,206004,Gaza,Limpopo,Chissano,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,MAIDA HILARIO COSSA
 Sin visitar,206005,Gaza,Limpopo,Chissano,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,OLGA NGELICA NGOVENE
 Sin visitar,206006,Gaza,Limpopo,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ALBERTINA ANTONIO UAMUSSE
@@ -363,6 +394,7 @@ Sin visitar,301120,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin vis
 Sin visitar,301121,Maputo Cidade,Maputo,Albazine,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,OLINDA FELIZARDO DOMINGOS MANGANHELA
 Sin visitar,301122,Maputo Cidade,Maputo,Alto Mae B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,HERMINIA DAS DORES MACHAVA
 Sin visitar,301123,Maputo Cidade,Maputo,Alto Mae B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,YOLANDA CELINA MATSINHE
+Sin visitar,301124,Maputo Cidade,Maputo,Bagamoio,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,NILZA DE LURDES CHACAMANE
 Sin visitar,301125,Maputo Cidade,Maputo,Bagamoio,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,EDNÉSIA BELARMINA SAMUEL ANDELA
 Sin visitar,301126,Maputo Cidade,Maputo,Bagamoio,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,LAURA CLARA AMÓS
 Sin visitar,301127,Maputo Cidade,Maputo,Bagamoio,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,GERVASIA PALMIRA FERNANDO MAZIVE
@@ -587,56 +619,28 @@ Sin visitar,301345,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin vis
 Sin visitar,301346,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ENIA MARIA CRISALDO MONDLHANE
 Sin visitar,301347,Maputo Cidade,Maputo,Hulene B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ANA ADELIA MANJATE
 Sin visitar,301348,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,FATIMA ELIAS MARINDZA
-Sin visitar,301349,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,IVONE DA NEIDY GASPAR MUHOSSE
-Sin visitar,301350,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,AIDA PUREZA NDOVE
-Sin visitar,301351,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ALBERTINA FREDERICO LANGA
-Sin visitar,301352,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,TANIA FRANCISCO BUSSA
-Sin visitar,301353,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,NEIDY PEDRO LANGA
-Sin visitar,301354,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,EMERCIO NELSIA MICAS
-Sin visitar,301355,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,JORGE LUIS SIQUICE
 Sin visitar,301356,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,FERNANDO ROMAO GUIRRUTA
-Sin visitar,301357,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,JOAQUINA BOVANO ATINO
 Sin visitar,301358,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,HELENA DA CONCEIÇÃO OCTÁVIO COSSA
 Sin visitar,301359,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,SAMANTA CLEMENTINA PAULO MACOVELE
 Sin visitar,301360,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,MADALENA CUSTODIO NHAVENE
 Sin visitar,301361,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,APRIGIO TREZENTO NHARE
-Sin visitar,301362,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ENOQUE SALOMÃO HAMELA
-Sin visitar,301363,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,LUSANA JAIME LANGA
 Sin visitar,301364,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,OTÍLIA JOSÉ RAFAEL
-Sin visitar,301365,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,FLORÊNCIA FERNANDO MACUCULE
-Sin visitar,301366,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,HELENA FERNANDO NGOVE
 Sin visitar,301367,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,JOSE ALCINDA MUNGUAMBE
-Sin visitar,301368,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,HELENA SILVANO SIGAUQUE
 Sin visitar,301369,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,AMELIA RAMALIA TINGA
 Sin visitar,301370,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ARGENTINA ANTÓNIO SENDA
-Sin visitar,301371,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,EDILSON BAPTISTA NHANTOLE
-Sin visitar,301372,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,IMELDA CANDIDO NHATUMBO
 Sin visitar,301373,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,LÚCIA VITORINO MACUÁCUA
-Sin visitar,301374,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,PEDRO PAULO NHAMPOSSE
 Sin visitar,301375,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,WALTER FRANCISCO NHANTUMBO
 Sin visitar,301376,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,JOSSANE ANTÓNIO MABJAIA
 Sin visitar,301377,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ELIA ARLINDO
-Sin visitar,301378,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,EMILTON SILVESTRE
 Sin visitar,301379,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,EUCLIDES ABLBERTO SIQUICE
 Sin visitar,301380,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,EUCLIDES ALBERTO SIQUICE
-Sin visitar,301381,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ANTONIO ALBERTO GOMANE JUNIOR
-Sin visitar,301382,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,EDILSON AMILCAR
 Sin visitar,301383,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,EDILSON AMILCAR DOCODELA
-Sin visitar,301384,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,FRANCISCO SARMENTO SAMUEL
-Sin visitar,301385,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,GEORGINA ANTÓNIO NGOMANE
 Sin visitar,301386,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,LUCRECIO ANIANO DOS SANTOS
-Sin visitar,301387,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ZELMA CONSTÂNCIA VILANCULOS
-Sin visitar,301388,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ANGELA VICENTE MACHANGUANA
 Sin visitar,301389,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ALDA EUGÉNIO NEVES
-Sin visitar,301390,Maputo Cidade,Maputo,Inhagoia A,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ARGENTINA ELIAS DE SOUSA MANJATE
-Sin visitar,301391,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,JOSE COSTA COSSA
-Sin visitar,301392,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,FLORIDA CASTIGO LHUNGUANE
 Sin visitar,301393,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,VITORINO SEVENE GULUBE JÚNIOR
-Sin visitar,301394,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,MADALENA HELERINA ERNESTO
 Sin visitar,301395,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ELIAS AURELIO NHALUNGO
 Sin visitar,301396,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,APILÔNIA RAIMUNDO PACULE
 Sin visitar,301397,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ANA MARIA SIQUELA NHANCALE
-Sin visitar,301398,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ADELAIDE ALBERTINA
 Sin visitar,301399,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,EUCLIDIO EUSEBIO SAUTE
 Sin visitar,301400,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,JÚLIO XAVIER XIRINDZA
 Sin visitar,301401,Maputo Cidade,Maputo,Inhagoia B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,TEOTONIO FRANCISCO VICTORINO
@@ -1056,6 +1060,7 @@ Sin visitar,301814,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visi
 Sin visitar,301815,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,MARTA IVONE
 Sin visitar,301816,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,GILDA JOHNAM
 Sin visitar,301817,Maputo Cidade,Maputo,Zimpeto,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ALFREDO NDEVE JUNIOR
+Sin visitar,401001,Maputo Provincia,Boane,Bairro 1,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ILDA SAMUEL VICTOR
 Sin visitar,401002,Maputo Provincia,Boane,Bairro 2,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,CIDALIA FABIAO TIMBA MAUNZE
 Sin visitar,401003,Maputo Provincia,Boane,Bairro 2,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,PALMIRA XAVIER MUDUQUE
 Sin visitar,401004,Maputo Provincia,Boane,Bairro 7,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ROFINA FETNANDO MONDLANE
@@ -1064,7 +1069,6 @@ Sin visitar,401006,Maputo Provincia,Boane,Campoane,Sin visitar,Sin visitar,Sin v
 Sin visitar,401007,Maputo Provincia,Boane,Km16,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ANGELINA MANHICA
 Sin visitar,401008,Maputo Provincia,Boane,Mahubo,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,AMELIA SAMUEL MANJATE CHILUNDZO
 Sin visitar,401009,Maputo Provincia,Boane,Matutuine,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ADELIA JOAO MULA
-Sin visitar,401010,Maputo Provincia,Boane,Matutuine,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,CATARINA MOSCA
 Sin visitar,401011,Maputo Provincia,Boane,Matutuine,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,DESSINE ARLINDO MANUEL
 Sin visitar,401012,Maputo Provincia,Boane,Matutuine,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ERMELINDA RAFAEL
 Sin visitar,401013,Maputo Provincia,Boane,Matutuine,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,EUSEBIO FAUSTINO MARRIME JÚNIOR
@@ -1359,9 +1363,7 @@ Sin visitar,405234,Maputo Provincia,Matola,Zona Verde,Sin visitar,Sin visitar,Si
 Sin visitar,405235,Maputo Provincia,Matola,Zona Verde,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,OLÍVIA AGOSTINHO
 Sin visitar,406001,Maputo Provincia,Matutuine,Bairo B,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,LUCINDA PAULO
 Sin visitar,406002,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ALICE ARAO
-Sin visitar,406003,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ANA CARLOS MANHICA
 Sin visitar,406004,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ANASTANCIA OBADIAS CUMBE
-Sin visitar,406005,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ANGELINA CARLOS MANICA
 Sin visitar,406006,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,CHEILA ZACARIAS
 Sin visitar,406007,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,CLARA DANILO SUMBANE
 Sin visitar,406008,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,FELICIA JOAO TWALA
@@ -1372,7 +1374,6 @@ Sin visitar,406012,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar
 Sin visitar,406013,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ROSA LINO ALBINO
 Sin visitar,406014,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,CLEIDA MANUEL MOIANE
 Sin visitar,406015,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ORCIDIA BERNARDO
-Sin visitar,406016,Maputo Provincia,Matutuine,Bela Vista,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,VANIA DE CASTRO PELEMBE
 Sin visitar,406017,Maputo Provincia,Matutuine,Goboza,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,VANESSA MARIA EUGENIO ISMAEL
 Sin visitar,406018,Maputo Provincia,Matutuine,Inkassane,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,STELA MOISES CHEMBENE
 Sin visitar,406019,Maputo Provincia,Matutuine,Missevene,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,INES AURELIO MABUNDA
@@ -1384,15 +1385,11 @@ Sin visitar,406024,Maputo Provincia,Matutuine,Salamanga,Sin visitar,Sin visitar,
 Sin visitar,406025,Maputo Provincia,Matutuine,Salamanga,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,LARCIA ZEFERINO MAGAIA
 Sin visitar,406026,Maputo Provincia,Matutuine,Salamanga,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,LINDA MATIAS CHINDA
 Sin visitar,406027,Maputo Provincia,Matutuine,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ALICE DANIEL CUMBANE
-Sin visitar,406028,Maputo Provincia,Matutuine,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ALICE EDUARDO MACANDZE
 Sin visitar,406029,Maputo Provincia,Matutuine,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,CELINA AMERICO MACALUE
 Sin visitar,406030,Maputo Provincia,Matutuine,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,GINA JOSE SITOE
-Sin visitar,406031,Maputo Provincia,Matutuine,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ISABEL JOAO RAUL
 Sin visitar,406032,Maputo Provincia,Matutuine,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,LAURA CREMILDA MACANHA
-Sin visitar,406033,Maputo Provincia,Matutuine,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ROSITA ANTONIO ARMANDO
 Sin visitar,406034,Maputo Provincia,Matutuine,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ALICE ANDRE TEMBE
 Sin visitar,406035,Maputo Provincia,Matutuine,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,CLARA VALENTE MUGADUI
-Sin visitar,406036,Maputo Provincia,Matutuine,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,MARTA ERNESTO SAIMON NGWENHA
 Sin visitar,406037,Maputo Provincia,Matutuine,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,MERTINA DANIEL
 Sin visitar,406038,Maputo Provincia,Matutuine,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,OTILIA
 Sin visitar,406039,Maputo Provincia,Matutuine,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,TALITA NELSON MONDLANE
@@ -1537,6 +1534,7 @@ Sin visitar,501088,Sofala,Beira,Manga,Sin visitar,Sin visitar,Sin visitar,Sin vi
 Sin visitar,501089,Sofala,Beira,Manga,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,MARIA ARMANDO MASSIMBE
 Sin visitar,501090,Sofala,Beira,Manga,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,FAIDA SELEMANE OSSIFO
 Sin visitar,501091,Sofala,Beira,Manga,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,ISAQUE ARMINDO MARCOPO
+Sin visitar,501092,Sofala,Beira,Maraza,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,AMELIA JOSE DOMINGOS
 Sin visitar,501093,Sofala,Beira,Maraza,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,LUIS JOAQUIM LUIS
 Sin visitar,501094,Sofala,Beira,Maraza,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,RITA ANTÓNIO DAVA
 Sin visitar,501095,Sofala,Beira,Maraza,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,FRANCISCA PEDRO M CHIFINHA
@@ -1658,6 +1656,7 @@ Sin visitar,501210,Sofala,Beira,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,
 Sin visitar,501211,Sofala,Beira,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,MARIA SARA EUSEBIO
 Sin visitar,501212,Sofala,Beira,Sonho Rural,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,MARTA PAULO TAUZENE
 Sin visitar,501213,Sofala,Beira,Tanqui,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,JOSEFA DOS SANTOS RIBEIRO
+Sin visitar,601001,Zambézia,Nicoadala,Chagueiva,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,LUCIA RAFAEL AMOSSE
 Sin visitar,601002,Zambézia,Nicoadala,Chico,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,FLORINDA AMISSE WARATE
 Sin visitar,601003,Zambézia,Nicoadala,Domela,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,CHOINA ALBERTO JOAO
 Sin visitar,601004,Zambézia,Nicoadala,Magodone,Sin visitar,Sin visitar,Sin visitar,Sin visitar,,,,,,,,,RAZACA MAGACHO
