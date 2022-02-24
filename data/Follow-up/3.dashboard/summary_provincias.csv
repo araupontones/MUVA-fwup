@@ -3,9 +3,5 @@ ATIVO,Cabo Delgado,0,3,0,32,3,35
 CHECK!,Gaza,1,1,1,198,2,201
 ATIVO,Maputo Cidade,0,1,0,816,1,817
 CHECK!,Maputo Provincia,0,0,2,390,0,391
-<<<<<<< HEAD
-ATIVO,Sofala,0,1,0,212,1,214
-=======
 ATIVO,Sofala,0,1,0,212,1,213
->>>>>>> 0129745f3d0ed28b09b52252337c6ab81c6624d1
 ATIVO,Zambézia,0,1,0,86,1,87
