@@ -139,7 +139,6 @@ clean_data <- function(data_field,
 create_dashGeo <- function(database,
                            by,
                            dir_dashboard,
-                        
                            ...){
   
   #Define infile to read sample summary for this unit
