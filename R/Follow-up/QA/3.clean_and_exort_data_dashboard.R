@@ -68,6 +68,7 @@ provs_dash <- create_dashGeo(database = interviews,
 
 
 
+
 cidades_dash <- create_dashGeo(database = interviews, 
                by ="cidades",
                dir_dashboard = dir_dashboard,
@@ -78,7 +79,6 @@ bairros_dash <- create_dashGeo(database = interviews,
                by ="bairros",
                dir_dashboard = dir_dashboard,
                provincia, cidade, bairro)
-
 
 
 

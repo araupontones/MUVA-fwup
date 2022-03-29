@@ -36,6 +36,12 @@ susor_export_file(susor_qn_variable = "grandfollowup2022",
                   susor_format = "STATA"
                   )
 
+#download
+susor_export_file(susor_qn_variable = "grandfollowup2022",
+                  susor_qn_version = 6,
+                  susor_format = "STATA"
+)
+
 #append version
 susor_append_versions(susor_qn_variable = "grandfollowup2022",
                       susor_format = "STATA")
@@ -69,7 +75,16 @@ raw_data_sampled <- raw_data %>%
   mutate(dup = n()>1) %>%
   ungroup() %>%
   arrange(ID_participant) %>%
-  select(-keep)
+  select(-keep) %>%
+  #fix error of roster shocks (enabling condition not working)
+  rowwise() %>%
+  mutate(total_shocks = sum(c_across(starts_with("shock_faced__")), na.rm = T),
+         total_severe = sum(c_across(starts_with("shock_severe__")), na.rm = T),
+         n_questions_unanswered = if_else(n_questions_unanswered == 1 & (total_shocks == 0 & total_severe == 0), 
+                                           n_questions_unanswered - 1,
+                                           n_questions_unanswered)) %>%
+  ungroup()
+
 
 
 
