@@ -38,10 +38,17 @@ It imports the output from the confirmation step, crates lookup tables for surve
 Output: Data for dashboard
 Output2: Clean data of the survey "data/Follow-up/2.clean". This data that includes all the field management variables is the input to create the delivery data
 
-#Delivery
+## Delivery
 Takes the clean data from the survey, keeps only approved cases, and removes management variables
 
 Output: dir_delivery and dropbox/data/data_survey
+
+
+## Dashboard
+
+The dashboard was programmed in a different repo: https://github.com/araupontones/followUp-Dash
+
+Output: dropbox/04 Data/survey final
 
 
 
