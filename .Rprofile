@@ -68,8 +68,15 @@ dir_data_confirmation <- file.path(dir_data, "Confirmation")
 #follow-up: data collected in the follow up-------------------------------------
     dir_data_fp <- file.path(dir_data, "Follow-up")
       dir_fp_sample <- file.path(dir_data_fp, "sample")
+      dir_fp_clean <- file.path(dir_data_fp, "2.clean")
+      
+      
+
+#Delivery: data to deliver after the survey
+      dir_delivery <- file.path("data/Delivery")
     
-    
+
+
 
       
 #dropbox----------------------------------------------------------------------
