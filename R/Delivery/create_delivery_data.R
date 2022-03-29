@@ -70,14 +70,19 @@ clean_rosters <- lapply(roster_files, function(roster){
   #save to delivery
   
   rio::export(roster_ids, file.path(dir_delivery, stata_file))
+  rio::export(roster_ids, file.path(db_data_delivery, stata_file)) #dropbox
+  
+  
   
   
 })
 
 
+
 #iv. Save main file -----------------------------------------------------------
 
 rio::export(main_clean, file.path(dir_delivery, "grandfollowup2022.dta"))
+rio::export(main_clean, file.path(db_data_delivery, "grandfollowup2022.dta"))
 
 
 

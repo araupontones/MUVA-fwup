@@ -42,8 +42,8 @@ libraries <- c(
 #define paths -----------------------------------------------------------------
 
 db <- "C:/Users/andre/Dropbox/A0583 MUVA Follow-Up Survey"
-db_data <- file.path(db, "data")
-
+db_data <- file.path(db, "04 Data")
+db_data_delivery <-file.path(db_data,"survey final" )
 dir_data <- "data"
 
 dir_data_ref <- file.path(dir_data, "Reference")
