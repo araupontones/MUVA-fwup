@@ -20,14 +20,15 @@ main_clean <- main %>%
   select(-c(url, last_action,time, link, date,entities__errors,
             questions__comments,rejections__hq, rejections__sup,
             sssys_irnd, concatPart, concatProj, interviewers,
-            final_attemps, interview__id, interview__status,
+            interview__id, interview__status,
             has__errors, n_questions_unanswered, interview__duration,
             inquiridor, responsible
             )) %>%
   mutate(outcome = susor::susor_get_stata_labels(outcome)) %>%
-  relocate(interview__key, ID_participant, participante, project,status, Management) %>%
+  relocate(interview__key, ID_participant, participante, project,status, Management, final_attemps) %>%
   rename(Field_Management = Management,
-         Status_field = status) %>%
+         Status_field = status,
+         Attempts = final_attemps) %>%
   filter(Field_Management == "APPROVED")
 
 
