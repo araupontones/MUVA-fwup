@@ -1,8 +1,7 @@
-status,provincia,Visitadas,Revisitando,Completas,Nao conseguimos,Rejected,Sim visitar,Approved,sampled
-APPROVED,Cabo Delgado,35,0,23,12,0,0,35,35
-APPROVED,Gaza,201,0,143,58,0,0,201,201
-CHECK!,Maputo Cidade,809,35,606,120,48,32,726,817
-CHECK!,Maputo Provincia,392,11,278,89,14,6,367,391
-APPROVED,Sofala,213,0,168,45,0,0,213,213
-APPROVED,Zambézia,87,0,69,18,0,0,87,87
-CHECK!,Total,1737,46,1287,342,62,38,1629,1744
+status,provincia,Completas,Nao conseguimos,Rejected,Sim visitar,Approved,sampled
+APPROVED,Cabo Delgado,23,12,0,0,35,35
+APPROVED,Gaza,143,58,0,0,201,201
+APPROVED,Maputo Cidade,632,185,0,0,817,817
+APPROVED,Maputo Provincia,286,105,0,0,391,391
+APPROVED,Sofala,168,45,0,0,213,213
+APPROVED,Zambézia,69,18,0,0,87,87

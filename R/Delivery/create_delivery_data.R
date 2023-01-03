@@ -32,6 +32,8 @@ main_clean <- main %>%
   filter(Field_Management == "APPROVED")
 
 
+#nrow(main_clean)
+#main_clean |> tabyl(provincia,Status_field) %>% View(.)
 
 
 #iii. drop redundant interviews in rosters and save-------------------------------------
@@ -39,6 +41,7 @@ main_clean <- main %>%
 
 #list of clean files
 clean_files <- list.files(dir_fp_clean, full.names = T)
+
 #identify main file
 main_file <- which(str_detect(clean_files, "grandfollowup"))
 #roster files
@@ -85,6 +88,7 @@ clean_rosters <- lapply(roster_files, function(roster){
 rio::export(main_clean, file.path(dir_delivery, "grandfollowup2022.dta"))
 rio::export(main_clean, file.path(db_data_delivery, "grandfollowup2022.dta"))
 
+db_data_delivery
 
 
 

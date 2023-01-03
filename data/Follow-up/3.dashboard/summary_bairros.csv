@@ -1,264 +1,263 @@
-status,provincia,cidade,bairro,Visitadas,Revisitando,Completas,Nao conseguimos,Rejected,Sim visitar,Approved,sampled
-APPROVED,Cabo Delgado,Pemba,Alto Gigone,5,0,4,1,0,0,5,5
-APPROVED,Cabo Delgado,Pemba,Areia Vermelha Lado De Viver,1,0,1,0,0,0,1,1
-APPROVED,Cabo Delgado,Pemba,Cariaco,8,0,5,3,0,0,8,8
-APPROVED,Cabo Delgado,Pemba,Expansão,3,0,2,1,0,0,3,3
-APPROVED,Cabo Delgado,Pemba,Ingonani,3,0,1,2,0,0,3,3
-APPROVED,Cabo Delgado,Pemba,Josina Machel,6,0,5,1,0,0,6,6
-APPROVED,Cabo Delgado,Pemba,Mahate,1,0,0,1,0,0,1,1
-APPROVED,Cabo Delgado,Pemba,Manhide,1,0,0,1,0,0,1,1
-APPROVED,Cabo Delgado,Pemba,Natipe,7,0,5,2,0,0,7,7
-APPROVED,Gaza,Chibuto,Bairro 2,1,0,1,0,0,0,1,1
-APPROVED,Gaza,Chicumbane,Bairro 4,1,0,1,0,0,0,1,1
-APPROVED,Gaza,Chokwé,Quarto Bairro,5,0,2,3,0,0,5,5
-APPROVED,Gaza,Chokwé,Quinto Bairro,12,0,10,2,0,0,12,12
-APPROVED,Gaza,Chokwé,Segundo Bairo,2,0,2,0,0,0,2,2
-APPROVED,Gaza,Chokwé,Setimo Bairro,2,0,1,1,0,0,2,2
-APPROVED,Gaza,Chokwé,Sexto Bairro,2,0,2,0,0,0,2,2
-APPROVED,Gaza,Chokwé,Sonho Rural,26,0,19,7,0,0,26,26
-APPROVED,Gaza,Chokwé,Terceiro Bairro,2,0,1,1,0,0,2,2
-APPROVED,Gaza,Chonguene,Bango,1,0,1,0,0,0,1,1
-APPROVED,Gaza,Chonguene,Fidel Castro,2,0,1,1,0,0,2,2
-APPROVED,Gaza,Chonguene,Maciene,1,0,0,1,0,0,1,1
-APPROVED,Gaza,Chonguene,Nhoquene,2,0,0,2,0,0,2,2
-APPROVED,Gaza,Chonguene,Rua De Chicombene,1,0,0,1,0,0,1,1
-APPROVED,Gaza,Chonguene,Segundo Bairro,1,0,0,1,0,0,1,1
-APPROVED,Gaza,Chonguene,Sonho Rural,18,0,12,6,0,0,18,18
-APPROVED,Gaza,Chonguene,Terceiro Bairro,2,0,1,1,0,0,2,2
-APPROVED,Gaza,Hokwe,Setimo Bairro,1,0,1,0,0,0,1,1
-APPROVED,Gaza,Limpopo,Bairro 2,2,0,2,0,0,0,2,2
-APPROVED,Gaza,Limpopo,Bango,1,0,1,0,0,0,1,1
-APPROVED,Gaza,Limpopo,Chissano,2,0,0,2,0,0,2,2
-APPROVED,Gaza,Limpopo,Sonho Rural,25,0,15,10,0,0,25,25
-APPROVED,Gaza,Limpopo,Xikubane,1,0,1,0,0,0,1,1
-APPROVED,Gaza,Lionde,Quarto Bairro,1,0,0,1,0,0,1,1
-APPROVED,Gaza,Macia,Bairro 3,1,0,1,0,0,0,1,1
-APPROVED,Gaza,Madjacaze,Samora Machel,1,0,0,1,0,0,1,1
-APPROVED,Gaza,Xai-Xai,1 Inhamissa,1,0,0,1,0,0,1,1
-APPROVED,Gaza,Xai-Xai,2 Chicumbane,3,0,1,2,0,0,3,3
-APPROVED,Gaza,Xai-Xai,2000,3,0,2,1,0,0,3,3
-APPROVED,Gaza,Xai-Xai,25 De Junho,1,0,1,0,0,0,1,1
-APPROVED,Gaza,Xai-Xai,4 Guoanine,1,0,1,0,0,0,1,1
-APPROVED,Gaza,Xai-Xai,Bairro 11,1,0,0,1,0,0,1,1
-APPROVED,Gaza,Xai-Xai,Bango,2,0,2,0,0,0,2,2
-APPROVED,Gaza,Xai-Xai,Chilenguene,2,0,2,0,0,0,2,2
-APPROVED,Gaza,Xai-Xai,Chissano,2,0,1,1,0,0,2,2
-APPROVED,Gaza,Xai-Xai,Chonguene,11,0,9,2,0,0,11,11
-APPROVED,Gaza,Xai-Xai,Fidel Castro,7,0,6,1,0,0,7,7
-APPROVED,Gaza,Xai-Xai,Limpopo,1,0,1,0,0,0,1,1
-APPROVED,Gaza,Xai-Xai,Massiene,1,0,1,0,0,0,1,1
-APPROVED,Gaza,Xai-Xai,Ngulelene,4,0,4,0,0,0,4,4
-APPROVED,Gaza,Xai-Xai,Patrice Lumumba,6,0,5,1,0,0,6,6
-APPROVED,Gaza,Xai-Xai,Primeiro Bairro,2,0,1,1,0,0,2,2
-APPROVED,Gaza,Xai-Xai,Sonho Rural,33,0,27,6,0,0,33,33
-APPROVED,Gaza,Xai-Xai,Terceiro Bairro,2,0,2,0,0,0,2,2
-APPROVED,Gaza,Xai-Xai,Venhene,1,0,1,0,0,0,1,1
-APPROVED,Gaza,Xai-Xai,Xicumbane,1,0,1,0,0,0,1,1
-APPROVED,Maputo Cidade,Maputo,25 De Junho A,2,0,2,0,0,0,2,2
-APPROVED,Maputo Cidade,Maputo,25 De Junho B,3,0,3,0,0,0,3,3
-ATIVO,Maputo Cidade,Maputo,3 De Fevereiro,2,1,1,0,0,0,1,2
-CHECK!,Maputo Cidade,Maputo,Aeroporto A,38,3,25,8,2,0,33,37
-CHECK!,Maputo Cidade,Maputo,Aeroporto B,39,3,27,5,4,0,32,37
-CHECK!,Maputo Cidade,Maputo,Albazine,41,4,27,6,4,1,33,40
-APPROVED,Maputo Cidade,Maputo,Alto Mae B,2,0,2,0,0,0,2,2
-CHECK!,Maputo Cidade,Maputo,Bagamoio,6,0,4,0,2,0,4,5
-ATIVO,Maputo Cidade,Maputo,Benfica,2,2,0,0,0,0,0,2
-APPROVED,Maputo Cidade,Maputo,Central A,6,0,6,0,0,0,6,6
-APPROVED,Maputo Cidade,Maputo,Chamanculo A,10,0,9,1,0,0,10,10
-CHECK!,Maputo Cidade,Maputo,Chamanculo B,23,1,17,3,2,1,20,23
-CHECK!,Maputo Cidade,Maputo,Chamanculo C,67,1,51,9,6,0,60,64
-ATIVO,Maputo Cidade,Maputo,Chamanculo D,24,1,21,2,0,0,23,24
-INATIVO,Maputo Cidade,Maputo,Choupal,0,0,0,0,0,1,0,1
-ATIVO,Maputo Cidade,Maputo,Comule,1,0,0,1,0,1,1,2
-APPROVED,Maputo Cidade,Maputo,Coop,2,0,0,2,0,0,2,2
-APPROVED,Maputo Cidade,Maputo,Costa Sol,1,0,1,0,0,0,1,1
-CHECK!,Maputo Cidade,Maputo,Ferroviario,55,2,47,4,2,0,51,54
-ATIVO,Maputo Cidade,Maputo,George Dimitrov,4,1,2,1,0,1,3,5
-CHECK!,Maputo Cidade,Maputo,Hulene A,8,1,4,1,2,0,5,7
-CHECK!,Maputo Cidade,Maputo,Hulene B,17,0,15,1,1,1,16,18
-CHECK!,Maputo Cidade,Maputo,Inhagoia A,41,5,29,5,2,3,34,43
-ATIVO,Maputo Cidade,Maputo,Inhagoia B,17,0,14,3,0,1,17,18
-CHECK!,Maputo Cidade,Maputo,Jardim,6,0,1,2,3,1,3,5
-APPROVED,Maputo Cidade,Maputo,Laulane,6,0,4,2,0,0,6,6
-CHECK!,Maputo Cidade,Maputo,Luis Cabral,13,0,10,1,2,0,11,12
-APPROVED,Maputo Cidade,Maputo,Mafalala,1,0,0,1,0,0,1,1
-CHECK!,Maputo Cidade,Maputo,Magoanine A,22,1,12,5,4,1,17,21
-ATIVO,Maputo Cidade,Maputo,Magoanine B,17,0,13,4,0,1,17,18
-ATIVO,Maputo Cidade,Maputo,Magoanine C,58,2,49,7,0,2,56,60
-CHECK!,Maputo Cidade,Maputo,Magoanine D,2,0,0,0,2,0,0,1
-ATIVO,Maputo Cidade,Maputo,Mahotas,27,1,23,3,0,1,26,28
-APPROVED,Maputo Cidade,Maputo,Malanga,6,0,5,1,0,0,6,6
-ATIVO,Maputo Cidade,Maputo,Malhangalene A,1,0,0,1,0,1,1,2
-APPROVED,Maputo Cidade,Maputo,Malhazine,2,0,1,1,0,0,2,2
-APPROVED,Maputo Cidade,Maputo,Mavalane A,1,0,1,0,0,0,1,1
-APPROVED,Maputo Cidade,Maputo,Mavalane B,2,0,1,1,0,0,2,2
-APPROVED,Maputo Cidade,Maputo,Maxaquene A,4,0,4,0,0,0,4,4
-ATIVO,Maputo Cidade,Maputo,Maxaquene B,9,1,7,1,0,0,8,9
-ATIVO,Maputo Cidade,Maputo,Maxaquene C,11,0,10,1,0,1,11,12
-ATIVO,Maputo Cidade,Maputo,Maxaquene D,13,2,11,0,0,1,11,14
-APPROVED,Maputo Cidade,Maputo,Minkadjuine,3,0,3,0,0,0,3,3
-APPROVED,Maputo Cidade,Maputo,Muhalaze,1,0,1,0,0,0,1,1
-APPROVED,Maputo Cidade,Maputo,Nhagobe,1,0,1,0,0,0,1,1
-ATIVO,Maputo Cidade,Maputo,Nhagoi,10,0,9,1,0,1,10,11
-APPROVED,Maputo Cidade,Maputo,Nsalene,1,0,1,0,0,0,1,1
-CHECK!,Maputo Cidade,Maputo,Polana Caniço A,55,1,40,10,4,5,50,58
-CHECK!,Maputo Cidade,Maputo,Polana Caniço B,96,2,70,18,6,5,88,98
-ATIVO,Maputo Cidade,Maputo,Polana Cimento A,2,0,2,0,0,1,2,3
-APPROVED,Maputo Cidade,Maputo,Sem Bairro,5,0,4,1,0,0,5,5
-APPROVED,Maputo Cidade,Maputo,Unidade,2,0,2,0,0,0,2,2
-APPROVED,Maputo Cidade,Maputo,Urbanização,2,0,2,0,0,0,2,2
-APPROVED,Maputo Cidade,Maputo,Xihango,1,0,1,0,0,0,1,1
-ATIVO,Maputo Cidade,Maputo,Xipamanine,3,0,2,1,0,1,3,4
-APPROVED,Maputo Cidade,Maputo,Zimpeto,15,0,9,6,0,0,15,15
-APPROVED,Maputo Provincia,Boane,Bairro 1,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Boane,Bairro 2,2,0,2,0,0,0,2,2
-APPROVED,Maputo Provincia,Boane,Bairro 7,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Boane,Beleluane,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Boane,Campoane,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Boane,Km16,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Boane,Mahubo,1,0,1,0,0,0,1,1
-ATIVO,Maputo Provincia,Boane,Matutuine,8,1,5,2,0,0,7,8
-APPROVED,Maputo Provincia,Boane,Paulo Samuel Kakomba,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Boane,Xinonaquila,2,0,1,1,0,0,2,2
-ATIVO,Maputo Provincia,Kathembe,Chamissava,1,1,0,0,0,0,0,1
-APPROVED,Maputo Provincia,Manhiça,Abel Jafar,1,0,1,0,0,0,1,1
-ATIVO,Maputo Provincia,Manhiça,Bobole,8,1,4,3,0,0,7,8
-APPROVED,Maputo Provincia,Manhiça,Cumbeza,2,0,1,1,0,0,2,2
-CHECK!,Maputo Provincia,Manhiça,Guava,11,0,8,1,2,2,9,12
-APPROVED,Maputo Provincia,Manhiça,Kubeza,1,0,0,1,0,0,1,1
-ATIVO,Maputo Provincia,Manhiça,Marracuene,6,0,3,3,0,1,6,7
-APPROVED,Maputo Provincia,Manhiça,Memo 1,1,0,0,1,0,0,1,1
-APPROVED,Maputo Provincia,Manhiça,Michafutene,1,0,0,1,0,0,1,1
-APPROVED,Maputo Provincia,Manhiça,Pateque,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Marracuene,29 De Setembro,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Marracuene,Agostinho Neto,2,0,2,0,0,0,2,2
-APPROVED,Maputo Provincia,Marracuene,Bobole,3,0,2,1,0,0,3,3
-APPROVED,Maputo Provincia,Marracuene,Magawanine,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Marracuene,Mateque,1,0,1,0,0,0,1,1
-CHECK!,Maputo Provincia,Marracuene,Pustuluane,2,0,0,0,2,0,0,1
-APPROVED,Maputo Provincia,Marracuene,Samora Machel,2,0,1,1,0,0,2,2
-APPROVED,Maputo Provincia,Marracuene,Santa Isabel,1,0,0,1,0,0,1,1
-CHECK!,Maputo Provincia,Marracuene,Zitava,2,0,0,0,2,0,0,1
-APPROVED,Maputo Provincia,Matola,1º Maio,4,0,1,3,0,0,4,4
-APPROVED,Maputo Provincia,Matola,Bairro 13,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Matola,Bairro F,1,0,0,1,0,0,1,1
-APPROVED,Maputo Provincia,Matola,Boquisso,11,0,8,3,0,0,11,11
-APPROVED,Maputo Provincia,Matola,Bunhissa,5,0,5,0,0,0,5,5
-APPROVED,Maputo Provincia,Matola,Cikuama,2,0,1,1,0,0,2,2
-APPROVED,Maputo Provincia,Matola,Congolote,13,0,7,6,0,0,13,13
-ATIVO,Maputo Provincia,Matola,Fomento,4,1,1,2,0,0,3,4
-APPROVED,Maputo Provincia,Matola,Golhoza,3,0,3,0,0,0,3,3
-APPROVED,Maputo Provincia,Matola,Infulene,9,0,8,1,0,0,9,9
-APPROVED,Maputo Provincia,Matola,Intaka,12,0,8,4,0,0,12,12
-CHECK!,Maputo Provincia,Matola,Jonate,2,0,0,0,2,0,0,1
-APPROVED,Maputo Provincia,Matola,Khobe,5,0,4,1,0,0,5,5
-ATIVO,Maputo Provincia,Matola,Liberdade,16,1,14,1,0,0,15,16
-ATIVO,Maputo Provincia,Matola,Machava,14,1,10,3,0,0,13,14
-APPROVED,Maputo Provincia,Matola,Malhampsane,4,0,3,1,0,0,4,4
-APPROVED,Maputo Provincia,Matola,Mali,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Matola,Manjave,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Matola,Matibwana,3,0,2,1,0,0,3,3
-CHECK!,Maputo Provincia,Matola,Matlhemele,6,0,4,0,2,0,4,5
-CHECK!,Maputo Provincia,Matola,Matola A,11,1,7,1,2,0,8,10
-APPROVED,Maputo Provincia,Matola,Matola B,1,0,0,1,0,0,1,1
-APPROVED,Maputo Provincia,Matola,Matola C,5,0,3,2,0,0,5,5
-APPROVED,Maputo Provincia,Matola,Matola D,2,0,2,0,0,0,2,2
-APPROVED,Maputo Provincia,Matola,Matola F,4,0,3,1,0,0,4,4
-CHECK!,Maputo Provincia,Matola,Matola Gare,10,0,7,1,2,0,8,9
-APPROVED,Maputo Provincia,Matola,Matola H,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Matola,Matola J,2,0,2,0,0,0,2,2
-APPROVED,Maputo Provincia,Matola,Matola Rio,3,0,1,2,0,0,3,3
-APPROVED,Maputo Provincia,Matola,Mavoco,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Matola,Mozal,4,0,3,1,0,0,4,4
-APPROVED,Maputo Provincia,Matola,Mucatine,2,0,2,0,0,0,2,2
-ATIVO,Maputo Provincia,Matola,Muhalaze,15,1,10,4,0,1,14,16
-APPROVED,Maputo Provincia,Matola,Mulotana,1,0,0,1,0,0,1,1
-APPROVED,Maputo Provincia,Matola,Mussumbuluko,3,0,2,1,0,0,3,3
-APPROVED,Maputo Provincia,Matola,Ndlavela,9,0,7,2,0,0,9,9
-ATIVO,Maputo Provincia,Matola,Patrice Lumumba,7,1,6,0,0,0,6,7
-APPROVED,Maputo Provincia,Matola,Santa Isabel,4,0,3,1,0,0,4,4
-APPROVED,Maputo Provincia,Matola,Sao Damanso,3,0,1,2,0,0,3,3
-ATIVO,Maputo Provincia,Matola,Sem Bairro,1,1,0,0,0,0,0,1
-APPROVED,Maputo Provincia,Matola,Sidwava,2,0,2,0,0,0,2,2
-APPROVED,Maputo Provincia,Matola,T-3,4,0,3,1,0,0,4,4
-APPROVED,Maputo Provincia,Matola,Tchumene 2,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Matola,Tenga,3,0,2,1,0,0,3,3
-APPROVED,Maputo Provincia,Matola,Trevo,1,0,1,0,0,0,1,1
-ATIVO,Maputo Provincia,Matola,Tsalala,7,0,5,2,0,1,7,8
-APPROVED,Maputo Provincia,Matola,Unidade D,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Matola,Unidade H,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Matola,Xiboene,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Matola,Zilinga,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Matola,Zona Verde,9,0,7,2,0,0,9,9
-APPROVED,Maputo Provincia,Matutuine,Bairo B,1,0,0,1,0,0,1,1
-APPROVED,Maputo Provincia,Matutuine,Bela Vista,15,0,14,1,0,0,15,15
-APPROVED,Maputo Provincia,Matutuine,Goboza,1,0,1,0,0,0,1,1
-INATIVO,Maputo Provincia,Matutuine,Inkassane,0,0,0,0,0,1,0,1
-APPROVED,Maputo Provincia,Matutuine,Missevene,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Matutuine,Ponta De Ouro,4,0,3,1,0,0,4,4
-APPROVED,Maputo Provincia,Matutuine,Salamanga,3,0,1,2,0,0,3,3
-ATIVO,Maputo Provincia,Matutuine,Sonho Rural,22,1,15,6,0,0,21,22
-APPROVED,Maputo Provincia,Namaacha,Bairo A,3,0,3,0,0,0,3,3
-APPROVED,Maputo Provincia,Namaacha,Bairro 1,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Namaacha,Bairro B,1,0,1,0,0,0,1,1
-APPROVED,Maputo Provincia,Namaacha,Fronteira,2,0,2,0,0,0,2,2
-APPROVED,Maputo Provincia,Namaacha,Goba,5,0,5,0,0,0,5,5
-APPROVED,Maputo Provincia,Namaacha,Mahelane,13,0,10,3,0,0,13,13
-APPROVED,Maputo Provincia,Namaacha,Sonho Rural,16,0,12,4,0,0,16,16
-APPROVED,Sofala,Beira,Bambu,1,0,1,0,0,0,1,1
-APPROVED,Sofala,Beira,Chanhisse,1,0,1,0,0,0,1,1
-APPROVED,Sofala,Beira,Chipangara 1,11,0,9,2,0,0,11,11
-APPROVED,Sofala,Beira,Chipangara 2,29,0,24,5,0,0,29,29
-APPROVED,Sofala,Beira,Chota,3,0,3,0,0,0,3,3
-APPROVED,Sofala,Beira,Decimo Bairro,2,0,2,0,0,0,2,2
-APPROVED,Sofala,Beira,Decimo Segundo Bairro,1,0,1,0,0,0,1,1
-APPROVED,Sofala,Beira,Esturro,1,0,1,0,0,0,1,1
-APPROVED,Sofala,Beira,Goto,3,0,1,2,0,0,3,3
-APPROVED,Sofala,Beira,Inhamizua,7,0,7,0,0,0,7,7
-APPROVED,Sofala,Beira,Macamilo,1,0,0,1,0,0,1,1
-APPROVED,Sofala,Beira,Macurungo,11,0,11,0,0,0,11,11
-APPROVED,Sofala,Beira,Malanga,10,0,7,3,0,0,10,10
-APPROVED,Sofala,Beira,Manga,10,0,5,5,0,0,10,10
-APPROVED,Sofala,Beira,Maraza,7,0,7,0,0,0,7,7
-APPROVED,Sofala,Beira,Mascarenha,1,0,1,0,0,0,1,1
-APPROVED,Sofala,Beira,Matacuane,11,0,10,1,0,0,11,11
-APPROVED,Sofala,Beira,Muchatavina,1,0,1,0,0,0,1,1
-APPROVED,Sofala,Beira,Munhava,44,0,35,9,0,0,44,44
-APPROVED,Sofala,Beira,Pioneiros,1,0,1,0,0,0,1,1
-APPROVED,Sofala,Beira,Ponta Gea,3,0,3,0,0,0,3,3
-APPROVED,Sofala,Beira,Quinto Bairro,1,0,0,1,0,0,1,1
-APPROVED,Sofala,Beira,Segundo Bairro,1,0,1,0,0,0,1,1
-APPROVED,Sofala,Beira,Sem Bairro,2,0,2,0,0,0,2,2
-APPROVED,Sofala,Beira,Sonho Rural,49,0,34,15,0,0,49,49
-APPROVED,Sofala,Beira,Tanqui,1,0,0,1,0,0,1,1
-APPROVED,Zambézia,Nicoadala,Chagueiva,1,0,1,0,0,0,1,1
-APPROVED,Zambézia,Nicoadala,Chico,1,0,1,0,0,0,1,1
-APPROVED,Zambézia,Nicoadala,Domela,1,0,1,0,0,0,1,1
-APPROVED,Zambézia,Nicoadala,Magodone,2,0,2,0,0,0,2,2
-APPROVED,Zambézia,Nicoadala,Munhonha,2,0,1,1,0,0,2,2
-APPROVED,Zambézia,Nicoadala,Namacata 7,1,0,1,0,0,0,1,1
-APPROVED,Zambézia,Nicoadala,Nhamacata Disrtito De Nicoadala,1,0,1,0,0,0,1,1
-APPROVED,Zambézia,Nicoadala,Nherire,4,0,4,0,0,0,4,4
-APPROVED,Zambézia,Nicoadala,Sonho Rural,34,0,27,7,0,0,34,34
-APPROVED,Zambézia,Quelimane,A,1,0,0,1,0,0,1,1
-APPROVED,Zambézia,Quelimane,Acordos De Lusaka,3,0,1,2,0,0,3,3
-APPROVED,Zambézia,Quelimane,Amoru,1,0,0,1,0,0,1,1
-APPROVED,Zambézia,Quelimane,Bazar,2,0,2,0,0,0,2,2
-APPROVED,Zambézia,Quelimane,Chico,1,0,0,1,0,0,1,1
-APPROVED,Zambézia,Quelimane,Coalane Segundo,1,0,1,0,0,0,1,1
-APPROVED,Zambézia,Quelimane,Domela,1,0,1,0,0,0,1,1
-APPROVED,Zambézia,Quelimane,Fanquene,1,0,1,0,0,0,1,1
-APPROVED,Zambézia,Quelimane,Manhawa B,1,0,1,0,0,0,1,1
-APPROVED,Zambézia,Quelimane,Matiazua,2,0,2,0,0,0,2,2
-APPROVED,Zambézia,Quelimane,Matuazia Saguare,1,0,1,0,0,0,1,1
-APPROVED,Zambézia,Quelimane,Mocuba,1,0,0,1,0,0,1,1
-APPROVED,Zambézia,Quelimane,Munhambane,1,0,1,0,0,0,1,1
-APPROVED,Zambézia,Quelimane,Munhambone,2,0,1,1,0,0,2,2
-APPROVED,Zambézia,Quelimane,Namunho,1,0,1,0,0,0,1,1
-APPROVED,Zambézia,Quelimane,Ngololo,2,0,1,1,0,0,2,2
-APPROVED,Zambézia,Quelimane,Nhamakata,1,0,1,0,0,0,1,1
-APPROVED,Zambézia,Quelimane,Nhambone,1,0,1,0,0,0,1,1
-APPROVED,Zambézia,Quelimane,Sampene,2,0,2,0,0,0,2,2
-APPROVED,Zambézia,Quelimane,Sonho Rural,13,0,11,2,0,0,13,13
-APPROVED,Zambézia,Zavala,Muchelene,1,0,1,0,0,0,1,1
-CHECK!,Total,-,-,1737,46,1287,342,62,38,1629,1744
+status,provincia,cidade,bairro,Completas,Nao conseguimos,Rejected,Sim visitar,Approved,sampled
+APPROVED,Cabo Delgado,Pemba,Alto Gigone,4,1,0,0,5,5
+APPROVED,Cabo Delgado,Pemba,Areia Vermelha Lado De Viver,1,0,0,0,1,1
+APPROVED,Cabo Delgado,Pemba,Cariaco,5,3,0,0,8,8
+APPROVED,Cabo Delgado,Pemba,Expansão,2,1,0,0,3,3
+APPROVED,Cabo Delgado,Pemba,Ingonani,1,2,0,0,3,3
+APPROVED,Cabo Delgado,Pemba,Josina Machel,5,1,0,0,6,6
+APPROVED,Cabo Delgado,Pemba,Mahate,0,1,0,0,1,1
+APPROVED,Cabo Delgado,Pemba,Manhide,0,1,0,0,1,1
+APPROVED,Cabo Delgado,Pemba,Natipe,5,2,0,0,7,7
+APPROVED,Gaza,Chibuto,Bairro 2,1,0,0,0,1,1
+APPROVED,Gaza,Chicumbane,Bairro 4,1,0,0,0,1,1
+APPROVED,Gaza,Chokwé,Quarto Bairro,2,3,0,0,5,5
+APPROVED,Gaza,Chokwé,Quinto Bairro,10,2,0,0,12,12
+APPROVED,Gaza,Chokwé,Segundo Bairo,2,0,0,0,2,2
+APPROVED,Gaza,Chokwé,Setimo Bairro,1,1,0,0,2,2
+APPROVED,Gaza,Chokwé,Sexto Bairro,2,0,0,0,2,2
+APPROVED,Gaza,Chokwé,Sonho Rural,19,7,0,0,26,26
+APPROVED,Gaza,Chokwé,Terceiro Bairro,1,1,0,0,2,2
+APPROVED,Gaza,Chonguene,Bango,1,0,0,0,1,1
+APPROVED,Gaza,Chonguene,Fidel Castro,1,1,0,0,2,2
+APPROVED,Gaza,Chonguene,Maciene,0,1,0,0,1,1
+APPROVED,Gaza,Chonguene,Nhoquene,0,2,0,0,2,2
+APPROVED,Gaza,Chonguene,Rua De Chicombene,0,1,0,0,1,1
+APPROVED,Gaza,Chonguene,Segundo Bairro,0,1,0,0,1,1
+APPROVED,Gaza,Chonguene,Sonho Rural,12,6,0,0,18,18
+APPROVED,Gaza,Chonguene,Terceiro Bairro,1,1,0,0,2,2
+APPROVED,Gaza,Hokwe,Setimo Bairro,1,0,0,0,1,1
+APPROVED,Gaza,Limpopo,Bairro 2,2,0,0,0,2,2
+APPROVED,Gaza,Limpopo,Bango,1,0,0,0,1,1
+APPROVED,Gaza,Limpopo,Chissano,0,2,0,0,2,2
+APPROVED,Gaza,Limpopo,Sonho Rural,15,10,0,0,25,25
+APPROVED,Gaza,Limpopo,Xikubane,1,0,0,0,1,1
+APPROVED,Gaza,Lionde,Quarto Bairro,0,1,0,0,1,1
+APPROVED,Gaza,Macia,Bairro 3,1,0,0,0,1,1
+APPROVED,Gaza,Madjacaze,Samora Machel,0,1,0,0,1,1
+APPROVED,Gaza,Xai-Xai,1 Inhamissa,0,1,0,0,1,1
+APPROVED,Gaza,Xai-Xai,2 Chicumbane,1,2,0,0,3,3
+APPROVED,Gaza,Xai-Xai,2000,2,1,0,0,3,3
+APPROVED,Gaza,Xai-Xai,25 De Junho,1,0,0,0,1,1
+APPROVED,Gaza,Xai-Xai,4 Guoanine,1,0,0,0,1,1
+APPROVED,Gaza,Xai-Xai,Bairro 11,0,1,0,0,1,1
+APPROVED,Gaza,Xai-Xai,Bango,2,0,0,0,2,2
+APPROVED,Gaza,Xai-Xai,Chilenguene,2,0,0,0,2,2
+APPROVED,Gaza,Xai-Xai,Chissano,1,1,0,0,2,2
+APPROVED,Gaza,Xai-Xai,Chonguene,9,2,0,0,11,11
+APPROVED,Gaza,Xai-Xai,Fidel Castro,6,1,0,0,7,7
+APPROVED,Gaza,Xai-Xai,Limpopo,1,0,0,0,1,1
+APPROVED,Gaza,Xai-Xai,Massiene,1,0,0,0,1,1
+APPROVED,Gaza,Xai-Xai,Ngulelene,4,0,0,0,4,4
+APPROVED,Gaza,Xai-Xai,Patrice Lumumba,5,1,0,0,6,6
+APPROVED,Gaza,Xai-Xai,Primeiro Bairro,1,1,0,0,2,2
+APPROVED,Gaza,Xai-Xai,Sonho Rural,27,6,0,0,33,33
+APPROVED,Gaza,Xai-Xai,Terceiro Bairro,2,0,0,0,2,2
+APPROVED,Gaza,Xai-Xai,Venhene,1,0,0,0,1,1
+APPROVED,Gaza,Xai-Xai,Xicumbane,1,0,0,0,1,1
+APPROVED,Maputo Cidade,Maputo,25 De Junho A,2,0,0,0,2,2
+APPROVED,Maputo Cidade,Maputo,25 De Junho B,3,0,0,0,3,3
+APPROVED,Maputo Cidade,Maputo,3 De Fevereiro,1,1,0,0,2,2
+APPROVED,Maputo Cidade,Maputo,Aeroporto A,26,11,0,0,37,37
+APPROVED,Maputo Cidade,Maputo,Aeroporto B,31,6,0,0,37,37
+APPROVED,Maputo Cidade,Maputo,Albazine,25,15,0,0,40,40
+APPROVED,Maputo Cidade,Maputo,Alto Mae B,2,0,0,0,2,2
+APPROVED,Maputo Cidade,Maputo,Bagamoio,4,1,0,0,5,5
+APPROVED,Maputo Cidade,Maputo,Benfica,2,0,0,0,2,2
+APPROVED,Maputo Cidade,Maputo,Central A,5,1,0,0,6,6
+APPROVED,Maputo Cidade,Maputo,Chamanculo A,9,1,0,0,10,10
+APPROVED,Maputo Cidade,Maputo,Chamanculo B,18,5,0,0,23,23
+APPROVED,Maputo Cidade,Maputo,Chamanculo C,50,14,0,0,64,64
+APPROVED,Maputo Cidade,Maputo,Chamanculo D,21,3,0,0,24,24
+APPROVED,Maputo Cidade,Maputo,Choupal,1,0,0,0,1,1
+APPROVED,Maputo Cidade,Maputo,Comule,0,2,0,0,2,2
+APPROVED,Maputo Cidade,Maputo,Coop,0,2,0,0,2,2
+APPROVED,Maputo Cidade,Maputo,Costa Sol,1,0,0,0,1,1
+APPROVED,Maputo Cidade,Maputo,Ferroviario,48,6,0,0,54,54
+APPROVED,Maputo Cidade,Maputo,George Dimitrov,4,1,0,0,5,5
+APPROVED,Maputo Cidade,Maputo,Hulene A,4,3,0,0,7,7
+APPROVED,Maputo Cidade,Maputo,Hulene B,14,4,0,0,18,18
+APPROVED,Maputo Cidade,Maputo,Inhagoia A,35,8,0,0,43,43
+APPROVED,Maputo Cidade,Maputo,Inhagoia B,15,3,0,0,18,18
+APPROVED,Maputo Cidade,Maputo,Jardim,1,4,0,0,5,5
+APPROVED,Maputo Cidade,Maputo,Laulane,4,2,0,0,6,6
+APPROVED,Maputo Cidade,Maputo,Luis Cabral,11,1,0,0,12,12
+APPROVED,Maputo Cidade,Maputo,Mafalala,0,1,0,0,1,1
+APPROVED,Maputo Cidade,Maputo,Magoanine A,14,7,0,0,21,21
+APPROVED,Maputo Cidade,Maputo,Magoanine B,13,5,0,0,18,18
+APPROVED,Maputo Cidade,Maputo,Magoanine C,49,11,0,0,60,60
+APPROVED,Maputo Cidade,Maputo,Magoanine D,0,1,0,0,1,1
+APPROVED,Maputo Cidade,Maputo,Mahotas,23,5,0,0,28,28
+APPROVED,Maputo Cidade,Maputo,Malanga,5,1,0,0,6,6
+APPROVED,Maputo Cidade,Maputo,Malhangalene A,0,2,0,0,2,2
+APPROVED,Maputo Cidade,Maputo,Malhazine,1,1,0,0,2,2
+APPROVED,Maputo Cidade,Maputo,Mavalane A,1,0,0,0,1,1
+APPROVED,Maputo Cidade,Maputo,Mavalane B,1,1,0,0,2,2
+APPROVED,Maputo Cidade,Maputo,Maxaquene A,4,0,0,0,4,4
+APPROVED,Maputo Cidade,Maputo,Maxaquene B,8,1,0,0,9,9
+APPROVED,Maputo Cidade,Maputo,Maxaquene C,11,1,0,0,12,12
+APPROVED,Maputo Cidade,Maputo,Maxaquene D,13,1,0,0,14,14
+APPROVED,Maputo Cidade,Maputo,Minkadjuine,3,0,0,0,3,3
+APPROVED,Maputo Cidade,Maputo,Muhalaze,1,0,0,0,1,1
+APPROVED,Maputo Cidade,Maputo,Nhagobe,1,0,0,0,1,1
+APPROVED,Maputo Cidade,Maputo,Nhagoi,9,2,0,0,11,11
+APPROVED,Maputo Cidade,Maputo,Nsalene,1,0,0,0,1,1
+APPROVED,Maputo Cidade,Maputo,Polana Caniço A,41,17,0,0,58,58
+APPROVED,Maputo Cidade,Maputo,Polana Caniço B,73,25,0,0,98,98
+APPROVED,Maputo Cidade,Maputo,Polana Cimento A,2,1,0,0,3,3
+APPROVED,Maputo Cidade,Maputo,Sem Bairro,4,1,0,0,5,5
+APPROVED,Maputo Cidade,Maputo,Unidade,2,0,0,0,2,2
+APPROVED,Maputo Cidade,Maputo,Urbanização,2,0,0,0,2,2
+APPROVED,Maputo Cidade,Maputo,Xihango,1,0,0,0,1,1
+APPROVED,Maputo Cidade,Maputo,Xipamanine,3,1,0,0,4,4
+APPROVED,Maputo Cidade,Maputo,Zimpeto,9,6,0,0,15,15
+APPROVED,Maputo Provincia,Boane,Bairro 1,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Boane,Bairro 2,2,0,0,0,2,2
+APPROVED,Maputo Provincia,Boane,Bairro 7,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Boane,Beleluane,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Boane,Campoane,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Boane,Km16,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Boane,Mahubo,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Boane,Matutuine,5,3,0,0,8,8
+APPROVED,Maputo Provincia,Boane,Paulo Samuel Kakomba,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Boane,Xinonaquila,1,1,0,0,2,2
+APPROVED,Maputo Provincia,Kathembe,Chamissava,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Manhiça,Abel Jafar,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Manhiça,Bobole,5,3,0,0,8,8
+APPROVED,Maputo Provincia,Manhiça,Cumbeza,1,1,0,0,2,2
+APPROVED,Maputo Provincia,Manhiça,Guava,9,3,0,0,12,12
+APPROVED,Maputo Provincia,Manhiça,Kubeza,0,1,0,0,1,1
+APPROVED,Maputo Provincia,Manhiça,Marracuene,4,3,0,0,7,7
+APPROVED,Maputo Provincia,Manhiça,Memo 1,0,1,0,0,1,1
+APPROVED,Maputo Provincia,Manhiça,Michafutene,0,1,0,0,1,1
+APPROVED,Maputo Provincia,Manhiça,Pateque,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Marracuene,29 De Setembro,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Marracuene,Agostinho Neto,2,0,0,0,2,2
+APPROVED,Maputo Provincia,Marracuene,Bobole,2,1,0,0,3,3
+APPROVED,Maputo Provincia,Marracuene,Magawanine,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Marracuene,Mateque,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Marracuene,Pustuluane,0,1,0,0,1,1
+APPROVED,Maputo Provincia,Marracuene,Samora Machel,1,1,0,0,2,2
+APPROVED,Maputo Provincia,Marracuene,Santa Isabel,0,1,0,0,1,1
+APPROVED,Maputo Provincia,Marracuene,Zitava,0,1,0,0,1,1
+APPROVED,Maputo Provincia,Matola,1º Maio,1,3,0,0,4,4
+APPROVED,Maputo Provincia,Matola,Bairro 13,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Bairro F,0,1,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Boquisso,8,3,0,0,11,11
+APPROVED,Maputo Provincia,Matola,Bunhissa,5,0,0,0,5,5
+APPROVED,Maputo Provincia,Matola,Cikuama,1,1,0,0,2,2
+APPROVED,Maputo Provincia,Matola,Congolote,7,6,0,0,13,13
+APPROVED,Maputo Provincia,Matola,Fomento,2,2,0,0,4,4
+APPROVED,Maputo Provincia,Matola,Golhoza,3,0,0,0,3,3
+APPROVED,Maputo Provincia,Matola,Infulene,8,1,0,0,9,9
+APPROVED,Maputo Provincia,Matola,Intaka,8,4,0,0,12,12
+APPROVED,Maputo Provincia,Matola,Jonate,0,1,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Khobe,4,1,0,0,5,5
+APPROVED,Maputo Provincia,Matola,Liberdade,14,2,0,0,16,16
+APPROVED,Maputo Provincia,Matola,Machava,11,3,0,0,14,14
+APPROVED,Maputo Provincia,Matola,Malhampsane,3,1,0,0,4,4
+APPROVED,Maputo Provincia,Matola,Mali,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Manjave,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Matibwana,2,1,0,0,3,3
+APPROVED,Maputo Provincia,Matola,Matlhemele,4,1,0,0,5,5
+APPROVED,Maputo Provincia,Matola,Matola A,7,3,0,0,10,10
+APPROVED,Maputo Provincia,Matola,Matola B,0,1,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Matola C,3,2,0,0,5,5
+APPROVED,Maputo Provincia,Matola,Matola D,2,0,0,0,2,2
+APPROVED,Maputo Provincia,Matola,Matola F,3,1,0,0,4,4
+APPROVED,Maputo Provincia,Matola,Matola Gare,7,2,0,0,9,9
+APPROVED,Maputo Provincia,Matola,Matola H,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Matola J,2,0,0,0,2,2
+APPROVED,Maputo Provincia,Matola,Matola Rio,1,2,0,0,3,3
+APPROVED,Maputo Provincia,Matola,Mavoco,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Mozal,3,1,0,0,4,4
+APPROVED,Maputo Provincia,Matola,Mucatine,2,0,0,0,2,2
+APPROVED,Maputo Provincia,Matola,Muhalaze,10,6,0,0,16,16
+APPROVED,Maputo Provincia,Matola,Mulotana,0,1,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Mussumbuluko,2,1,0,0,3,3
+APPROVED,Maputo Provincia,Matola,Ndlavela,7,2,0,0,9,9
+APPROVED,Maputo Provincia,Matola,Patrice Lumumba,6,1,0,0,7,7
+APPROVED,Maputo Provincia,Matola,Santa Isabel,3,1,0,0,4,4
+APPROVED,Maputo Provincia,Matola,Sao Damanso,1,2,0,0,3,3
+APPROVED,Maputo Provincia,Matola,Sem Bairro,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Sidwava,2,0,0,0,2,2
+APPROVED,Maputo Provincia,Matola,T-3,3,1,0,0,4,4
+APPROVED,Maputo Provincia,Matola,Tchumene 2,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Tenga,2,1,0,0,3,3
+APPROVED,Maputo Provincia,Matola,Trevo,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Tsalala,6,2,0,0,8,8
+APPROVED,Maputo Provincia,Matola,Unidade D,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Unidade H,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Xiboene,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Zilinga,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Matola,Zona Verde,7,2,0,0,9,9
+APPROVED,Maputo Provincia,Matutuine,Bairo B,0,1,0,0,1,1
+APPROVED,Maputo Provincia,Matutuine,Bela Vista,14,1,0,0,15,15
+APPROVED,Maputo Provincia,Matutuine,Goboza,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Matutuine,Inkassane,0,1,0,0,1,1
+APPROVED,Maputo Provincia,Matutuine,Missevene,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Matutuine,Ponta De Ouro,3,1,0,0,4,4
+APPROVED,Maputo Provincia,Matutuine,Salamanga,1,2,0,0,3,3
+APPROVED,Maputo Provincia,Matutuine,Sonho Rural,15,7,0,0,22,22
+APPROVED,Maputo Provincia,Namaacha,Bairo A,3,0,0,0,3,3
+APPROVED,Maputo Provincia,Namaacha,Bairro 1,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Namaacha,Bairro B,1,0,0,0,1,1
+APPROVED,Maputo Provincia,Namaacha,Fronteira,2,0,0,0,2,2
+APPROVED,Maputo Provincia,Namaacha,Goba,5,0,0,0,5,5
+APPROVED,Maputo Provincia,Namaacha,Mahelane,10,3,0,0,13,13
+APPROVED,Maputo Provincia,Namaacha,Sonho Rural,12,4,0,0,16,16
+APPROVED,Sofala,Beira,Bambu,1,0,0,0,1,1
+APPROVED,Sofala,Beira,Chanhisse,1,0,0,0,1,1
+APPROVED,Sofala,Beira,Chipangara 1,9,2,0,0,11,11
+APPROVED,Sofala,Beira,Chipangara 2,24,5,0,0,29,29
+APPROVED,Sofala,Beira,Chota,3,0,0,0,3,3
+APPROVED,Sofala,Beira,Decimo Bairro,2,0,0,0,2,2
+APPROVED,Sofala,Beira,Decimo Segundo Bairro,1,0,0,0,1,1
+APPROVED,Sofala,Beira,Esturro,1,0,0,0,1,1
+APPROVED,Sofala,Beira,Goto,1,2,0,0,3,3
+APPROVED,Sofala,Beira,Inhamizua,7,0,0,0,7,7
+APPROVED,Sofala,Beira,Macamilo,0,1,0,0,1,1
+APPROVED,Sofala,Beira,Macurungo,11,0,0,0,11,11
+APPROVED,Sofala,Beira,Malanga,7,3,0,0,10,10
+APPROVED,Sofala,Beira,Manga,5,5,0,0,10,10
+APPROVED,Sofala,Beira,Maraza,7,0,0,0,7,7
+APPROVED,Sofala,Beira,Mascarenha,1,0,0,0,1,1
+APPROVED,Sofala,Beira,Matacuane,10,1,0,0,11,11
+APPROVED,Sofala,Beira,Muchatavina,1,0,0,0,1,1
+APPROVED,Sofala,Beira,Munhava,35,9,0,0,44,44
+APPROVED,Sofala,Beira,Pioneiros,1,0,0,0,1,1
+APPROVED,Sofala,Beira,Ponta Gea,3,0,0,0,3,3
+APPROVED,Sofala,Beira,Quinto Bairro,0,1,0,0,1,1
+APPROVED,Sofala,Beira,Segundo Bairro,1,0,0,0,1,1
+APPROVED,Sofala,Beira,Sem Bairro,2,0,0,0,2,2
+APPROVED,Sofala,Beira,Sonho Rural,34,15,0,0,49,49
+APPROVED,Sofala,Beira,Tanqui,0,1,0,0,1,1
+APPROVED,Zambézia,Nicoadala,Chagueiva,1,0,0,0,1,1
+APPROVED,Zambézia,Nicoadala,Chico,1,0,0,0,1,1
+APPROVED,Zambézia,Nicoadala,Domela,1,0,0,0,1,1
+APPROVED,Zambézia,Nicoadala,Magodone,2,0,0,0,2,2
+APPROVED,Zambézia,Nicoadala,Munhonha,1,1,0,0,2,2
+APPROVED,Zambézia,Nicoadala,Namacata 7,1,0,0,0,1,1
+APPROVED,Zambézia,Nicoadala,Nhamacata Disrtito De Nicoadala,1,0,0,0,1,1
+APPROVED,Zambézia,Nicoadala,Nherire,4,0,0,0,4,4
+APPROVED,Zambézia,Nicoadala,Sonho Rural,27,7,0,0,34,34
+APPROVED,Zambézia,Quelimane,A,0,1,0,0,1,1
+APPROVED,Zambézia,Quelimane,Acordos De Lusaka,1,2,0,0,3,3
+APPROVED,Zambézia,Quelimane,Amoru,0,1,0,0,1,1
+APPROVED,Zambézia,Quelimane,Bazar,2,0,0,0,2,2
+APPROVED,Zambézia,Quelimane,Chico,0,1,0,0,1,1
+APPROVED,Zambézia,Quelimane,Coalane Segundo,1,0,0,0,1,1
+APPROVED,Zambézia,Quelimane,Domela,1,0,0,0,1,1
+APPROVED,Zambézia,Quelimane,Fanquene,1,0,0,0,1,1
+APPROVED,Zambézia,Quelimane,Manhawa B,1,0,0,0,1,1
+APPROVED,Zambézia,Quelimane,Matiazua,2,0,0,0,2,2
+APPROVED,Zambézia,Quelimane,Matuazia Saguare,1,0,0,0,1,1
+APPROVED,Zambézia,Quelimane,Mocuba,0,1,0,0,1,1
+APPROVED,Zambézia,Quelimane,Munhambane,1,0,0,0,1,1
+APPROVED,Zambézia,Quelimane,Munhambone,1,1,0,0,2,2
+APPROVED,Zambézia,Quelimane,Namunho,1,0,0,0,1,1
+APPROVED,Zambézia,Quelimane,Ngololo,1,1,0,0,2,2
+APPROVED,Zambézia,Quelimane,Nhamakata,1,0,0,0,1,1
+APPROVED,Zambézia,Quelimane,Nhambone,1,0,0,0,1,1
+APPROVED,Zambézia,Quelimane,Sampene,2,0,0,0,2,2
+APPROVED,Zambézia,Quelimane,Sonho Rural,11,2,0,0,13,13
+APPROVED,Zambézia,Zavala,Muchelene,1,0,0,0,1,1
